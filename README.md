@@ -12,6 +12,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [一个方便你在App里使用自定义字体的库](https://github.com/vsvankhede/easyfonts)
  * [TextView文本改变动画](https://github.com/z56402344/AnimTextView)
  * [Textview电影特效](https://github.com/Rogero0o/MatchView)
+ * [LyricView：歌词Textview](https://github.com/markzhai/LyricView)
 *  ImageView
  * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
  * [一个给图片加标签的库，如热销等等](https://github.com/H07000223/FlycoLabelView/blob/master/README_CN.md)
@@ -25,6 +26,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
  * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
  * [Edit作为Listview的Iteam](https://github.com/Aspsine/EditTextInListView)
+ * [通过眼睛切换密码可见 ](https://github.com/lisawray/passwordview)
 *  Button
  * [一个Button分成两部分效果](https://github.com/yankai-victor/RingButton) 
 *  CheckBox
@@ -97,7 +99,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView](https://github.com/kingideayou/SlideBottomPanel)
  * [一个带有展开和折叠动画的Spinner](https://github.com/arcadefire/nice-spinner)
 *  Material Design
-	*  [android material design 风格项目整理](https://github.com/soyoungboy/android-material-design-Open-source-projects)
+ * [android material design 风格项目整理](https://github.com/soyoungboy/android-material-design-Open-source-projects)
  * [演示Material Design控件的使用](https://github.com/chenyangcun/MaterialDesignExample) 
  * [Material Design控件demo演示](https://github.com/rey5137/material)
  * [CoordinatorLayoutDemos](https://github.com/sungerk/CoordinatorLayoutDemos)
