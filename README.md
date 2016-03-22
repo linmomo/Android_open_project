@@ -38,7 +38,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [可定制的圆形进度条，通过xml参数配置可实现QQ健康中步数的弧形进度显示、仪盘表显示速度、最常见的下载进度条等功能](https://github.com/Shinelw/ColorArcProgressBar/blob/master/README_CHINESE.md)
  * [layout中的进度条](https://github.com/iammert/ProgressLayout)
 *  ScrollView
- * [android仿京东、淘宝商品详情页上拉查看详情](https://github.com/ysnows/DoubleScrollVIew) 
 *  RecyclerView
   * [一个支持可伸缩头部的布局](https://github.com/hongyangAndroid/Android-StickyNavLayout)
   * [一个简单的RecyclerView items动画库](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
@@ -58,8 +57,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
   *  [带头尾的gridview](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter/blob/master/README-cn.md)
 * ListView PullToRefresh  
-	* [安卓下拉刷新开源库对比](https://github.com/desmond1121/Android-Ptr-Comparison) 
-	* [Android下拉刷新开源库集锦，提供源码用于学习和研究](https://github.com/TellH/Android_PullToRefreshLibrary_Collection)
+ * [安卓下拉刷新开源库对比](https://github.com/desmond1121/Android-Ptr-Comparison) 
+ * [Android下拉刷新开源库集锦，提供源码用于学习和研究](https://github.com/TellH/Android_PullToRefreshLibrary_Collection)
  * [Material下拉刷新效果](https://github.com/android-cjj/Android-MaterialRefreshLayout/blob/master/README-cn.md)
  * [A Custom SwipeRefreshLayout.自定义HeaderView和FooterView，支持下拉刷新和上拉加载更多](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout)
  * [在android-Ultra-Pull-To-Refresh的基础上增加了加载更多的支持](https://github.com/Chanven/CommonPullToRefresh)
@@ -67,11 +66,11 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [在Chris Banes的Android-PullToRefresh的基础上增加了RecyclerView的支持与Demo](https://github.com/bboyfeiyu/Chris-Android-PullToRefresh)
  * [模仿SwipeRefreshLayout实现的下拉刷新库](https://github.com/biezhihua/RefreshLayout-YYT)
 * Adapter
-	*  [Android 万能的Adapter for ListView,GridView等，支持多种Item类型的情况](https://github.com/hongyangAndroid/base-adapter)
-	*  [FastAdapter](https://github.com/mikepenz/FastAdapter)
-	*  [一个封装了BaseAdapter和RecyclerView.Adapter的简洁的Adapter](https://github.com/byteam/SuperAdapter/blob/master/README-zh-rCN.md)
-	*  [通用的ListView、RecyclerView的Adapter](https://github.com/bboyfeiyu/commonadapter)
-	*  [通过封装BaseAdapter和RecyclerView.Adapter得到的通用的，简易的Adapter](https://github.com/tianzhijiexian/CommonAdapter)
+ *  [Android 万能的Adapter for ListView,GridView等，支持多种Item类型的情况](https://github.com/hongyangAndroid/base-adapter)
+ *  [FastAdapter](https://github.com/mikepenz/FastAdapter)
+ *  [一个封装了BaseAdapter和RecyclerView.Adapter的简洁的Adapter](https://github.com/byteam/SuperAdapter/blob/master/README-zh-rCN.md)
+ *  [通用的ListView、RecyclerView的Adapter](https://github.com/bboyfeiyu/commonadapter)
+ *  [通过封装BaseAdapter和RecyclerView.Adapter得到的通用的，简易的Adapter](https://github.com/tianzhijiexian/CommonAdapter)
 *  ViewPager
  *  [对 ViewPager 的一个横向扩展，Page 可宽可窄，表现很像 Gallelry](https://github.com/Pixplicity/MultiViewPager)
  *  [一个带HeadView的ViewPager，可滚动可固定](https://github.com/XavierSAndroid/MagicHeaderViewPager)
@@ -148,12 +147,12 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [一个简单的Banner轮播](https://github.com/sayyam/carouselview)
   *  [一些 indicator样式](https://github.com/ongakuer/CircleIndicator) 
 * CountDown
-	* [TextureView仿手淘倒计时](https://github.com/CaMnter/EasyCountDownTextureView)
-	* [倒计时控件](https://github.com/iwgang/CountdownView/blob/master/README_CN.md)   
+ * [TextureView仿手淘倒计时](https://github.com/CaMnter/EasyCountDownTextureView)
+ * [倒计时控件](https://github.com/iwgang/CountdownView/blob/master/README_CN.md)   
 *  Guide
-	* [ 用于app指向性功能高亮的库](https://github.com/hongyangAndroid/Highlight)
-	* [引导页](https://github.com/RubenGees/Introduction)
-	* [WoWo可以优化你的App介绍/引导页面，WoWo将动画和viewpager结合起来。](https://github.com/Nightonke/WoWoViewPager)
+ * [ 用于app指向性功能高亮的库](https://github.com/hongyangAndroid/Highlight)
+ * [引导页](https://github.com/RubenGees/Introduction)
+ * [WoWo可以优化你的App介绍/引导页面，WoWo将动画和viewpager结合起来。](https://github.com/Nightonke/WoWoViewPager)
 * Theme
  * [日夜间模式切换](https://github.com/zzz40500/ThemeDemo)
  * [基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式](https://github.com/bboyfeiyu/Colorful)
@@ -163,11 +162,12 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * Other 
   * [可展开/隐藏子view的layout](https://github.com/AAkira/ExpandableLayout) 
    * [一个扩展原生控件支持圆角矩形框背景的库,可以减少相关shape资源文件使用](https://github.com/H07000223/FlycoRoundView)
-	* [ 大图作为header跟随手指向上滑动，下拉展示大图](https://github.com/w4lle/PullDownView)
-	* [毛玻璃效果的解锁界面](https://github.com/Nightonke/BlurLockView/blob/master/README-ZH.md)
-	* [仿照淘宝和聚美优品，在商品详情页，向上拖动时，可以加载下一页](https://github.com/xmuSistone/android-vertical-slide-view)
-	* [设置购买数量的View](https://github.com/himanshu-soni/QuantityView)
-	* [是一个实现树形内容展示的库](https://github.com/Telenav/NodeFlow)
+   * [ 大图作为header跟随手指向上滑动，下拉展示大图](https://github.com/w4lle/PullDownView)
+   * [毛玻璃效果的解锁界面](https://github.com/Nightonke/BlurLockView/blob/master/README-ZH.md)
+   * [android仿京东、淘宝商品详情页上拉查看详情](https://github.com/ysnows/DoubleScrollVIew) 
+   * [仿照淘宝和聚美优品，在商品详情页，向上拖动时，可以加载下一页](https://github.com/xmuSistone/android-vertical-slide-view)
+   * [设置购买数量的View](https://github.com/himanshu-soni/QuantityView)
+   * [是一个实现树形内容展示的库](https://github.com/Telenav/NodeFlow)
  
 ##**工具类**
 
@@ -177,22 +177,23 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [一个聊天的输入框，包含文字，语音和图片功能](https://github.com/liangzhitao/MessageSend)
  * [websocket微信聊天不是事](https://github.com/TooTallNate/Java-WebSocket)
  * [仿微信实现的朋友圈，模拟与后台交互实现了点赞、评论、删除等功能，listview可以根据键盘的显示或隐藏实现联动](https://github.com/Naoki2015/CircleDemo)
+ * [一个让你的Android应用支持emoji的库](https://github.com/vanniktech/Emoji)
 * PhotoEdit
-	* [截取圆形图片，可缩放](https://github.com/hpfs0/DragScaleCircleView)
-	* [一个图片裁剪库](https://github.com/Yalantis/uCrop)
-	* [一个简单的图片裁剪库](https://github.com/IsseiAoki/SimpleCropView)
-	* [图片处理sdk，包含各种图片处理功能](https://github.com/jarlen/PhotoEditDemo)
-	* [马赛克效果](https://github.com/coderkiss/ProMosaic)
+ * [截取圆形图片，可缩放](https://github.com/hpfs0/DragScaleCircleView)
+ * [一个图片裁剪库](https://github.com/Yalantis/uCrop)
+ * [一个简单的图片裁剪库](https://github.com/IsseiAoki/SimpleCropView)
+ * [图片处理sdk，包含各种图片处理功能](https://github.com/jarlen/PhotoEditDemo)
+ * [马赛克效果](https://github.com/coderkiss/ProMosaic)
  * [打码效果](https://github.com/DanielMartinus/Pixelate)
 * DownLoad
  *  [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
  *  [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
  *  [Android 文件下载引擎，稳定、高效、简单易用](https://github.com/lingochamp/FileDownloader/blob/master/README-zh.md)
 * Video/Audio
-	* [仿网易新闻视频播放](https://github.com/xiongwei-git/AndroidVideoPlayer)
-	* [安卓视频播放器 全屏 播放器列表全屏 仿今日头条UI](https://github.com/lipangit/jiecaovideoplayer/blob/develop/README-ZH.md)
-	* [android视频播放器](https://github.com/SinaVDDeveloper/sinavideo_playersdk)
-	* [Android声音录制和播放封装库](https://github.com/Piasy/RxAndroidAudio)
+ * [仿网易新闻视频播放](https://github.com/xiongwei-git/AndroidVideoPlayer)
+ * [安卓视频播放器 全屏 播放器列表全屏 仿今日头条UI](https://github.com/lipangit/jiecaovideoplayer/blob/develop/README-ZH.md)
+ * [android视频播放器](https://github.com/SinaVDDeveloper/sinavideo_playersdk)
+ * [Android声音录制和播放封装库](https://github.com/Piasy/RxAndroidAudio)
 * Other 
  * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
  * [android下自定义View之雷达扫描 ](https://github.com/gpfduoduo/RadarScanView)
