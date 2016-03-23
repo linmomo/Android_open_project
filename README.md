@@ -38,6 +38,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [可定制的圆形进度条，通过xml参数配置可实现QQ健康中步数的弧形进度显示、仪盘表显示速度、最常见的下载进度条等功能](https://github.com/Shinelw/ColorArcProgressBar/blob/master/README_CHINESE.md)
  * [layout中的进度条](https://github.com/iammert/ProgressLayout)
 *  ScrollView
+ *  [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
 *  RecyclerView
   * [一个支持可伸缩头部的布局](https://github.com/hongyangAndroid/Android-StickyNavLayout)
   * [一个简单的RecyclerView items动画库](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
