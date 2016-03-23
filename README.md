@@ -112,6 +112,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [页面过渡动画](https://github.com/linfaxin/TransitionPlayer)
  * [简单的创建属性动画](https://github.com/robinxdroid/XDroidAnimation)
  * [Android Easing 函数库，动画](https://github.com/MasayukiSuda/EasingInterpolator)
+ * [一个给SVG添加动画的库](https://github.com/glomadrian/RoadRunner)
 
 ##**自定义控件**
 
