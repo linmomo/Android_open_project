@@ -98,6 +98,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView](https://github.com/kingideayou/SlideBottomPanel)
  * [一个带有展开和折叠动画的Spinner](https://github.com/arcadefire/nice-spinner)
 *  Material Design
+ * [一个兼容android 2.2material design组件库](https://github.com/navasmdc/MaterialDesignLibrary)
  * [android material design 风格项目整理](https://github.com/soyoungboy/android-material-design-Open-source-projects)
  * [演示Material Design控件的使用](https://github.com/chenyangcun/MaterialDesignExample) 
  * [Material Design控件demo演示](https://github.com/rey5137/material)
