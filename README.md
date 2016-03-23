@@ -194,6 +194,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [安卓视频播放器 全屏 播放器列表全屏 仿今日头条UI](https://github.com/lipangit/jiecaovideoplayer/blob/develop/README-ZH.md)
  * [android视频播放器](https://github.com/SinaVDDeveloper/sinavideo_playersdk)
  * [Android声音录制和播放封装库](https://github.com/Piasy/RxAndroidAudio)
+ * [https://github.com/linsea/OpenDanmaku](一个Android的弹幕控件)
 * Other 
  * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
  * [android下自定义View之雷达扫描 ](https://github.com/gpfduoduo/RadarScanView)
