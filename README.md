@@ -126,6 +126,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  *  [自定义的TabLayout](https://github.com/nimengbo/CustomSlidngTabLayout)
   * [侧滑菜单，可自定义左中右](https://github.com/flyfei/CustomMenu/blob/master/README_CN.md) 
   * [Material风格侧滑菜单](https://github.com/mikepenz/MaterialDrawer)
+  * [自定义Material Design Bottom Navigation](https://github.com/roughike/BottomBar)
 *  TipView/Tag
  * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
  * [仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”](https://github.com/Qiaoidea/QQTipsView)
