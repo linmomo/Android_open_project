@@ -147,10 +147,11 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [各种各样Loading动画](https://github.com/81813780/AVLoadingIndicatorView) 
  * [一个贝塞尔曲线实现的利用圆球拖拽粘连动画效果的加载进度条](https://github.com/dodola/MetaballLoading)
 * Banner
- * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
+  * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
   *  [轮播Banner](https://github.com/waylife/InfiniteViewPager/blob/master/README_ZH.md)
   *  [一个简单的Banner轮播](https://github.com/sayyam/carouselview)
   *  [一些 indicator样式](https://github.com/ongakuer/CircleIndicator) 
+  *  [一个好的广告轮播](https://github.com/H07000223/FlycoBanner_Master/blob/master/README_CN.md)
 * CountDown
  * [TextureView仿手淘倒计时](https://github.com/CaMnter/EasyCountDownTextureView)
  * [倒计时控件](https://github.com/iwgang/CountdownView/blob/master/README_CN.md)   
