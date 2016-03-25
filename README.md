@@ -127,6 +127,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [侧滑菜单，可自定义左中右](https://github.com/flyfei/CustomMenu/blob/master/README_CN.md) 
   * [Material风格侧滑菜单](https://github.com/mikepenz/MaterialDrawer)
   * [自定义Material Design Bottom Navigation](https://github.com/roughike/BottomBar)
+  * [Youtube Gaming inspired Tabs](https://github.com/saiff35/LivingTabs)
 *  TipView/Tag
  * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
  * [仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”](https://github.com/Qiaoidea/QQTipsView)
@@ -184,6 +185,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [websocket微信聊天不是事](https://github.com/TooTallNate/Java-WebSocket)
  * [仿微信实现的朋友圈，模拟与后台交互实现了点赞、评论、删除等功能，listview可以根据键盘的显示或隐藏实现联动](https://github.com/Naoki2015/CircleDemo)
  * [一个让你的Android应用支持emoji的库](https://github.com/vanniktech/Emoji)
+ * [开源表情键盘解决方案。](https://github.com/w446108264/XhsEmoticonsKeyboard)
 * PhotoEdit
  * [截取圆形图片，可缩放](https://github.com/hpfs0/DragScaleCircleView)
  * [一个图片裁剪库](https://github.com/Yalantis/uCrop)
