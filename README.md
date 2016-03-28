@@ -33,6 +33,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [Android键盘面板冲突 布局闪动处理方案](https://github.com/Jacksgong/JKeyboardPanelSwitch)
 *  Button
  * [一个Button分成两部分效果](https://github.com/yankai-victor/RingButton) 
+ * [连续组合点击](https://github.com/brucetoo/ComboView)
 *  CheckBox
  * [自定义动画checkbox](https://github.com/andyxialm/SmoothCheckBox) 
  * [带动画的Checkbox](https://github.com/lguipeng/AnimCheckBox)
@@ -216,6 +217,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [android视频播放器](https://github.com/SinaVDDeveloper/sinavideo_playersdk)
  * [Android声音录制和播放封装库](https://github.com/Piasy/RxAndroidAudio)
  * [https://github.com/linsea/OpenDanmaku](一个Android的弹幕控件)
+ * [VideoListPlayer实现了在列表控件（ListView, RecyclerView）中加载并播放视频，并支持滑动时自动播放/暂停的功能
+
+利用该项目，可以轻松实现类似Instagram的视频播放功能](https://github.com/waynell/VideoListPlayer)
 * Other 
  * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
  * [android下自定义View之雷达扫描 ](https://github.com/gpfduoduo/RadarScanView)
