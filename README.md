@@ -59,6 +59,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个RecyclerView可以添加头部和底部的类库](https://github.com/kk-java/HeaderFooterRecyclerView)
   * [一种新的实现RecyclerViewHeadView的方法](https://github.com/drakeet/RecyclerViewWithHeaderNewPractice)
   * [RecyclerViewManager支持上下拉刷新及点击事件](https://github.com/Syehunter/RecyclerViewManager)
+  * [一个下拉放大的RecyclerView](https://github.com/dinuscxj/PullZoomRecyclerView)
 * GridView
   *  [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
   *  [带头尾的gridview](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter/blob/master/README-cn.md)
