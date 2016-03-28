@@ -30,6 +30,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [通过眼睛切换密码可见 ](https://github.com/lisawray/passwordview)
  * [可以给 EditText 输入文字时给输入的文字添加各种动画效果的库](https://github.com/alphamu/AnimatedEditText)
  * [一个可以监控到软键盘打开关闭的库](https://github.com/AzimoLabs/AndroidKeyboardWatcher)
+ * [Android键盘面板冲突 布局闪动处理方案](https://github.com/Jacksgong/JKeyboardPanelSwitch)
 *  Button
  * [一个Button分成两部分效果](https://github.com/yankai-victor/RingButton) 
 *  CheckBox
@@ -184,6 +185,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [仿照淘宝和聚美优品，在商品详情页，向上拖动时，可以加载下一页](https://github.com/xmuSistone/android-vertical-slide-view)
    * [设置购买数量的View](https://github.com/himanshu-soni/QuantityView)
    * [是一个实现树形内容展示的库](https://github.com/Telenav/NodeFlow)
+   * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
  
 ##**工具类**
 
