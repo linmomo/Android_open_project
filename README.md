@@ -200,6 +200,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [一个让你的Android应用支持emoji的库](https://github.com/vanniktech/Emoji)
  * [开源表情键盘解决方案。](https://github.com/w446108264/XhsEmoticonsKeyboard)
  * [一个实现了可以渲染 Emoji 的库](https://github.com/hani-momanii/SuperNova-Emoji)
+ * [仿QQ输入关键字 表情掉落](https://github.com/CyjAndroid/EmojiDrop/tree/master)
 * PhotoEdit
  * [截取圆形图片，可缩放](https://github.com/hpfs0/DragScaleCircleView)
  * [一个图片裁剪库](https://github.com/Yalantis/uCrop)
