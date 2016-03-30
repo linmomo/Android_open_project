@@ -99,6 +99,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [按钮弹出环绕按钮](https://github.com/anshulagarwal2k/GooeyMenu)
  * [底部滑出菜单](https://github.com/soarcn/BottomSheet)
  * [BoomMenu可以让你的菜单按钮 ... 瞬间爆炸！](https://github.com/Nightonke/BoomMenu/blob/master/README-ZH.md)
+ * [类似FloatingActionButton的可扩展和收缩列表项的库](https://github.com/Karumi/ExpandableSelector)
 * DiaLog/PopWindow/Spinner
  * [一行代码实现提示对话框，指定元素](https://github.com/michaelye/EasyDialog)
  * [dialogPlus](https://github.com/orhanobut/dialogplus)
