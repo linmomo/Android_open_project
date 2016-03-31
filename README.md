@@ -79,6 +79,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  *  [一个封装了BaseAdapter和RecyclerView.Adapter的简洁的Adapter](https://github.com/byteam/SuperAdapter/blob/master/README-zh-rCN.md)
  *  [通用的ListView、RecyclerView的Adapter](https://github.com/bboyfeiyu/commonadapter)
  *  [通过封装BaseAdapter和RecyclerView.Adapter得到的通用的，简易的Adapter](https://github.com/tianzhijiexian/CommonAdapter)
+ *  [android速构adapter神器](https://github.com/ThePacific/adapter)
 *  ViewPager
  *  [对 ViewPager 的一个横向扩展，Page 可宽可窄，表现很像 Gallelry](https://github.com/Pixplicity/MultiViewPager)
  *  [一个带HeadView的ViewPager，可滚动可固定](https://github.com/XavierSAndroid/MagicHeaderViewPager)
