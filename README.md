@@ -73,6 +73,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位](https://github.com/bingoogolapple/BGARefreshLayout-Android)
  * [在Chris Banes的Android-PullToRefresh的基础上增加了RecyclerView的支持与Demo](https://github.com/bboyfeiyu/Chris-Android-PullToRefresh)
  * [模仿SwipeRefreshLayout实现的下拉刷新库](https://github.com/biezhihua/RefreshLayout-YYT)
+ * [众多优秀的下拉刷新](https://github.com/android-cjj/BeautifulRefreshLayout)
 * Adapter
  *  [Android 万能的Adapter for ListView,GridView等，支持多种Item类型的情况](https://github.com/hongyangAndroid/base-adapter)
  *  [FastAdapter](https://github.com/mikepenz/FastAdapter)
