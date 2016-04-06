@@ -231,3 +231,4 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * [一个很棒的UI/UX 列表，包含各种控件](https://github.com/wasabeef/awesome-android-ui)
 * [Trinea大神整理的开源项目库](https://github.com/Trinea/android-open-project)
 * [又一个UI控件列表](https://github.com/yeungeek/awesome-android-ui)
+* [正在成为史上最全分类Android开源代码大全](https://github.com/XXApple/AndroidLibs)
