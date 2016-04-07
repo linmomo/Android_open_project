@@ -142,6 +142,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Material Bottom Navigation 实现](https://github.com/armcha/LuseenBottomNavigation)
   * [Material Bottom Navigation 实现](https://github.com/krpiotrek/BottomNavigation)
   * [Youtube Gaming inspired Tabs](https://github.com/saiff35/LivingTabs)
+  * [丰富多彩的导航栏](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
 *  TipView/Tag
  * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
  * [仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”](https://github.com/Qiaoidea/QQTipsView)
