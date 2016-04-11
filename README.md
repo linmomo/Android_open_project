@@ -61,6 +61,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一种新的实现RecyclerViewHeadView的方法](https://github.com/drakeet/RecyclerViewWithHeaderNewPractice)
   * [RecyclerViewManager支持上下拉刷新及点击事件](https://github.com/Syehunter/RecyclerViewManager)
   * [一个下拉放大的RecyclerView](https://github.com/dinuscxj/PullZoomRecyclerView)
+  * [Recyclerview间隔线](https://github.com/dinuscxj/RecyclerItemDecoration)
 * GridView
   *  [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
   *  [带头尾的gridview](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter/blob/master/README-cn.md)
@@ -142,10 +143,11 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Material Bottom Navigation 实现](https://github.com/armcha/LuseenBottomNavigation)
   * [Material Bottom Navigation 实现](https://github.com/krpiotrek/BottomNavigation)
   * [Youtube Gaming inspired Tabs](https://github.com/saiff35/LivingTabs)
-  * [丰富多彩的导航栏](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
+  * [酷炫多彩的互动导航标签栏](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
 *  TipView/Tag
  * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
  * [仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”](https://github.com/Qiaoidea/QQTipsView)
+ * [带拖拽效果的红点提示控件](https://github.com/siwangqishiq/DragIndicatorView)
  * [各个位置未读消息及设置各种徽章样式](https://github.com/bingoogolapple/BGABadgeView-Android/blob/master/README.md)
  * [ 消息提醒数目标记](https://github.com/stefanjauker/BadgeView)
  * [自定义TagView，并且可拖拽](https://github.com/whilu/AndroidTagView)
@@ -192,6 +194,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [设置购买数量的View](https://github.com/himanshu-soni/QuantityView)
    * [是一个实现树形内容展示的库](https://github.com/Telenav/NodeFlow)
    * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
+   * [一个可自定义子控件大小及位置、相等大小的子控件间可通过拖动交换位置的ViewGroup](https://github.com/alivebao/FreeSizeDraggableLayout)
  
 ##**工具类**
 
