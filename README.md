@@ -196,6 +196,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [是一个实现树形内容展示的库](https://github.com/Telenav/NodeFlow)
    * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
    * [一个可自定义子控件大小及位置、相等大小的子控件间可通过拖动交换位置的ViewGroup](https://github.com/alivebao/FreeSizeDraggableLayout)
+   * [一个轻量的ProgressLayout，能够帮助你实现“加载中”、“无内容”，“网络错误”，“加载失败”等不同场景下的页面切换与展示，并且支持点击页面重试。](https://github.com/LianjiaTech/ProgressLayout)
  
 ##**工具类**
 
