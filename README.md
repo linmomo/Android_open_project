@@ -23,6 +23,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [ Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能](https://github.com/LuckyJayce/LargeImage)
  * [类似微博微信显示图片的九宫格控件](https://github.com/laobie/NineGridImageView)
  * [图片加一个点赞效果](https://github.com/wuchangfeng/AnimstorSetTest)
+ * [一个扩展原生控件支持圆角矩形框背景的库,可以减少相关shape资源文件使用](https://github.com/H07000223/FlycoRoundView)
 * EditText
  * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
  * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -62,6 +63,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [RecyclerViewManager支持上下拉刷新及点击事件](https://github.com/Syehunter/RecyclerViewManager)
   * [一个下拉放大的RecyclerView](https://github.com/dinuscxj/PullZoomRecyclerView)
   * [Recyclerview间隔线](https://github.com/dinuscxj/RecyclerItemDecoration)
+  * [简单的Recyclerview侧边栏，类通讯录侧边](https://github.com/CaMnter/EasyRecyclerViewSidebar)
 * GridView
   *  [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
   *  [带头尾的gridview](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter/blob/master/README-cn.md)
@@ -103,6 +105,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [底部滑出菜单](https://github.com/soarcn/BottomSheet)
  * [BoomMenu可以让你的菜单按钮 ... 瞬间爆炸！](https://github.com/Nightonke/BoomMenu/blob/master/README-ZH.md)
  * [类似FloatingActionButton的可扩展和收缩列表项的库](https://github.com/Karumi/ExpandableSelector)
+ * [仿tumblr的FloatingActionButton的菜单打开动画 ](https://github.com/tiancaiCC/SpringFloatingActionMenu)
+ * [仿美团糯米下拉菜单列表](https://github.com/sungerk/DropDownLayout)
 * DiaLog/PopWindow/Spinner
  * [一行代码实现提示对话框，指定元素](https://github.com/michaelye/EasyDialog)
  * [dialogPlus](https://github.com/orhanobut/dialogplus)
@@ -166,6 +170,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [各种各样Loading动画](https://github.com/81813780/AVLoadingIndicatorView) 
  * [一个贝塞尔曲线实现的利用圆球拖拽粘连动画效果的加载进度条](https://github.com/dodola/MetaballLoading)
  * [各种 Loading 动画效果](https://github.com/ybq/Android-SpinKit)
+ * [自定义loading动画](https://github.com/dinuscxj/LoadingDrawable)
 * Banner
   * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
   *  [轮播Banner](https://github.com/waylife/InfiniteViewPager/blob/master/README_ZH.md)
@@ -187,7 +192,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [夜间模式](https://github.com/ashqal/NightOwl)
 * Other 
   * [可展开/隐藏子view的layout](https://github.com/AAkira/ExpandableLayout) 
-   * [一个扩展原生控件支持圆角矩形框背景的库,可以减少相关shape资源文件使用](https://github.com/H07000223/FlycoRoundView)
    * [ 大图作为header跟随手指向上滑动，下拉展示大图](https://github.com/w4lle/PullDownView)
    * [毛玻璃效果的解锁界面](https://github.com/Nightonke/BlurLockView/blob/master/README-ZH.md)
    * [android仿京东、淘宝商品详情页上拉查看详情](https://github.com/ysnows/DoubleScrollVIew) 
@@ -197,6 +201,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
    * [一个可自定义子控件大小及位置、相等大小的子控件间可通过拖动交换位置的ViewGroup](https://github.com/alivebao/FreeSizeDraggableLayout)
    * [一个轻量的ProgressLayout，能够帮助你实现“加载中”、“无内容”，“网络错误”，“加载失败”等不同场景下的页面切换与展示，并且支持点击页面重试。](https://github.com/LianjiaTech/ProgressLayout)
+   * [显示url的view](https://github.com/kaelaela/OpenGraphView)
  
 ##**工具类**
 
