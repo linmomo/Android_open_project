@@ -44,6 +44,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [可定制的圆形进度条，通过xml参数配置可实现QQ健康中步数的弧形进度显示、仪盘表显示速度、最常见的下载进度条等功能](https://github.com/Shinelw/ColorArcProgressBar/blob/master/README_CHINESE.md)
  * [layout中的进度条](https://github.com/iammert/ProgressLayout)
  * [圆弧进度条](https://github.com/GIGAMOLE/ArcProgressStackView)
+ * [动画的水平进度条](https://github.com/MasayukiSuda/AnimateHorizontalProgressBar)
 *  ScrollView
  *  [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
 *  RecyclerView
@@ -170,7 +171,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [各种各样Loading动画](https://github.com/81813780/AVLoadingIndicatorView) 
  * [一个贝塞尔曲线实现的利用圆球拖拽粘连动画效果的加载进度条](https://github.com/dodola/MetaballLoading)
  * [各种 Loading 动画效果](https://github.com/ybq/Android-SpinKit)
- * [自定义loading动画](https://github.com/dinuscxj/LoadingDrawable)
+ * [能够和任何view结合的加载动画](https://github.com/dinuscxj/LoadingDrawable)
 * Banner
   * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
   *  [轮播Banner](https://github.com/waylife/InfiniteViewPager/blob/master/README_ZH.md)
