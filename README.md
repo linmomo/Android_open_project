@@ -158,6 +158,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [ 消息提醒数目标记](https://github.com/stefanjauker/BadgeView)
  * [自定义TagView，并且可拖拽](https://github.com/whilu/AndroidTagView)
  * [Android流式布局，支持单选、多选等，适合用于产品标签等](https://github.com/hongyangAndroid/FlowLayout)
+ * [又一个标签布局](https://github.com/lankton/android-flowlayout)
 * Gallery
  * [让图像呈现gallery显示效果](https://github.com/lawloretienne/ImageGallery) 
  * [Android CoverFlow widget](https://github.com/moondroid/CoverFlow)
@@ -223,6 +224,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [图片处理sdk，包含各种图片处理功能](https://github.com/jarlen/PhotoEditDemo)
  * [马赛克效果](https://github.com/coderkiss/ProMosaic)
  * [打码效果](https://github.com/DanielMartinus/Pixelate)
+ * [AndroidImageEdit 安卓设备上图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作](https://github.com/siwangqishiq/ImageEditor-Android)
 * DownLoad
  *  [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
  *  [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
