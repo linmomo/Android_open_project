@@ -65,6 +65,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个下拉放大的RecyclerView](https://github.com/dinuscxj/PullZoomRecyclerView)
   * [Recyclerview间隔线](https://github.com/dinuscxj/RecyclerItemDecoration)
   * [简单的Recyclerview侧边栏，类通讯录侧边](https://github.com/CaMnter/EasyRecyclerViewSidebar)
+  * [一个下拉顶部图片放大的listview](https://github.com/matrixxun/PullToZoomInListView)
 * GridView
   *  [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
   *  [带头尾的gridview](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter/blob/master/README-cn.md)
@@ -85,6 +86,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  *  [通用的ListView、RecyclerView的Adapter](https://github.com/bboyfeiyu/commonadapter)
  *  [通过封装BaseAdapter和RecyclerView.Adapter得到的通用的，简易的Adapter](https://github.com/tianzhijiexian/CommonAdapter)
  *  [android速构adapter神器](https://github.com/ThePacific/adapter)
+ *  [RecyclerViewAdapter辅助工具](https://github.com/CymChad/BaseRecyclerViewAdapterHelper/)
 *  ViewPager
  *  [对 ViewPager 的一个横向扩展，Page 可宽可窄，表现很像 Gallelry](https://github.com/Pixplicity/MultiViewPager)
  *  [一个带HeadView的ViewPager，可滚动可固定](https://github.com/XavierSAndroid/MagicHeaderViewPager)
@@ -134,6 +136,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [简单的创建属性动画](https://github.com/robinxdroid/XDroidAnimation)
  * [Android Easing 函数库，动画](https://github.com/MasayukiSuda/EasingInterpolator)
  * [一个给SVG添加动画的库](https://github.com/glomadrian/RoadRunner)
+ * [Fragment切换动画](https://github.com/kakajika/FragmentAnimations)
+ * [简单的的函数实现绚丽动画效果](https://github.com/wingjay/WJMagicCurveView)
 
 ##**自定义控件**
 
@@ -204,6 +208,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [一个可自定义子控件大小及位置、相等大小的子控件间可通过拖动交换位置的ViewGroup](https://github.com/alivebao/FreeSizeDraggableLayout)
    * [一个轻量的ProgressLayout，能够帮助你实现“加载中”、“无内容”，“网络错误”，“加载失败”等不同场景下的页面切换与展示，并且支持点击页面重试。](https://github.com/LianjiaTech/ProgressLayout)
    * [显示url的view](https://github.com/kaelaela/OpenGraphView)
+   * [阅读更多TextView](https://github.com/borjabravo10/ReadMoreTextView)
  
 ##**工具类**
 
