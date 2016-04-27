@@ -209,6 +209,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [一个轻量的ProgressLayout，能够帮助你实现“加载中”、“无内容”，“网络错误”，“加载失败”等不同场景下的页面切换与展示，并且支持点击页面重试。](https://github.com/LianjiaTech/ProgressLayout)
    * [显示url的view](https://github.com/kaelaela/OpenGraphView)
    * [阅读更多TextView](https://github.com/borjabravo10/ReadMoreTextView)
+   * [android端ZXing二维码扫码器，高度自定义FindView ，支持设备自由转屏](https://github.com/ThePacific/zxing-barcode)
  
 ##**工具类**
 
