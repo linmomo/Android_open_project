@@ -13,6 +13,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [TextView文本改变动画](https://github.com/z56402344/AnimTextView)
  * [Textview电影特效](https://github.com/Rogero0o/MatchView)
  * [LyricView：歌词Textview](https://github.com/markzhai/LyricView)
+ * [bili图文混排](https://github.com/Bilibili/drawee-text-view)
 *  ImageView
  * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
  * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
