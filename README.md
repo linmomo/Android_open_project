@@ -252,6 +252,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [一个Android的弹幕控](https://github.com/linsea/OpenDanmaku件)
  * [VideoListPlayer实现了在列表控件（ListView,RecyclerView）中加载并播放视频，并支持滑动时自动播放/暂停的功能利用该项目，可以轻松实现类似Instagram的视频播放功能](https://github.com/waynell/VideoListPlayer)
  * [仿微信小视频录制，基于GitHub上的javacv](https://github.com/szitguy/RecordVideoDemo)
+ * [一个适用于 Android 平台的音视频播放器 SDK，可高度定制化和二次开发](https://github.com/pili-engineering/PLDroidPlayer)
 * Other 
  * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
  * [android下自定义View之雷达扫描 ](https://github.com/gpfduoduo/RadarScanView)
