@@ -178,6 +178,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [一个贝塞尔曲线实现的利用圆球拖拽粘连动画效果的加载进度条](https://github.com/dodola/MetaballLoading)
  * [各种 Loading 动画效果](https://github.com/ybq/Android-SpinKit)
  * [能够和任何view结合的加载动画](https://github.com/dinuscxj/LoadingDrawable)
+ * [Loading动画](https://github.com/Rogero0o/GifLoadingView)
 * Banner
   * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
   *  [轮播Banner](https://github.com/waylife/InfiniteViewPager/blob/master/README_ZH.md)
