@@ -141,6 +141,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [一个给SVG添加动画的库](https://github.com/glomadrian/RoadRunner)
  * [Fragment切换动画](https://github.com/kakajika/FragmentAnimations)
  * [简单的的函数实现绚丽动画效果](https://github.com/wingjay/WJMagicCurveView)
+ * [切换页面的圆形动画效果](https://github.com/SpikeKing/wcl-circle-reveal-demo)
 
 ##**自定义控件**
 
