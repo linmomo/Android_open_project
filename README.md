@@ -111,6 +111,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [类似FloatingActionButton的可扩展和收缩列表项的库](https://github.com/Karumi/ExpandableSelector)
  * [仿tumblr的FloatingActionButton的菜单打开动画 ](https://github.com/tiancaiCC/SpringFloatingActionMenu)
  * [仿美团糯米下拉菜单列表](https://github.com/sungerk/DropDownLayout)
+ * [android 悬浮窗菜单，可在launcher或app中使用](https://github.com/crosg/FloatMenuSample)
 * DiaLog/PopWindow/Spinner
  * [一行代码实现提示对话框，指定元素](https://github.com/michaelye/EasyDialog)
  * [dialogPlus](https://github.com/orhanobut/dialogplus)
@@ -120,6 +121,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView](https://github.com/kingideayou/SlideBottomPanel)
  * [一个带有展开和折叠动画的Spinner](https://github.com/arcadefire/nice-spinner)
  * [支持左右滑动选项卡的 Dialog](https://github.com/ashishbhandari/AndroidTabbedDialog)
+ * [动画显示能够侧滑消失的DialogFragment](https://github.com/kakajika/SwipeAwayDialog)
 *  Material Design
  * [一个兼容android 2.2material design组件库](https://github.com/navasmdc/MaterialDesignLibrary)
  * [android material design 风格项目整理](https://github.com/soyoungboy/android-material-design-Open-source-projects)
