@@ -171,6 +171,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [让图像呈现gallery显示效果](https://github.com/lawloretienne/ImageGallery) 
  * [Android CoverFlow widget](https://github.com/moondroid/CoverFlow)
  * [Gallery效果](https://github.com/davidschreiber/FancyCoverFlow)
+ * [上面显示，下面Gallery效果](https://github.com/sungerk/GalleryView)
 * TimeLineView
  * [时间线View](https://github.com/alorma/TimelineView)
  * [一个RecyclerView实现的时间轴](https://github.com/ishratkhan/NestedTimeLineRecyclerView)
@@ -268,3 +269,4 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * [又一个UI控件列表](https://github.com/yeungeek/awesome-android-ui)
 * [正在成为史上最全分类Android开源代码大全](https://github.com/XXApple/AndroidLibs)
 * [一个很nice的Android开源项目及库](https://github.com/Tim9Liu9/TimLiu-Android#UI%E8%B5%84%E6%BA%90)
+* [自己总结的Android开源项目及库](https://github.com/Tim9Liu9/TimLiu-Android)
