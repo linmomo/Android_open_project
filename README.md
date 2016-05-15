@@ -25,6 +25,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [类似微博微信显示图片的九宫格控件](https://github.com/laobie/NineGridImageView)
  * [图片加一个点赞效果](https://github.com/wuchangfeng/AnimstorSetTest)
  * [一个扩展原生控件支持圆角矩形框背景的库,可以减少相关shape资源文件使用](https://github.com/H07000223/FlycoRoundView)
+ * [高效，强大，非常轻量级的自定义ImageView，支持圆形，三角形，棱形，圆角矩形，正多边形](https://github.com/TangXiaoLv/EffectiveShapeView)
+ * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
 * EditText
  * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
  * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -80,6 +82,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [在Chris Banes的Android-PullToRefresh的基础上增加了RecyclerView的支持与Demo](https://github.com/bboyfeiyu/Chris-Android-PullToRefresh)
  * [模仿SwipeRefreshLayout实现的下拉刷新库](https://github.com/biezhihua/RefreshLayout-YYT)
  * [众多优秀的下拉刷新](https://github.com/android-cjj/BeautifulRefreshLayout)
+ * [自定义下拉刷新动画(煮汤)](https://github.com/Yalantis/pull-to-make-soup)
+ * [一个自定义视图可以上下拉动，支持Scrollview，ListView，recyclerview，WebView和另一个视图，使用方便](https://github.com/liaoinstan/SpringView/blob/master/README_CN.md)
 * Adapter
  *  [Android 万能的Adapter for ListView,GridView等，支持多种Item类型的情况](https://github.com/hongyangAndroid/base-adapter)
  *  [FastAdapter](https://github.com/mikepenz/FastAdapter)
@@ -88,6 +92,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  *  [通过封装BaseAdapter和RecyclerView.Adapter得到的通用的，简易的Adapter](https://github.com/tianzhijiexian/CommonAdapter)
  *  [android速构adapter神器](https://github.com/ThePacific/adapter)
  *  [RecyclerViewAdapter辅助工具](https://github.com/CymChad/BaseRecyclerViewAdapterHelper/)
+ *  [一个多功能的 Adapter ](https://github.com/davideas/FlexibleAdapter)
 *  ViewPager
  *  [对 ViewPager 的一个横向扩展，Page 可宽可窄，表现很像 Gallelry](https://github.com/Pixplicity/MultiViewPager)
  *  [一个带HeadView的ViewPager，可滚动可固定](https://github.com/XavierSAndroid/MagicHeaderViewPager)
@@ -142,6 +147,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [Fragment切换动画](https://github.com/kakajika/FragmentAnimations)
  * [简单的的函数实现绚丽动画效果](https://github.com/wingjay/WJMagicCurveView)
  * [切换页面的圆形动画效果](https://github.com/SpikeKing/wcl-circle-reveal-demo)
+ * [google now的动画样式](https://github.com/zagum/SpeechRecognitionView)
+ * [动画效果集合](https://github.com/wusp/IndicatorBox)
 
 ##**自定义控件**
 
@@ -167,6 +174,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [自定义TagView，并且可拖拽](https://github.com/whilu/AndroidTagView)
  * [Android流式布局，支持单选、多选等，适合用于产品标签等](https://github.com/hongyangAndroid/FlowLayout)
  * [又一个标签布局](https://github.com/lankton/android-flowlayout)
+ * [支持 SingleLine 模式的标签云效果，轻松实现知乎问题话题列表](https://github.com/kingideayou/TagCloudView)
 * Gallery
  * [让图像呈现gallery显示效果](https://github.com/lawloretienne/ImageGallery) 
  * [Android CoverFlow widget](https://github.com/moondroid/CoverFlow)
@@ -189,9 +197,11 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [一个简单的Banner轮播](https://github.com/sayyam/carouselview)
   *  [一些 indicator样式](https://github.com/ongakuer/CircleIndicator) 
   *  [一个好的广告轮播](https://github.com/H07000223/FlycoBanner_Master/blob/master/README_CN.md)
+  *  [可定制的Indicator,结合ViewPager使用,当然不通过ViewPager也可以用](https://github.com/jiang111/ScalableTabIndicator)
 * CountDown
  * [TextureView仿手淘倒计时](https://github.com/CaMnter/EasyCountDownTextureView)
  * [倒计时控件](https://github.com/iwgang/CountdownView/blob/master/README_CN.md)   
+ * [TickTock计时器](https://github.com/BCGDV-ASIA/android-widget-ticktock)
 *  Guide
  * [ 用于app指向性功能高亮的库](https://github.com/hongyangAndroid/Highlight)
  * [引导页](https://github.com/RubenGees/Introduction)
@@ -216,6 +226,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [显示url的view](https://github.com/kaelaela/OpenGraphView)
    * [阅读更多TextView](https://github.com/borjabravo10/ReadMoreTextView)
    * [android端ZXing二维码扫码器，高度自定义FindView ，支持设备自由转屏](https://github.com/ThePacific/zxing-barcode)
+   * [可伸缩控件](https://github.com/cachapa/ExpandableLayout)
+   * [对任意View添加连击事件](https://github.com/gjiazhe/ComboListener)
  
 ##**工具类**
 
@@ -262,6 +274,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
  * [android下自定义View之雷达扫描 ](https://github.com/gpfduoduo/RadarScanView)
  * [一个获取号码归属地和其他信息（诈骗、骚扰等）的开源库](https://github.com/xdtianyu/PhoneNumber)
+ * [识别手势类库 (](https://github.com/nisrulz/sensey)
+ * [可任意定制的app更新组件。](https://github.com/yjfnypeu/UpdatePlugin)
 
 ##**链接**
 * [一个很棒的UI/UX 列表，包含各种控件](https://github.com/wasabeef/awesome-android-ui)
