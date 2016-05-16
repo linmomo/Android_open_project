@@ -93,6 +93,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  *  [android速构adapter神器](https://github.com/ThePacific/adapter)
  *  [RecyclerViewAdapter辅助工具](https://github.com/CymChad/BaseRecyclerViewAdapterHelper/)
  *  [一个多功能的 Adapter ](https://github.com/davideas/FlexibleAdapter)
+ *  [RecyclerView 超强助手](https://github.com/nisrulz/recyclerviewhelper)
 *  ViewPager
  *  [对 ViewPager 的一个横向扩展，Page 可宽可窄，表现很像 Gallelry](https://github.com/Pixplicity/MultiViewPager)
  *  [一个带HeadView的ViewPager，可滚动可固定](https://github.com/XavierSAndroid/MagicHeaderViewPager)
@@ -149,6 +150,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [切换页面的圆形动画效果](https://github.com/SpikeKing/wcl-circle-reveal-demo)
  * [google now的动画样式](https://github.com/zagum/SpeechRecognitionView)
  * [动画效果集合](https://github.com/wusp/IndicatorBox)
+ * [正弦曲线动画绘制](https://github.com/guiguegon/SineView)
 
 ##**自定义控件**
 
@@ -215,7 +217,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * Other 
   * [可展开/隐藏子view的layout](https://github.com/AAkira/ExpandableLayout) 
    * [ 大图作为header跟随手指向上滑动，下拉展示大图](https://github.com/w4lle/PullDownView)
-   * [毛玻璃效果的解锁界面](https://github.com/Nightonke/BlurLockView/blob/master/README-ZH.md)
    * [android仿京东、淘宝商品详情页上拉查看详情](https://github.com/ysnows/DoubleScrollVIew) 
    * [仿照淘宝和聚美优品，在商品详情页，向上拖动时，可以加载下一页](https://github.com/xmuSistone/android-vertical-slide-view)
    * [设置购买数量的View](https://github.com/himanshu-soni/QuantityView)
@@ -228,6 +229,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [android端ZXing二维码扫码器，高度自定义FindView ，支持设备自由转屏](https://github.com/ThePacific/zxing-barcode)
    * [可伸缩控件](https://github.com/cachapa/ExpandableLayout)
    * [对任意View添加连击事件](https://github.com/gjiazhe/ComboListener)
+   * [一个垂直方向的DrawerLayout,抽屉从上向下展开](https://github.com/corerzhang/VerticalDrawerLayout)
  
 ##**工具类**
 
@@ -276,6 +278,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [一个获取号码归属地和其他信息（诈骗、骚扰等）的开源库](https://github.com/xdtianyu/PhoneNumber)
  * [识别手势类库 (](https://github.com/nisrulz/sensey)
  * [可任意定制的app更新组件。](https://github.com/yjfnypeu/UpdatePlugin)
+ * [毛玻璃效果的解锁界面](https://github.com/Nightonke/BlurLockView/blob/master/README-ZH.md)
+ * [添加、识别电话号码归属国家](https://github.com/lamudi-gmbh/android-phone-field)
 
 ##**链接**
 * [一个很棒的UI/UX 列表，包含各种控件](https://github.com/wasabeef/awesome-android-ui)
