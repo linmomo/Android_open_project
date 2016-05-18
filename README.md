@@ -167,6 +167,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Youtube Gaming inspired Tabs](https://github.com/saiff35/LivingTabs)
   * [酷炫多彩的互动导航标签栏](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
   * [可对文字进行放大缩小和展示未读提示的PageIndicator](https://github.com/jiang111/ScalingIndicator)
+  * [导航选项卡](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip)
 *  TipView/Tag
  * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
  * [仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”](https://github.com/Qiaoidea/QQTipsView)
@@ -272,6 +273,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [VideoListPlayer实现了在列表控件（ListView,RecyclerView）中加载并播放视频，并支持滑动时自动播放/暂停的功能利用该项目，可以轻松实现类似Instagram的视频播放功能](https://github.com/waynell/VideoListPlayer)
  * [仿微信小视频录制，基于GitHub上的javacv](https://github.com/szitguy/RecordVideoDemo)
  * [一个适用于 Android 平台的音视频播放器 SDK，可高度定制化和二次开发](https://github.com/pili-engineering/PLDroidPlayer)
+ * [编译好的VLC播放器](https://github.com/hanhailong/VCL-Android)
 * Other 
  * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
  * [android下自定义View之雷达扫描 ](https://github.com/gpfduoduo/RadarScanView)
@@ -280,6 +282,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [可任意定制的app更新组件。](https://github.com/yjfnypeu/UpdatePlugin)
  * [毛玻璃效果的解锁界面](https://github.com/Nightonke/BlurLockView/blob/master/README-ZH.md)
  * [添加、识别电话号码归属国家](https://github.com/lamudi-gmbh/android-phone-field)
+ * [Low Poly 图片生成器](https://github.com/zzhoujay/LowPoly)
 
 ##**链接**
 * [一个很棒的UI/UX 列表，包含各种控件](https://github.com/wasabeef/awesome-android-ui)
