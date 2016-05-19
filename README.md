@@ -231,6 +231,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [可伸缩控件](https://github.com/cachapa/ExpandableLayout)
    * [对任意View添加连击事件](https://github.com/gjiazhe/ComboListener)
    * [一个垂直方向的DrawerLayout,抽屉从上向下展开](https://github.com/corerzhang/VerticalDrawerLayout)
+   * [ListView实现的日历](https://github.com/traex/CalendarListview)
  
 ##**工具类**
 
@@ -283,6 +284,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [毛玻璃效果的解锁界面](https://github.com/Nightonke/BlurLockView/blob/master/README-ZH.md)
  * [添加、识别电话号码归属国家](https://github.com/lamudi-gmbh/android-phone-field)
  * [Low Poly 图片生成器](https://github.com/zzhoujay/LowPoly)
+ * [高仿微信手势滑动返回](https://github.com/hanhailong/SwipeBackSample)
 
 ##**链接**
 * [一个很棒的UI/UX 列表，包含各种控件](https://github.com/wasabeef/awesome-android-ui)
