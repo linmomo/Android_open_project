@@ -14,6 +14,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [Textview电影特效](https://github.com/Rogero0o/MatchView)
  * [LyricView：歌词Textview](https://github.com/markzhai/LyricView)
  * [bili图文混排](https://github.com/Bilibili/drawee-text-view)
+ * [富文本编辑](https://github.com/mr5/icarus-android)
 *  ImageView
  * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
  * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
@@ -168,6 +169,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [酷炫多彩的互动导航标签栏](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
   * [可对文字进行放大缩小和展示未读提示的PageIndicator](https://github.com/jiang111/ScalingIndicator)
   * [导航选项卡](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip)
+  * [各式动画底部导航栏](https://github.com/Ashok-Varma/BottomNavigation)
 *  TipView/Tag
  * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
  * [仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”](https://github.com/Qiaoidea/QQTipsView)
@@ -178,6 +180,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [Android流式布局，支持单选、多选等，适合用于产品标签等](https://github.com/hongyangAndroid/FlowLayout)
  * [又一个标签布局](https://github.com/lankton/android-flowlayout)
  * [支持 SingleLine 模式的标签云效果，轻松实现知乎问题话题列表](https://github.com/kingideayou/TagCloudView)
+ * [Android流式布局，支持点击、单选、多选等，适合用于产品标签等，用法采用Adapter模式，和ListView、GridView用法一样！！！](https://github.com/hanhailong/FlowTag)
 * Gallery
  * [让图像呈现gallery显示效果](https://github.com/lawloretienne/ImageGallery) 
  * [Android CoverFlow widget](https://github.com/moondroid/CoverFlow)
@@ -232,6 +235,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [对任意View添加连击事件](https://github.com/gjiazhe/ComboListener)
    * [一个垂直方向的DrawerLayout,抽屉从上向下展开](https://github.com/corerzhang/VerticalDrawerLayout)
    * [ListView实现的日历](https://github.com/traex/CalendarListview)
+   * [仿美团筛选布局](https://github.com/sungerk/DropDownLayout)
+   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
  
 ##**工具类**
 
