@@ -237,6 +237,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [ListView实现的日历](https://github.com/traex/CalendarListview)
    * [仿美团筛选布局](https://github.com/sungerk/DropDownLayout)
    * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
+   * [笑脸ToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/README-ZH.md)
  
 ##**工具类**
 
@@ -290,6 +291,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [添加、识别电话号码归属国家](https://github.com/lamudi-gmbh/android-phone-field)
  * [Low Poly 图片生成器](https://github.com/zzhoujay/LowPoly)
  * [高仿微信手势滑动返回](https://github.com/hanhailong/SwipeBackSample)
+ * [VR Android](https://github.com/babysource/VRDroid)
 
 ##**链接**
 * [一个很棒的UI/UX 列表，包含各种控件](https://github.com/wasabeef/awesome-android-ui)
