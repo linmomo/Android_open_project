@@ -15,6 +15,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [LyricView：歌词Textview](https://github.com/markzhai/LyricView)
  * [bili图文混排](https://github.com/Bilibili/drawee-text-view)
  * [富文本编辑](https://github.com/mr5/icarus-android)
+ * [高级TextView用法](https://github.com/oktayayr/advancedtextview)
 *  ImageView
  * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
  * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
@@ -28,6 +29,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [一个扩展原生控件支持圆角矩形框背景的库,可以减少相关shape资源文件使用](https://github.com/H07000223/FlycoRoundView)
  * [高效，强大，非常轻量级的自定义ImageView，支持圆形，三角形，棱形，圆角矩形，正多边形](https://github.com/TangXiaoLv/EffectiveShapeView)
  * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
+ * [Gif动画显示](https://github.com/koral--/android-gif-drawable)
 * EditText
  * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
  * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -36,6 +38,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [可以给 EditText 输入文字时给输入的文字添加各种动画效果的库](https://github.com/alphamu/AnimatedEditText)
  * [一个可以监控到软键盘打开关闭的库](https://github.com/AzimoLabs/AndroidKeyboardWatcher)
  * [Android键盘面板冲突 布局闪动处理方案](https://github.com/Jacksgong/JKeyboardPanelSwitch)
+ * [EditText富文本编辑器](https://github.com/chen-xiao-dong/RichEditText)
 *  Button
  * [一个Button分成两部分效果](https://github.com/yankai-victor/RingButton) 
  * [连续组合点击](https://github.com/brucetoo/ComboView)
