@@ -296,6 +296,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [Low Poly 图片生成器](https://github.com/zzhoujay/LowPoly)
  * [高仿微信手势滑动返回](https://github.com/hanhailong/SwipeBackSample)
  * [VR Android](https://github.com/babysource/VRDroid)
+ * [仿微信朋友圈](https://github.com/razerdp/FriendCircle)
 
 ##**链接**
 * [一个很棒的UI/UX 列表，包含各种控件](https://github.com/wasabeef/awesome-android-ui)
