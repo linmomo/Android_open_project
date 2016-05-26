@@ -155,6 +155,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [google now的动画样式](https://github.com/zagum/SpeechRecognitionView)
  * [动画效果集合](https://github.com/wusp/IndicatorBox)
  * [正弦曲线动画绘制](https://github.com/guiguegon/SineView)
+ * [FabAnimations](https://github.com/qs-lll/FabActionAnimations)
 
 ##**自定义控件**
 
