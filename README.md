@@ -242,6 +242,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [仿美团筛选布局](https://github.com/sungerk/DropDownLayout)
    * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
    * [笑脸ToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/README-ZH.md)
+   * [自定义Floatview实现全站浮动按钮和来电秀](https://github.com/AlexLiuSheng/FloatView)
  
 ##**工具类**
 
