@@ -16,6 +16,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [bili图文混排](https://github.com/Bilibili/drawee-text-view)
  * [富文本编辑](https://github.com/mr5/icarus-android)
  * [高级TextView用法](https://github.com/oktayayr/advancedtextview)
+ * [垂直跑马灯](https://github.com/sfsheng0322/MarqueeView)
 *  ImageView
  * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
  * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
@@ -30,6 +31,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [高效，强大，非常轻量级的自定义ImageView，支持圆形，三角形，棱形，圆角矩形，正多边形](https://github.com/TangXiaoLv/EffectiveShapeView)
  * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
  * [Gif动画显示](https://github.com/koral--/android-gif-drawable)
+ * [类似ios的动态模糊效果 ](https://github.com/Dimezis/BlurView)
 * EditText
  * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
  * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -112,7 +114,10 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [仿美团等选择城市列表demo](https://github.com/zaaach/CityPicker)
  * [城市列表选择](https://github.com/gugalor/citylist)
  * [仿美团城市选择界面，可直接用在实际项目中](https://github.com/yangxu4536/MeiTuanLocateCity)
-*  ActionBar
+ * [Android时间选择器，支持年月日时分，年月日，年月，月日时分，时分格式，可以设置最小时间（精确到分）](https://github.com/JZXiang/TimePickerDialog/blob/master/README-cn.md)
+ * [基于第三方WheelView 实现的一个时间选择器](https://github.com/chsmy/DateSelecter)
+*  StatusBar
+ * [目测是 Bilibili 出品的 StatusBar 和 NavigationBar 辅助工具类](https://github.com/H07000223/FlycoSystemBar)  
 *  Menu
  * [环形菜单控件](https://github.com/sungerk/CircularMenu)
  * [按钮弹出环绕按钮](https://github.com/anshulagarwal2k/GooeyMenu)
@@ -156,6 +161,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [动画效果集合](https://github.com/wusp/IndicatorBox)
  * [正弦曲线动画绘制](https://github.com/guiguegon/SineView)
  * [FabAnimations](https://github.com/qs-lll/FabActionAnimations)
+ * [当数学遇上动画：讲述ValueAnimator、TypeEvaluator和TimeInterpolator之间的恩恩怨怨](https://github.com/hujiaweibujidao/yava/blob/master/README-CN.md)
+ * [Android动画库项目](https://github.com/hujiaweibujidao/wava/blob/master/README-CN.md)
 
 ##**自定义控件**
 
@@ -185,6 +192,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [又一个标签布局](https://github.com/lankton/android-flowlayout)
  * [支持 SingleLine 模式的标签云效果，轻松实现知乎问题话题列表](https://github.com/kingideayou/TagCloudView)
  * [Android流式布局，支持点击、单选、多选等，适合用于产品标签等，用法采用Adapter模式，和ListView、GridView用法一样！！！](https://github.com/hanhailong/FlowTag)
+ * [带箭头的Android气泡控件/容器类](https://github.com/cpiz/BubbleView/blob/master/README_CN.md)
 * Gallery
  * [让图像呈现gallery显示效果](https://github.com/lawloretienne/ImageGallery) 
  * [Android CoverFlow widget](https://github.com/moondroid/CoverFlow)
@@ -216,6 +224,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [ 用于app指向性功能高亮的库](https://github.com/hongyangAndroid/Highlight)
  * [引导页](https://github.com/RubenGees/Introduction)
  * [WoWo可以优化你的App介绍/引导页面，WoWo将动画和viewpager结合起来。](https://github.com/Nightonke/WoWoViewPager)
+ * [自定义欢迎界面](https://github.com/stephentuso/welcome-android)
+ * [Android 用户引导库 MaterialIntroView 使用及源码分析](http://www.jianshu.com/p/1d2dcbc1e0f2)
 * Theme
  * [日夜间模式切换](https://github.com/zzz40500/ThemeDemo)
  * [基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式](https://github.com/bboyfeiyu/Colorful)
@@ -247,13 +257,13 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 ##**工具类**
 
 * network
-	* [restVolley](https://github.com/HujiangTechnology/RestVolley)
-	* [okhttp的辅助类](https://github.com/hongyangAndroid/okhttp-utils)
-	* [okHttp封装](https://github.com/ZhaoKaiQiang/OkHttpPlus)
-	* [OkHttp封装的一个简单易用HTTP请求](https://github.com/pengjianbo/OkHttpFinal)
-	* [okHttp封装，支持上传下载缓存](https://github.com/jeasonlzy0216/OkHttpUtils)
-	* [对OkHttp进行封装，网络请求失败自动查询本地缓存,上传文件等功能](https://github.com/duzechao/OKHttpUtils)
-	* [Volley + RxJava + OkHttp](https://github.com/kymjs/RxVolley)
+ * [restVolley](https://github.com/HujiangTechnology/RestVolley)
+ * [okhttp的辅助类](https://github.com/hongyangAndroid/okhttp-utils)
+ * [okHttp封装](https://github.com/ZhaoKaiQiang/OkHttpPlus)
+ * [OkHttp封装的一个简单易用HTTP请求](https://github.com/pengjianbo/OkHttpFinal)
+ * [okHttp封装，支持上传下载缓存](https://github.com/jeasonlzy0216/OkHttpUtils)
+ * [对OkHttp进行封装，网络请求失败自动查询本地缓存,上传文件等功能](https://github.com/duzechao/OKHttpUtils)
+ * [Volley + RxJava + OkHttp](https://github.com/kymjs/RxVolley)
 *  IM
  * [建立聊天视图](https://github.com/himanshu-soni/ChatMessageView)
  * [模仿微信朋友圈、QQ说说的评论的人，点赞人可点击效果 ](https://github.com/nimengbo/TextViewSpanClickable)
@@ -264,6 +274,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [开源表情键盘解决方案。](https://github.com/w446108264/XhsEmoticonsKeyboard)
  * [一个实现了可以渲染 Emoji 的库](https://github.com/hani-momanii/SuperNova-Emoji)
  * [仿QQ输入关键字 表情掉落](https://github.com/CyjAndroid/EmojiDrop/tree/master)
+ * [仿微信朋友圈](https://github.com/razerdp/FriendCircle)
 * PhotoEdit
  * [截取圆形图片，可缩放](https://github.com/hpfs0/DragScaleCircleView)
  * [一个图片裁剪库](https://github.com/Yalantis/uCrop)
@@ -276,6 +287,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  *  [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
  *  [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
  *  [Android 文件下载引擎，稳定、高效、简单易用](https://github.com/lingochamp/FileDownloader/blob/master/README-zh.md)
+ *  [处理异步下载的库](https://github.com/wangdanlizhiyun/lib_download)
 * Video/Audio
  * [仿网易新闻视频播放](https://github.com/xiongwei-git/AndroidVideoPlayer)
  * [安卓视频播放器 全屏 播放器列表全屏 仿今日头条UI](https://github.com/lipangit/jiecaovideoplayer/blob/develop/README-ZH.md)
@@ -297,7 +309,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [Low Poly 图片生成器](https://github.com/zzhoujay/LowPoly)
  * [高仿微信手势滑动返回](https://github.com/hanhailong/SwipeBackSample)
  * [VR Android](https://github.com/babysource/VRDroid)
- * [仿微信朋友圈](https://github.com/razerdp/FriendCircle)
+ * [更好的管理线程间跳转的库](https://github.com/jiang111/ObservableScheduler)
 
 ##**链接**
 * [一个很棒的UI/UX 列表，包含各种控件](https://github.com/wasabeef/awesome-android-ui)
