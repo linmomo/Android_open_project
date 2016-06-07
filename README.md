@@ -17,6 +17,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [富文本编辑](https://github.com/mr5/icarus-android)
  * [高级TextView用法](https://github.com/oktayayr/advancedtextview)
  * [垂直跑马灯](https://github.com/sfsheng0322/MarqueeView)
+ * [阅读更多TextView](https://github.com/borjabravo10/ReadMoreTextView)
 *  ImageView
  * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
  * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
@@ -41,6 +42,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [一个可以监控到软键盘打开关闭的库](https://github.com/AzimoLabs/AndroidKeyboardWatcher)
  * [Android键盘面板冲突 布局闪动处理方案](https://github.com/Jacksgong/JKeyboardPanelSwitch)
  * [EditText富文本编辑器](https://github.com/chen-xiao-dong/RichEditText)
+ * [带动画的类似 PIN 的 EditText](https://github.com/alphamu/PinEntryEditText)
 *  Button
  * [一个Button分成两部分效果](https://github.com/yankai-victor/RingButton) 
  * [连续组合点击](https://github.com/brucetoo/ComboView)
@@ -226,6 +228,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [WoWo可以优化你的App介绍/引导页面，WoWo将动画和viewpager结合起来。](https://github.com/Nightonke/WoWoViewPager)
  * [自定义欢迎界面](https://github.com/stephentuso/welcome-android)
  * [Android 用户引导库 MaterialIntroView 使用及源码分析](http://www.jianshu.com/p/1d2dcbc1e0f2)
+ * [Android 欢迎页开源项目](http://www.jianshu.com/p/b08286b9e3f6)
 * Theme
  * [日夜间模式切换](https://github.com/zzz40500/ThemeDemo)
  * [基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式](https://github.com/bboyfeiyu/Colorful)
@@ -243,7 +246,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [一个可自定义子控件大小及位置、相等大小的子控件间可通过拖动交换位置的ViewGroup](https://github.com/alivebao/FreeSizeDraggableLayout)
    * [一个轻量的ProgressLayout，能够帮助你实现“加载中”、“无内容”，“网络错误”，“加载失败”等不同场景下的页面切换与展示，并且支持点击页面重试。](https://github.com/LianjiaTech/ProgressLayout)
    * [显示url的view](https://github.com/kaelaela/OpenGraphView)
-   * [阅读更多TextView](https://github.com/borjabravo10/ReadMoreTextView)
    * [android端ZXing二维码扫码器，高度自定义FindView ，支持设备自由转屏](https://github.com/ThePacific/zxing-barcode)
    * [可伸缩控件](https://github.com/cachapa/ExpandableLayout)
    * [对任意View添加连击事件](https://github.com/gjiazhe/ComboListener)
@@ -253,6 +255,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
    * [笑脸ToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/README-ZH.md)
    * [自定义Floatview实现全站浮动按钮和来电秀](https://github.com/AlexLiuSheng/FloatView)
+   * [可拖拽的gridView,编辑个人资料，图片可拖拽排序](https://github.com/xmuSistone/android-drag-square)
  
 ##**工具类**
 
@@ -298,6 +301,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [仿微信小视频录制，基于GitHub上的javacv](https://github.com/szitguy/RecordVideoDemo)
  * [一个适用于 Android 平台的音视频播放器 SDK，可高度定制化和二次开发](https://github.com/pili-engineering/PLDroidPlayer)
  * [编译好的VLC播放器](https://github.com/hanhailong/VCL-Android)
+* 直播
+* [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
 * Other 
  * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
  * [android下自定义View之雷达扫描 ](https://github.com/gpfduoduo/RadarScanView)
