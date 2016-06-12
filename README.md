@@ -77,6 +77,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Recyclerview间隔线](https://github.com/dinuscxj/RecyclerItemDecoration)
   * [简单的Recyclerview侧边栏，类通讯录侧边](https://github.com/CaMnter/EasyRecyclerViewSidebar)
   * [一个下拉顶部图片放大的listview](https://github.com/matrixxun/PullToZoomInListView)
+  * [RecyclerView的旋转LayoutManager布局管理器](https://github.com/Azoft/CarouselLayoutManager)
 * GridView
   *  [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
   *  [带头尾的gridview](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter/blob/master/README-cn.md)
@@ -108,6 +109,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  *  [垂直的VIewpager](https://github.com/kaelaela/VerticalViewPager)
  *  [一个可以垂直滑动滑动，折叠的ViewPager的库](https://github.com/Telenav/ExpandablePager)
  *  [左右滑动时有视差的效果的 ViewPager](https://github.com/ybq/ParallaxViewPager)
+ *  [带圆圈切换动画的ViewPager](https://github.com/Modificator/CircleIndicator)
 * PickView
  * [安卓选择器类，包括各种类型的选择器，可自定义顶部及底部界面，可自定义窗口动画](https://github.com/gzu-liyujiang/AndroidPicker)
  * [日期选择控件](https://github.com/flavienlaurent/datetimepicker) 
@@ -165,6 +167,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [FabAnimations](https://github.com/qs-lll/FabActionAnimations)
  * [当数学遇上动画：讲述ValueAnimator、TypeEvaluator和TimeInterpolator之间的恩恩怨怨](https://github.com/hujiaweibujidao/yava/blob/master/README-CN.md)
  * [Android动画库项目](https://github.com/hujiaweibujidao/wava/blob/master/README-CN.md)
+* Layout
+ * [手势滑动返回的Fragment](https://github.com/YoKeyword/SwipeBackFragment) 
 
 ##**自定义控件**
 
@@ -211,6 +215,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [各种 Loading 动画效果](https://github.com/ybq/Android-SpinKit)
  * [能够和任何view结合的加载动画](https://github.com/dinuscxj/LoadingDrawable)
  * [Loading动画](https://github.com/Rogero0o/GifLoadingView)
+ * [一些酷炫的加载动画， 可以与任何View配合使用，作为加载动画或者Progressbar,](https://github.com/dinuscxj/LoadingDrawable/blob/master/README-ZH.md)
 * Banner
   * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
   *  [轮播Banner](https://github.com/waylife/InfiniteViewPager/blob/master/README_ZH.md)
@@ -256,6 +261,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [笑脸ToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/README-ZH.md)
    * [自定义Floatview实现全站浮动按钮和来电秀](https://github.com/AlexLiuSheng/FloatView)
    * [可拖拽的gridView,编辑个人资料，图片可拖拽排序](https://github.com/xmuSistone/android-drag-square)
+   * [可以读取SD卡，asset文件夹，或者网络下载的pdf文件的widget](https://github.com/voghDev/PdfViewPager)
  
 ##**工具类**
 
@@ -286,6 +292,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [马赛克效果](https://github.com/coderkiss/ProMosaic)
  * [打码效果](https://github.com/DanielMartinus/Pixelate)
  * [AndroidImageEdit 安卓设备上图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作](https://github.com/siwangqishiq/ImageEditor-Android)
+ * [滤镜SDK](https://github.com/Zomato/AndroidPhotoFilters)
 * DownLoad
  *  [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
  *  [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
@@ -302,7 +309,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [一个适用于 Android 平台的音视频播放器 SDK，可高度定制化和二次开发](https://github.com/pili-engineering/PLDroidPlayer)
  * [编译好的VLC播放器](https://github.com/hanhailong/VCL-Android)
 * 直播
-* [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
+ * [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
 * Other 
  * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
  * [android下自定义View之雷达扫描 ](https://github.com/gpfduoduo/RadarScanView)
