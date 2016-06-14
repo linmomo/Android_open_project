@@ -18,6 +18,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [高级TextView用法](https://github.com/oktayayr/advancedtextview)
  * [垂直跑马灯](https://github.com/sfsheng0322/MarqueeView)
  * [阅读更多TextView](https://github.com/borjabravo10/ReadMoreTextView)
+ * [仿照Google+在卡片上滚动显示最新评论的TextSwitcher](https://github.com/SumiMakito/AdvancedTextSwitcher)
 *  ImageView
  * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
  * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
@@ -56,6 +57,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [layout中的进度条](https://github.com/iammert/ProgressLayout)
  * [圆弧进度条](https://github.com/GIGAMOLE/ArcProgressStackView)
  * [动画的水平进度条](https://github.com/MasayukiSuda/AnimateHorizontalProgressBar)
+ * [一款比较好看的进度条](https://github.com/castorflex/SmoothProgressBar)
 *  ScrollView
  *  [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
 *  RecyclerView
@@ -120,6 +122,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [仿美团城市选择界面，可直接用在实际项目中](https://github.com/yangxu4536/MeiTuanLocateCity)
  * [Android时间选择器，支持年月日时分，年月日，年月，月日时分，时分格式，可以设置最小时间（精确到分）](https://github.com/JZXiang/TimePickerDialog/blob/master/README-cn.md)
  * [基于第三方WheelView 实现的一个时间选择器](https://github.com/chsmy/DateSelecter)
+ * [水平的滑轮](https://github.com/shchurov/HorizontalWheelView)
 *  StatusBar
  * [目测是 Bilibili 出品的 StatusBar 和 NavigationBar 辅助工具类](https://github.com/H07000223/FlycoSystemBar)  
 *  Menu
@@ -169,6 +172,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [Android动画库项目](https://github.com/hujiaweibujidao/wava/blob/master/README-CN.md)
 * Layout
  * [手势滑动返回的Fragment](https://github.com/YoKeyword/SwipeBackFragment) 
+ * [一种可根据展开是否超出屏幕来判断父控件是否自动滚动的ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout)
+ * [一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图](https://github.com/qyxxjd/MultipleStatusView)
 
 ##**自定义控件**
 
