@@ -61,6 +61,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 *  ScrollView
  *  [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
 *  RecyclerView
+ *  [RecyclerView开源项目集合](https://github.com/CameloeAnthony/Learning-RecyclerView)
   * [一个支持可伸缩头部的布局](https://github.com/hongyangAndroid/Android-StickyNavLayout)
   * [一个简单的RecyclerView items动画库](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
   * [上拉下拉刷新的RecyclerView](https://github.com/tosslife/PullLoadView)
@@ -144,6 +145,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [一个带有展开和折叠动画的Spinner](https://github.com/arcadefire/nice-spinner)
  * [支持左右滑动选项卡的 Dialog](https://github.com/ashishbhandari/AndroidTabbedDialog)
  * [动画显示能够侧滑消失的DialogFragment](https://github.com/kakajika/SwipeAwayDialog)
+ * [Android版的SweetAlert，清新文艺，快意灵动的甜心弹框](https://github.com/pedant/sweet-alert-dialog/blob/master/README.zh.md)
 *  Material Design
  * [一个兼容android 2.2material design组件库](https://github.com/navasmdc/MaterialDesignLibrary)
  * [android material design 风格项目整理](https://github.com/soyoungboy/android-material-design-Open-source-projects)
@@ -218,9 +220,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [各种各样Loading动画](https://github.com/81813780/AVLoadingIndicatorView) 
  * [一个贝塞尔曲线实现的利用圆球拖拽粘连动画效果的加载进度条](https://github.com/dodola/MetaballLoading)
  * [各种 Loading 动画效果](https://github.com/ybq/Android-SpinKit)
- * [能够和任何view结合的加载动画](https://github.com/dinuscxj/LoadingDrawable)
  * [Loading动画](https://github.com/Rogero0o/GifLoadingView)
  * [一些酷炫的加载动画， 可以与任何View配合使用，作为加载动画或者Progressbar,](https://github.com/dinuscxj/LoadingDrawable/blob/master/README-ZH.md)
+ * [CircleProgressBar继承ProgressBar, 是包含实心和线条两种风格的圆环进度条.](https://github.com/dinuscxj/CircleProgressBar/blob/master/README-ZH.md)
 * Banner
   * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
   *  [轮播Banner](https://github.com/waylife/InfiniteViewPager/blob/master/README_ZH.md)
@@ -327,6 +329,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [高仿微信手势滑动返回](https://github.com/hanhailong/SwipeBackSample)
  * [VR Android](https://github.com/babysource/VRDroid)
  * [更好的管理线程间跳转的库](https://github.com/jiang111/ObservableScheduler)
+ * [类ios顶级状态栏返回列表顶部](https://github.com/kmshack/Android-TopScrollHelper)
 
 ##**链接**
 * [一个很棒的UI/UX 列表，包含各种控件](https://github.com/wasabeef/awesome-android-ui)
