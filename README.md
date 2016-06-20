@@ -54,6 +54,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 *  CheckBox
  * [自定义动画checkbox](https://github.com/andyxialm/SmoothCheckBox) 
  * [带动画的Checkbox](https://github.com/lguipeng/AnimCheckBox)
+ * [CircleCheckBox](https://github.com/arlindiDev/CircleCheckBox)
 *  ProgressBar
  * [一个展示注册进度的ProgressBar](https://github.com/jiang111/ProgressView)
  * [渐变的圆形进度条与轻量横向进度条](https://github.com/lingochamp/MagicProgressWidget)
@@ -188,6 +189,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图](https://github.com/qyxxjd/MultipleStatusView)
  * [可展开/隐藏子view的layout](https://github.com/AAkira/ExpandableLayout) 
  * [一个轻量的ProgressLayout，能够帮助你实现“加载中”、“无内容”，“网络错误”，“加载失败”等不同场景下的页面切换与展示，并且支持点击页面重试。](https://github.com/LianjiaTech/ProgressLayout)
+ * [渐变色背景组件](https://github.com/csdodd/GradientLayout)
 
 ##**自定义控件**
 
@@ -255,6 +257,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [自定义欢迎界面](https://github.com/stephentuso/welcome-android)
  * [Android 用户引导库 MaterialIntroView 使用及源码分析](http://www.jianshu.com/p/1d2dcbc1e0f2)
  * [Android 欢迎页开源项目](http://www.jianshu.com/p/b08286b9e3f6)
+ * [最最轻量级的新手引导库（只有7个类），能够快速的为一个Activity里的任何一个View控件创建一个遮罩式的导航页](https://github.com/binIoter/GuideView)
 * Theme
  * [日夜间模式切换](https://github.com/zzz40500/ThemeDemo)
  * [基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式](https://github.com/bboyfeiyu/Colorful)
@@ -281,6 +284,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [酷炫信用卡View](https://github.com/cooltechworks/CreditCardView)
    * [漂亮的数字转化视图](https://github.com/me-abhinav/NumberMorphView)
    * [一个类似支付宝、微信输入支付密码的控件](https://github.com/iamMehedi/PasscodeView)
+   * [炒鸡炫酷效果的ExpandingPager](https://github.com/qs-lll/ExpandingPager)
  
 ##**工具类**
 
