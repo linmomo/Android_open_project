@@ -206,6 +206,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [FabAnimations](https://github.com/qs-lll/FabActionAnimations)
   * [当数学遇上动画：讲述ValueAnimator、TypeEvaluator和TimeInterpolator之间的恩恩怨怨](https://github.com/hujiaweibujidao/yava/blob/master/README-CN.md)
   * [Android动画库项目](https://github.com/hujiaweibujidao/wava/blob/master/README-CN.md)
+  * [通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画](https://github.com/venshine/BezierMaker)
 * Layout
   * [手势滑动返回的Fragment](https://github.com/YoKeyword/SwipeBackFragment) 
   * [一种可根据展开是否超出屏幕来判断父控件是否自动滚动的ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout)
