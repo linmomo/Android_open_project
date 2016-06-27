@@ -323,6 +323,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿QQ输入关键字 表情掉落](https://github.com/CyjAndroid/EmojiDrop/tree/master)
   * [仿微信朋友圈](https://github.com/razerdp/FriendCircle)
   * [表情app ](https://github.com/klinker24/Android-SlidingEmojiKeyboard)
+  * [各种聊天气泡](https://github.com/MasayukiSuda/BubbleLayout)
 * PhotoEdit
   * [截取圆形图片，可缩放](https://github.com/hpfs0/DragScaleCircleView)
   * [一个图片裁剪库](https://github.com/Yalantis/uCrop)
