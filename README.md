@@ -19,6 +19,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [垂直跑马灯](https://github.com/sfsheng0322/MarqueeView)
   * [阅读更多TextView](https://github.com/borjabravo10/ReadMoreTextView)
   * [仿照Google+在卡片上滚动显示最新评论的TextSwitcher](https://github.com/SumiMakito/AdvancedTextSwitcher)
+  * [精美文本下划线](https://github.com/romainguy/elegant-underline)
 *  ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
@@ -137,6 +138,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [基于第三方WheelView 实现的一个时间选择器](https://github.com/chsmy/DateSelecter)
   * [水平的滑轮](https://github.com/shchurov/HorizontalWheelView)
   * [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker)
+  * [自定义NumberPickerView](https://github.com/Carbs0126/NumberPickerView)
 *  StatusBar
   * [目测是 Bilibili 出品的 StatusBar 和 NavigationBar 辅助工具类](https://github.com/H07000223/FlycoSystemBar)  
 *  ActionBar
@@ -216,6 +218,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [渐变色背景组件](https://github.com/csdodd/GradientLayout)
   * [一个垂直方向的DrawerLayout,抽屉从上向下展开](https://github.com/corerzhang/VerticalDrawerLayout)
   * [可伸缩控件](https://github.com/cachapa/ExpandableLayout)
+  * [。一款功能强大的滑动库，目前支持dialog fragment，activity，卡片，listView，RecyclerView，GridView等的滑动。](https://github.com/CameloeAnthony/UltimateSwipeTool)
 
 ##**自定义控件**
 
@@ -301,6 +304,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [自定义卡片集view，支持展开收缩滚动](https://github.com/loopeer/CardStackView)
   * [一个支持四个方向循环滚动的自定义控件](https://github.com/oubowu/MarqueeLayoutLibrary)
   * [全新的快速索引导航栏，联系人字母排序侧边栏](https://github.com/kongnanlive/SideBar)
+  * [类Android 5.0任务管理的控件](https://github.com/Bossyao168/StackOverView)
  
 ##**工具类**
 
@@ -350,6 +354,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个适用于 Android 平台的音视频播放器 SDK，可高度定制化和二次开发](https://github.com/pili-engineering/PLDroidPlayer)
   * [编译好的VLC播放器](https://github.com/hanhailong/VCL-Android)
   * [剪辑视频](https://github.com/knowledge4life/k4l-video-trimmer)
+  * [一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，可全屏切换 ](https://github.com/w1123440793/VideoListDemo)
 * 直播
   * [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
 * Other 
