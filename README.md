@@ -24,6 +24,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
   * [一个给图片加标签的库，如热销等等](https://github.com/H07000223/FlycoLabelView/blob/master/README_CN.md)
+  * [一个倾斜的TextView，适用于标签场景](https://github.com/HeZaiJin/SlantedTextView/blob/master/README-cn.md)
   * [一个简单的标签库，同上](https://github.com/corerzhang/LabelView)
   * [一个支持Gif图片以及普通图片预览，支持双击缩放，单机退出，同时可以选择使用jni的形式去高效加载gif或者更更精简的(仅2个类)gif控件](https://github.com/kymjs/KJGallery)
   * [单手操作图片控件 镜像、置顶、缩放、移动](https://github.com/nimengbo/StickerView)
@@ -153,6 +154,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿美团糯米下拉菜单列表](https://github.com/sungerk/DropDownLayout)
   * [android 悬浮窗菜单，可在launcher或app中使用](https://github.com/crosg/FloatMenuSample)
   *  [一个可以给Floating Action Button 添加 Transformation 动画的库](https://github.com/konifar/fab-transformation)
+  *  [Float Button 圆形进度条效果 ](https://github.com/DmitryMalkovich/circular-with-floating-action-button)
 * DiaLog/PopWindow/Spinner
   * [一行代码实现提示对话框，指定元素](https://github.com/michaelye/EasyDialog)
   * [dialogPlus](https://github.com/orhanobut/dialogplus)
