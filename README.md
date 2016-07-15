@@ -290,6 +290,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [android仿京东、淘宝商品详情页上拉查看详情](https://github.com/ysnows/DoubleScrollVIew) 
   * [仿照淘宝和聚美优品，在商品详情页，向上拖动时，可以加载下一页](https://github.com/xmuSistone/android-vertical-slide-view)
   * [设置购买数量的View](https://github.com/himanshu-soni/QuantityView)
+  * [仿饿了么点击购物效果](https://github.com/JeasonWong/ElemeShoppingView)
 * Other 
   * [ 大图作为header跟随手指向上滑动，下拉展示大图](https://github.com/w4lle/PullDownView)
   * [是一个实现树形内容展示的库](https://github.com/Telenav/NodeFlow)
@@ -307,6 +308,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个支持四个方向循环滚动的自定义控件](https://github.com/oubowu/MarqueeLayoutLibrary)
   * [全新的快速索引导航栏，联系人字母排序侧边栏](https://github.com/kongnanlive/SideBar)
   * [类Android 5.0任务管理的控件](https://github.com/Bossyao168/StackOverView)
+  * [SmallChart图表库](https://github.com/Idtk/SmallChart)
  
 ##**工具类**
 
