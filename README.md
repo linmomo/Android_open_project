@@ -20,6 +20,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [阅读更多TextView](https://github.com/borjabravo10/ReadMoreTextView)
   * [仿照Google+在卡片上滚动显示最新评论的TextSwitcher](https://github.com/SumiMakito/AdvancedTextSwitcher)
   * [精美文本下划线](https://github.com/romainguy/elegant-underline)
+  * [一个能够在任何控件之上执行漂浮效果动画的控件](https://github.com/UFreedom/FloatingText/blob/master/README_CN.md)
 *  ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
@@ -38,6 +39,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [类似ios的动态模糊效果 ](https://github.com/Dimezis/BlurView)
   * [超实用的 Android 图片压缩工具。](https://github.com/zetbaitsu/Compressor)
   * [Low Poly 图片生成器](https://github.com/zzhoujay/LowPoly)
+  * [Android 图片点击全屏放大效果](https://github.com/code-crusher/Image-Zoomer)
+  * [Android 色彩渐进 ImageView](https://github.com/skyfe79/AndroidGradientImageView)
+  * [用 ImageView 实现圆形头像](https://github.com/Carbs0126/AvatarImageView)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -95,6 +99,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [RecyclerView已读侧滑删除](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe)
   * [带点击和滑动删除的recyclerview ](https://github.com/nikhilpanju/RecyclerViewEnhanced)
 * GridView
+  *  [TEmptyView是一个小轮子，希望能够更简单地设置EmptyView，免除每次设置emptyView都要写xml之苦。 支持AdapterView(ListView/GridView等)、RecyclerView](https://github.com/barryhappy/TEmptyView/blob/master/README.cn.md)  
   *  [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
   *  [带头尾的gridview](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter/blob/master/README-cn.md)
   * [可拖拽的gridView,编辑个人资料，图片可拖拽排序](https://github.com/xmuSistone/android-drag-square)
@@ -140,6 +145,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [水平的滑轮](https://github.com/shchurov/HorizontalWheelView)
   * [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker)
   * [自定义NumberPickerView](https://github.com/Carbs0126/NumberPickerView)
+  * [分离式的 Slider 效果，可以用来做打赏选择钱数，也可以做类似Uber选择车型，可用的场景相当多](https://github.com/lawloretienne/DiscreteSlider)
 *  StatusBar
   * [目测是 Bilibili 出品的 StatusBar 和 NavigationBar 辅助工具类](https://github.com/H07000223/FlycoSystemBar)  
 *  ActionBar
@@ -220,7 +226,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [渐变色背景组件](https://github.com/csdodd/GradientLayout)
   * [一个垂直方向的DrawerLayout,抽屉从上向下展开](https://github.com/corerzhang/VerticalDrawerLayout)
   * [可伸缩控件](https://github.com/cachapa/ExpandableLayout)
-  * [。一款功能强大的滑动库，目前支持dialog fragment，activity，卡片，listView，RecyclerView，GridView等的滑动。](https://github.com/CameloeAnthony/UltimateSwipeTool)
+  * [。一款功能强大的滑动库，目前支持dialogfragment，activity，卡片，listView，RecyclerView，GridView等的滑动。](https://github.com/CameloeAnthony/UltimateSwipeTool)
+  * [给布局添加提示](https://github.com/tomergoldst/tooltips)
+  * [给布局添加阴影，立体显示](https://github.com/wangjiegulu/ShadowViewHelper)
 
 ##**自定义控件**
 
@@ -291,6 +299,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿照淘宝和聚美优品，在商品详情页，向上拖动时，可以加载下一页](https://github.com/xmuSistone/android-vertical-slide-view)
   * [设置购买数量的View](https://github.com/himanshu-soni/QuantityView)
   * [仿饿了么点击购物效果](https://github.com/JeasonWong/ElemeShoppingView)
+  * [仿美团筛选布局](https://github.com/sungerk/DropDownLayout)
 * Other 
   * [ 大图作为header跟随手指向上滑动，下拉展示大图](https://github.com/w4lle/PullDownView)
   * [是一个实现树形内容展示的库](https://github.com/Telenav/NodeFlow)
@@ -298,9 +307,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个可自定义子控件大小及位置、相等大小的子控件间可通过拖动交换位置的ViewGroup](https://github.com/alivebao/FreeSizeDraggableLayout)
   * [显示url的view](https://github.com/kaelaela/OpenGraphView)
   * [对任意View添加连击事件](https://github.com/gjiazhe/ComboListener)
-  * [仿美团筛选布局](https://github.com/sungerk/DropDownLayout)
   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
   * [自定义Floatview实现全站浮动按钮和来电秀](https://github.com/AlexLiuSheng/FloatView)
+  * [悬浮球-一个服务开启悬浮球，任何界面都可以使用](https://github.com/hanbaokun/FloatingViewService)
   * [酷炫信用卡View](https://github.com/cooltechworks/CreditCardView)
   * [漂亮的数字转化视图](https://github.com/me-abhinav/NumberMorphView)
   * [一个类似支付宝、微信输入支付密码的控件](https://github.com/iamMehedi/PasscodeView)
@@ -309,6 +318,11 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [全新的快速索引导航栏，联系人字母排序侧边栏](https://github.com/kongnanlive/SideBar)
   * [类Android 5.0任务管理的控件](https://github.com/Bossyao168/StackOverView)
   * [SmallChart图表库](https://github.com/Idtk/SmallChart)
+  * [twitter 点赞效果](https://github.com/frogermcs/LikeAnimation)
+  * [点赞效果 类似twitter的效果](https://github.com/ChadCSong/ShineButton)
+  * [旋转3D视图显示View](https://github.com/binaryroot/CarouselView)
+  * [雾化擦除效果，可以做出来一些好玩儿的交互效果，比如：猜谜竞猜，低价销售展示，广告展示等等](https://github.com/dynamitechetan/FogView_Library)
+  * [仿小米运动，目前做的最漂亮的一款脉搏效果](https://github.com/booncol/Pulsator4Droid)
  
 ##**工具类**
 
@@ -378,6 +392,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [android端ZXing二维码扫码器，高度自定义FindView ，支持设备自由转屏](https://github.com/ThePacific/zxing-barcode)
   * [可以读取SD卡，asset文件夹，或者网络下载的pdf文件的widget](https://github.com/voghDev/PdfViewPager)
   * [可读取pdf文件的view](https://github.com/barteksc/AndroidPdfViewer)
+  * [类似IOS点击状态栏列表返回顶部](https://github.com/kmshack/Android-TopScrollHelper)
 
 ##**链接**
   * [一个很棒的UI/UX 列表，包含各种控件](https://github.com/wasabeef/awesome-android-ui)
