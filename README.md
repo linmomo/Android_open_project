@@ -53,12 +53,14 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [EditText富文本编辑器](https://github.com/chen-xiao-dong/RichEditText)
   * [带动画的类似 PIN 的 EditText](https://github.com/alphamu/PinEntryEditText)
   * [在EditText中显示tag的view ](https://github.com/qiugang/EditTag)
+  * [Android EditText的撤销和恢复（反撤销）](https://github.com/qinci/AndroidEdit/)
 *  Button
   * [一个Button分成两部分效果](https://github.com/yankai-victor/RingButton) 
   * [连续组合点击](https://github.com/brucetoo/ComboView)
 * SwitchButton
   * [拥有18种果冻效果、30种缓动效果、可变色的开关按钮](https://github.com/Nightonke/JellyToggleButton/blob/master/README-ZH.md) 
   * [笑脸ToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/README-ZH.md)
+  * [一个看了就心情很好的 Switch 组件，好有创意](https://github.com/ztelur/FunSwitch)
 *  CheckBox
   * [自定义动画checkbox](https://github.com/andyxialm/SmoothCheckBox) 
   * [带动画的Checkbox](https://github.com/lguipeng/AnimCheckBox)
@@ -73,6 +75,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一款比较好看的进度条](https://github.com/castorflex/SmoothProgressBar)
   * [Range Seekbar](https://github.com/dolphinwang/RangeSeekbar)
   * [给用户提供一个好看的 Rating 打分效果](https://github.com/eugeneek/SmileBar)
+  * [一个简单实现的自定义圆环进度条,可使用于文件的上传下载图片加载等地方.](https://github.com/HotBitmapGG/RingProgressBar)
 *  ScrollView
   *  [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
 *  RecyclerView
@@ -294,6 +297,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [夜间模式](https://github.com/ashqal/NightOwl)
   * [MagicaSakura 是 Android 多主题框架 ](https://github.com/Bilibili/MagicaSakura)
   * [超赞！Android 多主题切换库！](https://github.com/52inc/Scoops)
+  * [Android 主题换肤的开源库（插件化换肤）](https://github.com/burgessjp/ThemeSkinning/blob/master/README.md)
 * Shop
   * [android仿京东、淘宝商品详情页上拉查看详情](https://github.com/ysnows/DoubleScrollVIew) 
   * [仿照淘宝和聚美优品，在商品详情页，向上拖动时，可以加载下一页](https://github.com/xmuSistone/android-vertical-slide-view)
@@ -311,11 +315,13 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [自定义Floatview实现全站浮动按钮和来电秀](https://github.com/AlexLiuSheng/FloatView)
   * [悬浮球-一个服务开启悬浮球，任何界面都可以使用](https://github.com/hanbaokun/FloatingViewService)
   * [酷炫信用卡View](https://github.com/cooltechworks/CreditCardView)
+  * [Android酷炫的礼物卡片控件](https://github.com/ldoublem/GiftCard)
   * [漂亮的数字转化视图](https://github.com/me-abhinav/NumberMorphView)
   * [一个类似支付宝、微信输入支付密码的控件](https://github.com/iamMehedi/PasscodeView)
   * [自定义卡片集view，支持展开收缩滚动](https://github.com/loopeer/CardStackView)
   * [一个支持四个方向循环滚动的自定义控件](https://github.com/oubowu/MarqueeLayoutLibrary)
   * [全新的快速索引导航栏，联系人字母排序侧边栏](https://github.com/kongnanlive/SideBar)
+  * [做的很不错的一款侧边栏索引](https://github.com/Solartisan/WaveSideBar)
   * [类Android 5.0任务管理的控件](https://github.com/Bossyao168/StackOverView)
   * [SmallChart图表库](https://github.com/Idtk/SmallChart)
   * [twitter 点赞效果](https://github.com/frogermcs/LikeAnimation)
@@ -323,6 +329,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [旋转3D视图显示View](https://github.com/binaryroot/CarouselView)
   * [雾化擦除效果，可以做出来一些好玩儿的交互效果，比如：猜谜竞猜，低价销售展示，广告展示等等](https://github.com/dynamitechetan/FogView_Library)
   * [仿小米运动，目前做的最漂亮的一款脉搏效果](https://github.com/booncol/Pulsator4Droid)
+  * [滚动数字控件](https://github.com/a-voyager/ScrollNumber/blob/master/README_zh.md)
+  * [Android 3D立体无限旋转滚动容器](https://github.com/ImmortalZ/StereoView)
  
 ##**工具类**
 
@@ -356,6 +364,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [打码效果](https://github.com/DanielMartinus/Pixelate)
   * [AndroidImageEdit 安卓设备上图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作](https://github.com/siwangqishiq/ImageEditor-Android)
   * [滤镜SDK](https://github.com/Zomato/AndroidPhotoFilters)
+  * [包含美颜等40余种实时滤镜相机，可拍照、录像、图片修改](https://github.com/wuhaoyu1990/MagicCamera)
 * DownLoad
   *  [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
   *  [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
