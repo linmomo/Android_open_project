@@ -76,6 +76,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Range Seekbar](https://github.com/dolphinwang/RangeSeekbar)
   * [给用户提供一个好看的 Rating 打分效果](https://github.com/eugeneek/SmileBar)
   * [一个简单实现的自定义圆环进度条,可使用于文件的上传下载图片加载等地方.](https://github.com/HotBitmapGG/RingProgressBar)
+  * [仿微信公众号设置文章字体大小时所需要的View控件](https://github.com/YangShaoXiong/RangeBar)
 *  ScrollView
   *  [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
 *  RecyclerView
@@ -249,6 +250,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [带箭头的Android气泡控件/容器类](https://github.com/cpiz/BubbleView/blob/master/README_CN.md)
   * [提示框 ](https://github.com/douglasjunior/android-simple-tooltip)
   * [一系列可绘制的 Badge](https://github.com/nekocode/Badge)
+  * [高自由度的标签选择器](https://github.com/Rock610/TagSelectorView)
 * Gallery
   * [让图像呈现gallery显示效果](https://github.com/lawloretienne/ImageGallery) 
   * [Android CoverFlow widget](https://github.com/moondroid/CoverFlow)
@@ -331,6 +333,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿小米运动，目前做的最漂亮的一款脉搏效果](https://github.com/booncol/Pulsator4Droid)
   * [滚动数字控件](https://github.com/a-voyager/ScrollNumber/blob/master/README_zh.md)
   * [Android 3D立体无限旋转滚动容器](https://github.com/ImmortalZ/StereoView)
+  * [酷炫的碎纸机Andorid版本](https://github.com/ldoublem/PaperShredder)
  
 ##**工具类**
 
