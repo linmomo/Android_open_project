@@ -285,7 +285,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [一些 indicator样式](https://github.com/ongakuer/CircleIndicator) 
   *  [一个好的广告轮播](https://github.com/H07000223/FlycoBanner_Master/blob/master/README_CN.md)
   *  [可定制的Indicator,结合ViewPager使用,当然不通过ViewPager也可以用](https://github.com/jiang111/ScalableTabIndicator)
-  *  [Flipboard广告控件](https://github.com/chengdazhi/DecentBanner)
+  *  [Flipboard轮播组件](https://github.com/chengdazhi/DecentBanner)
 * CountDown
   * [TextureView仿手淘倒计时](https://github.com/CaMnter/EasyCountDownTextureView)
   * [倒计时控件](https://github.com/iwgang/CountdownView/blob/master/README_CN.md)   
@@ -345,6 +345,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 3D立体无限旋转滚动容器](https://github.com/ImmortalZ/StereoView)
   * [酷炫的碎纸机Andorid版本](https://github.com/ldoublem/PaperShredder)
   * [电影票在线选座 ](https://github.com/qifengdeqingchen/SeatTable)
+  * [刮刮卡效果](https://github.com/jackpocket/android_scratchoff)
  
 ##**工具类**
 
