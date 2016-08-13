@@ -326,6 +326,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * 赞
   * [twitter 点赞效果](https://github.com/frogermcs/LikeAnimation)
   * [点赞效果 类似twitter的效果](https://github.com/ChadCSong/ShineButton)
+  * [点赞动画](https://github.com/ldoublem/ThumbUp)
 * 图表
    *  [SmallChart图表库](https://github.com/Idtk/SmallChart)
 *  悬浮View 
@@ -411,6 +412,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [编译好的VLC播放器](https://github.com/hanhailong/VCL-Android)
   * [剪辑视频](https://github.com/knowledge4life/k4l-video-trimmer)
   * [一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，可全屏切换 ](https://github.com/w1123440793/VideoListDemo)
+  * [可以实现好多种音效的播放器](http://android-openslmediaplayer.h6ah4i.com/#carousel-demoapp-1)
 * 直播
   * [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
 * App下载更新
@@ -441,6 +443,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [崩溃日志上传框架](https://github.com/wenmingvs/LogReport)
   * [Android Permission 辅助检测和申请工具库](https://github.com/rebus007/PermissionUtils)
   * [Android 文件选择工具库](https://github.com/Angads25/android-filepicker)
+  * [Android 摄像头实时滤镜](https://github.com/nekocode/CameraFilter)
    
 ##**链接**
   * [一个很棒的UI/UX 列表，包含各种控件](https://github.com/wasabeef/awesome-android-ui)
