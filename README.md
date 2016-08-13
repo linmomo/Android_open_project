@@ -63,6 +63,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个Button分成两部分效果](https://github.com/yankai-victor/RingButton) 
   * [连续组合点击](https://github.com/brucetoo/ComboView)
   * [带完成动画效果的按钮](https://github.com/SparkYuan/SubmitButton)
+  * [Button 拉长展开效果 ](https://github.com/daniel-martins-IR/MagicButton)
 * SwitchButton
   * [拥有18种果冻效果、30种缓动效果、可变色的开关按钮](https://github.com/Nightonke/JellyToggleButton/blob/master/README-ZH.md) 
   * [笑脸ToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/README-ZH.md)
@@ -308,6 +309,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 欢迎页开源项目](http://www.jianshu.com/p/b08286b9e3f6)
   * [最最轻量级的新手引导库（只有7个类），能够快速的为一个Activity里的任何一个View控件创建一个遮罩式的导航页](https://github.com/binIoter/GuideView)
   * [程序引导界面与动画效果](https://github.com/HeinrichReimer/material-intro)
+  * [漂亮的 Welcome 效果框架 ](https://github.com/txusballesteros/welcome-coordinator)
+  * [漂亮的变换引导效果](https://github.com/eoinfogarty/Onboarding)
 * Theme
   * [日夜间模式切换](https://github.com/zzz40500/ThemeDemo)
   * [基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式](https://github.com/bboyfeiyu/Colorful)
@@ -395,6 +398,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [滤镜SDK](https://github.com/Zomato/AndroidPhotoFilters)
   * [包含美颜等40余种实时滤镜相机，可拍照、录像、图片修改](https://github.com/wuhaoyu1990/MagicCamera)
   * [支持常见的一些图片滤镜效果函数](https://github.com/mukeshsolanki/photofilter)
+  * [Android任意添加贴纸，支持添加Bitmap和Drawable ](https://github.com/wuapnjie/StickerView)
 * DownLoad
   *  [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
   *  [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
