@@ -236,6 +236,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画](https://github.com/venshine/BezierMaker)
 *  ScrollView
   *  [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
+  *  [Android Header 自动随滑动浮动](https://github.com/w446108264/ScrollableLayout)
 * Layout
   * [手势滑动返回的Fragment](https://github.com/YoKeyword/SwipeBackFragment) 
   * [一种可根据展开是否超出屏幕来判断父控件是否自动滚动的ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout)
@@ -296,6 +297,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [一个好的广告轮播](https://github.com/H07000223/FlycoBanner_Master/blob/master/README_CN.md)
   *  [可定制的Indicator,结合ViewPager使用,当然不通过ViewPager也可以用](https://github.com/jiang111/ScalableTabIndicator)
   *  [Flipboard轮播组件](https://github.com/chengdazhi/DecentBanner)
+  *  [一个简单，强大的广告活动弹窗控件](https://github.com/yipianfengye/android-adDialog)
 * CountDown
   * [TextureView仿手淘倒计时](https://github.com/CaMnter/EasyCountDownTextureView)
   * [倒计时控件](https://github.com/iwgang/CountdownView/blob/master/README_CN.md)   
@@ -417,6 +419,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [剪辑视频](https://github.com/knowledge4life/k4l-video-trimmer)
   * [一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，可全屏切换 ](https://github.com/w1123440793/VideoListDemo)
   * [可以实现好多种音效的播放器](http://android-openslmediaplayer.h6ah4i.com/#carousel-demoapp-1)
+  * [安卓音频录制 ](https://github.com/adrielcafe/AndroidAudioRecorder)
 * 直播
   * [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
 * App下载更新
