@@ -44,6 +44,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 色彩渐进 ImageView](https://github.com/skyfe79/AndroidGradientImageView)
   * [用 ImageView 实现圆形头像](https://github.com/Carbs0126/AvatarImageView)
   * [基于 Picasso 库实现的人脸检测和图片自动智能裁剪，做的超棒](https://github.com/aryarohit07/PicassoFaceDetectionTransformation)
+  * [多种样式的图片](https://github.com/Idtk/FigureImageView)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -219,22 +220,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * Calendar
   * [一款漂亮的calendar ](https://github.com/SundeepK/CompactCalendarView)
   * [ListView实现的日历](https://github.com/traex/CalendarListview)
-* Animations
-  * [android控件动画集合](https://github.com/daimajia/AndroidViewAnimations)
-  * [页面过渡动画](https://github.com/linfaxin/TransitionPlayer)
-  * [简单的创建属性动画](https://github.com/robinxdroid/XDroidAnimation)
-  * [Android Easing 函数库，动画](https://github.com/MasayukiSuda/EasingInterpolator)
-  * [一个给SVG添加动画的库](https://github.com/glomadrian/RoadRunner)
-  * [Fragment切换动画](https://github.com/kakajika/FragmentAnimations)
-  * [简单的的函数实现绚丽动画效果](https://github.com/wingjay/WJMagicCurveView)
-  * [切换页面的圆形动画效果](https://github.com/SpikeKing/wcl-circle-reveal-demo)
-  * [google now的动画样式](https://github.com/zagum/SpeechRecognitionView)
-  * [动画效果集合](https://github.com/wusp/IndicatorBox)
-  * [正弦曲线动画绘制](https://github.com/guiguegon/SineView)
-  * [当数学遇上动画：讲述ValueAnimator、TypeEvaluator和TimeInterpolator之间的恩恩怨怨](https://github.com/hujiaweibujidao/yava/blob/master/README-CN.md)
-  * [Android动画库项目](https://github.com/hujiaweibujidao/wava/blob/master/README-CN.md)
-  * [通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画](https://github.com/venshine/BezierMaker)
-  * [一个炫酷的SearchView搜索动画库](https://github.com/android-cjj/JJSearchViewAnim/blob/master/README-CN.md)
+  * [一个ListView 和 CalendarView 结合并互相联动的控件，日历可以伸缩扩展，列表可以上拉下沉](https://github.com/Kelin-Hong/CalendarListView)
 *  ScrollView
   *  [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
   *  [Android Header 自动随滑动浮动](https://github.com/w446108264/ScrollableLayout)
@@ -251,6 +237,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [给布局添加提示](https://github.com/tomergoldst/tooltips)
   * [给布局添加阴影，立体显示](https://github.com/wangjiegulu/ShadowViewHelper)
   * [视图分层视差效果](https://github.com/SchibstedSpain/Parallax-Layer-Layout)
+   * [高仿微信手势滑动返回](https://github.com/hanhailong/SwipeBackSample)
 
 ##**自定义控件**
 
@@ -338,6 +325,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [区域点赞](https://github.com/CaMnter/EasyLikeArea)
 * 图表
    *  [SmallChart图表库](https://github.com/Idtk/SmallChart)
+   *  [图表控件](https://github.com/mychoices/Jgraph)
 *  悬浮View 
    * [自定义Floatview实现全站浮动按钮和来电秀](https://github.com/AlexLiuSheng/FloatView)
    * [悬浮球-一个服务开启悬浮球，任何界面都可以使用](https://github.com/hanbaokun/FloatingViewService)
@@ -404,6 +392,18 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [包含美颜等40余种实时滤镜相机，可拍照、录像、图片修改](https://github.com/wuhaoyu1990/MagicCamera)
   * [支持常见的一些图片滤镜效果函数](https://github.com/mukeshsolanki/photofilter)
   * [Android任意添加贴纸，支持添加Bitmap和Drawable ](https://github.com/wuapnjie/StickerView)
+  
+* ImageSelector
+ * [Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置](https://github.com/pengjianbo/GalleryFinal)
+ * [图片选择库，可以用来选择头像，或者多张图片选择， material design](https://github.com/lijunguan/AlbumSelector)
+ * [一款支持多选的图片选择器，支持Android2.0+](https://git.oschina.net/xiao-lifan/MutiPhotoChoser#git-readme)
+ * [android 相册支持单选模式和多选模式](https://github.com/wqandroid/wqgallery)
+ * [仿微信实现多图选择。支持单选和多选两种模式](https://github.com/lovetuzitong/MultiImageSelector/blob/master/README_zh.md)
+ * [Simple Android Album](https://github.com/D-clock/AndroidAlbum)
+ * [android powerful picture picker](https://github.com/ValuesFeng/AndroidPicturePicker)
+ * [Library for picking pictures from gallery or camera](https://github.com/jkwiecien/EasyImage)
+ * [完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数](https://github.com/jeasonlzy0216/ImagePicker)
+ * [图片选择器](https://github.com/917386389/imagepickerdemo)
 * DownLoad
   *  [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
   *  [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
@@ -443,7 +443,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [识别手势类库 ](https://github.com/nisrulz/sensey)
   * [毛玻璃效果的解锁界面](https://github.com/Nightonke/BlurLockView/blob/master/README-ZH.md)
   * [添加、识别电话号码归属国家](https://github.com/lamudi-gmbh/android-phone-field)
-  * [高仿微信手势滑动返回](https://github.com/hanhailong/SwipeBackSample)
   * [VR Android](https://github.com/babysource/VRDroid)
   * [更好的管理线程间跳转的库](https://github.com/jiang111/ObservableScheduler)
   * [类ios顶级状态栏返回列表顶部](https://github.com/kmshack/Android-TopScrollHelper)
@@ -454,6 +453,24 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android Permission 辅助检测和申请工具库](https://github.com/rebus007/PermissionUtils)
   * [Android 文件选择工具库](https://github.com/Angads25/android-filepicker)
   * [Android 摄像头实时滤镜](https://github.com/nekocode/CameraFilter)
+
+##**Animations**
+  * [android控件动画集合](https://github.com/daimajia/AndroidViewAnimations)
+  * [页面过渡动画](https://github.com/linfaxin/TransitionPlayer)
+  * [简单的创建属性动画](https://github.com/robinxdroid/XDroidAnimation)
+  * [Android Easing 函数库，动画](https://github.com/MasayukiSuda/EasingInterpolator)
+  * [一个给SVG添加动画的库](https://github.com/glomadrian/RoadRunner)
+  * [Fragment切换动画](https://github.com/kakajika/FragmentAnimations)
+  * [简单的的函数实现绚丽动画效果](https://github.com/wingjay/WJMagicCurveView)
+  * [切换页面的圆形动画效果](https://github.com/SpikeKing/wcl-circle-reveal-demo)
+  * [google now的动画样式](https://github.com/zagum/SpeechRecognitionView)
+  * [动画效果集合](https://github.com/wusp/IndicatorBox)
+  * [正弦曲线动画绘制](https://github.com/guiguegon/SineView)
+  * [当数学遇上动画：讲述ValueAnimator、TypeEvaluator和TimeInterpolator之间的恩恩怨怨](https://github.com/hujiaweibujidao/yava/blob/master/README-CN.md)
+  * [Android动画库项目](https://github.com/hujiaweibujidao/wava/blob/master/README-CN.md)
+  * [通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画](https://github.com/venshine/BezierMaker)
+  * [一个炫酷的SearchView搜索动画库](https://github.com/android-cjj/JJSearchViewAnim/blob/master/README-CN.md)
+  * [一个酷炫的钱包掉落动画](https://github.com/JangGwa/GoldDrop)
    
 ##**链接**
   * [一个很棒的UI/UX 列表，包含各种控件](https://github.com/wasabeef/awesome-android-ui)
