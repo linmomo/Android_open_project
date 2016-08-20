@@ -263,7 +263,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一系列可绘制的 Badge](https://github.com/nekocode/Badge)
   * [高自由度的标签选择器](https://github.com/Rock610/TagSelectorView)
   * [给人眼前一亮的 Toast 效果](https://github.com/yadav-rahul/TastyToast)
-  * [拖拽的标签布局](https://github.com/LightSun/android-drag-FlowLayout)
+  * [Android 支持拖拽排序的流式标签布局](https://github.com/LightSun/android-drag-FlowLayout)
 * Gallery
   * [让图像呈现gallery显示效果](https://github.com/lawloretienne/ImageGallery) 
   * [Android CoverFlow widget](https://github.com/moondroid/CoverFlow)
