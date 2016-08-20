@@ -234,6 +234,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [当数学遇上动画：讲述ValueAnimator、TypeEvaluator和TimeInterpolator之间的恩恩怨怨](https://github.com/hujiaweibujidao/yava/blob/master/README-CN.md)
   * [Android动画库项目](https://github.com/hujiaweibujidao/wava/blob/master/README-CN.md)
   * [通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画](https://github.com/venshine/BezierMaker)
+  * [一个炫酷的SearchView搜索动画库](https://github.com/android-cjj/JJSearchViewAnim/blob/master/README-CN.md)
 *  ScrollView
   *  [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
   *  [Android Header 自动随滑动浮动](https://github.com/w446108264/ScrollableLayout)
@@ -289,6 +290,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一些酷炫的加载动画， 可以与任何View配合使用，作为加载动画或者Progressbar,](https://github.com/dinuscxj/LoadingDrawable/blob/master/README-ZH.md)
   * [CircleProgressBar继承ProgressBar,是包含实心和线条两种风格的圆环进度条.](https://github.com/dinuscxj/CircleProgressBar/blob/master/README-ZH.md)
   * [各种动画效果的LoadingView](https://github.com/ldoublem/LoadingView)
+  * [一款加载动画，不同的物体加速下落砸到了文字上，文字逞阻尼效果，向下弯曲并像橡皮筋一样弹动回去的效果](https://github.com/Huyamin150/-dampView-springingView)
 * Banner
   * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
   *  [轮播Banner](https://github.com/waylife/InfiniteViewPager/blob/master/README_ZH.md)
@@ -303,7 +305,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [倒计时控件](https://github.com/iwgang/CountdownView/blob/master/README_CN.md)   
   * [TickTock计时器](https://github.com/BCGDV-ASIA/android-widget-ticktock)
 *  Guide
-  * [ 用于app指向性功能高亮的库](https://github.com/hongyangAndroid/Highlight)
+  * [用于app指向性功能高亮的库](https://github.com/hongyangAndroid/Highlight)
   * [引导页](https://github.com/RubenGees/Introduction)
   * [WoWo可以优化你的App介绍/引导页面，WoWo将动画和viewpager结合起来。](https://github.com/Nightonke/WoWoViewPager)
   * [自定义欢迎界面](https://github.com/stephentuso/welcome-android)
@@ -313,6 +315,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [程序引导界面与动画效果](https://github.com/HeinrichReimer/material-intro)
   * [漂亮的 Welcome 效果框架 ](https://github.com/txusballesteros/welcome-coordinator)
   * [漂亮的变换引导效果](https://github.com/eoinfogarty/Onboarding)
+  * [小红书欢迎引导第二版](https://github.com/w446108264/XhsWelcomeAnim)
 * Theme
   * [日夜间模式切换](https://github.com/zzz40500/ThemeDemo)
   * [基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式](https://github.com/bboyfeiyu/Colorful)
@@ -332,6 +335,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [twitter 点赞效果](https://github.com/frogermcs/LikeAnimation)
   * [点赞效果 类似twitter的效果](https://github.com/ChadCSong/ShineButton)
   * [点赞动画](https://github.com/ldoublem/ThumbUp)
+  * [区域点赞](https://github.com/CaMnter/EasyLikeArea)
 * 图表
    *  [SmallChart图表库](https://github.com/Idtk/SmallChart)
 *  悬浮View 
@@ -387,8 +391,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [表情app ](https://github.com/klinker24/Android-SlidingEmojiKeyboard)
   * [各种聊天气泡](https://github.com/MasayukiSuda/BubbleLayout)
   * [聊天列表样式，使用很简单 (](https://github.com/Slyce-Inc/SlyceMessaging)
-  * [
-一行代码让你的 App 全局替换成 Apple Style 的 Emoji](https://github.com/nekocode/Emojix)
+  * [一行代码让你的 App 全局替换成 Apple Style 的 Emoji](https://github.com/nekocode/Emojix)
 * PhotoEdit
   * [截取圆形图片，可缩放](https://github.com/hpfs0/DragScaleCircleView)
   * [一个图片裁剪库](https://github.com/Yalantis/uCrop)
