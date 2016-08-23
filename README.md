@@ -42,6 +42,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [超实用的 Android 图片压缩工具。](https://github.com/zetbaitsu/Compressor)
   * [Low Poly 图片生成器](https://github.com/zzhoujay/LowPoly)
   * [导入图片生成Low Poly风格图片的app](https://github.com/hugeterry/PloyFun)
+  * [利用 Renderscript 实现的一个简单的模糊效果封装组件](https://github.com/wl9739/BlurredView)
   * [Android 图片点击全屏放大效果](https://github.com/code-crusher/Image-Zoomer)
   * [Android 色彩渐进 ImageView](https://github.com/skyfe79/AndroidGradientImageView)
   * [用 ImageView 实现圆形头像](https://github.com/Carbs0126/AvatarImageView)
@@ -153,6 +154,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [一个可以垂直滑动滑动，折叠的ViewPager的库](https://github.com/Telenav/ExpandablePager)
   *  [左右滑动时有视差的效果的 ViewPager](https://github.com/ybq/ParallaxViewPager)
   *  [带圆圈切换动画的ViewPager](https://github.com/Modificator/CircleIndicator)
+  *  [类似 Duolingo 的 Card 滑动和选择效果](https://github.com/rubensousa/ViewPagerCards)
+  *  [通过一行代码与ViewPager合体的跟随ViewPager移动的进度展示控件](https://github.com/hzw1199/android_ProcessBar)
 * PickView
   * [安卓选择器类，包括各种类型的选择器，可自定义顶部及底部界面，可自定义窗口动画](https://github.com/gzu-liyujiang/AndroidPicker)
   * [日期选择控件](https://github.com/flavienlaurent/datetimepicker) 
@@ -199,6 +202,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [动画显示能够侧滑消失的DialogFragment](https://github.com/kakajika/SwipeAwayDialog)
   * [Android版的SweetAlert，清新文艺，快意灵动的甜心弹框](https://github.com/pedant/sweet-alert-dialog/blob/master/README.zh.md)
   * [使用 DialogFragment 实现底部弹窗布局](https://github.com/SpikeKing/BottomDialogDemo)
+  * [基于相对位置实现弹出 PopupWindow](https://github.com/kakajika/RelativePopupWindow)
 *  Material Design
   * [一个兼容android 2.2material design组件库](https://github.com/navasmdc/MaterialDesignLibrary)
   * [android material design 风格项目整理](https://github.com/soyoungboy/android-material-design-Open-source-projects)
@@ -224,6 +228,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [PagerBottomTabStrip 是一个基本按谷歌Material Design规范完成的安卓底部导航栏控件](https://github.com/tyzlmjj/PagerBottomTabStrip)
   * [遇见 LoopBar 从Cleveroad。在Android环境中导航的新方法](https://github.com/Cleveroad/LoopBar)
   * [基于 Floating Button 实现的菜单展开效果，做的非常棒](https://github.com/andremion/Floating-Navigation-View)
+  * [仿照 Google Space 实现的导航栏效果，做的很漂亮！！](https://github.com/armcha/Space-Navigation-View)
 * Calendar
   * [一款漂亮的calendar ](https://github.com/SundeepK/CompactCalendarView)
   * [ListView实现的日历](https://github.com/traex/CalendarListview)
@@ -248,6 +253,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [高仿微信手势滑动返回](https://github.com/hanhailong/SwipeBackSample)
   * [手势返回](https://github.com/ikew0ng/SwipeBackLayout)
   * [有与微信相同的手势返回](https://github.com/Jude95/SwipeBackHelper/blob/master/README_ch.md)
+  * [漂亮的色彩渐变式背景效果](https://github.com/dynamitechetan/Flowing-Gradient)
 
 ##**自定义控件**
 
@@ -290,6 +296,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [各种动画效果的LoadingView](https://github.com/ldoublem/LoadingView)
   * [一款加载动画，不同的物体加速下落砸到了文字上，文字逞阻尼效果，向下弯曲并像橡皮筋一样弹动回去的效果](https://github.com/Huyamin150/-dampView-springingView)
   * [手摸手教你写Slack的Loading动画](https://github.com/JeasonWong/SlackLoadingView)
+  * [仿支付宝实现的一个笑脸 LoadingView 效果。](https://github.com/andyxialm/SmileyLoadingView)
 * Banner
   * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
   *  [轮播Banner](https://github.com/waylife/InfiniteViewPager/blob/master/README_ZH.md)
@@ -368,6 +375,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [电影票在线选座 ](https://github.com/qifengdeqingchen/SeatTable)
   * [刮刮卡效果](https://github.com/jackpocket/android_scratchoff)
   * [机票座位在线选择android](https://github.com/ldoublem/FlightSeat)
+  * [Android 炫酷发送效果 Demo，赶紧翻开代码学习学习](https://github.com/Jaouan/Sending-Animation-Example)
  
 ##**工具类**
 
@@ -455,7 +463,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * QRCODE
  * [android端ZXing二维码扫码器，高度自定义FindView ，支持设备自由转屏](https://github.com/ThePacific/zxing-barcode)
  * [生成二维码和从图片解析二维码库](https://github.com/RurioLuca/QrCardParsing)
- * [快速集成二维码扫描功能](https://github.com/yipianfengye/android-zxingLibrary)
+ * [封装 zxing 二维码扫描功能库，用起来更简单 ](https://github.com/yipianfengye/android-zxingLibrary)
  * [扫描二维码、扫描条形码、相册获取图片后识别、生成带Logo二维码、支持微博微信QQ二维码扫描样式](https://github.com/bingoogolapple/BGAQRCode-Android)
 * Other 
   * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
@@ -494,6 +502,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画](https://github.com/venshine/BezierMaker)
   * [一个炫酷的SearchView搜索动画库](https://github.com/android-cjj/JJSearchViewAnim/blob/master/README-CN.md)
   * [一个酷炫的钱包掉落动画](https://github.com/JangGwa/GoldDrop)
+  * [很概念化设计的一个注册动画效果。](https://github.com/JeasonWong/SignUpTransition)
+  * [多种形状波纹特效，可以用来实现一些背景特效](https://github.com/poldz123/ShapeRipple)
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
