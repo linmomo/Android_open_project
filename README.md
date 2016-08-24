@@ -23,6 +23,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个能够在任何控件之上执行漂浮效果动画的控件](https://github.com/UFreedom/FloatingText/blob/master/README_CN.md)
   * [一个滑动动画的textview（更好的显示温度，金额等）](https://github.com/robinhood/ticker)
   * [textview闪亮效果](https://github.com/RomainPiel/Shimmer-android)
+  * [支持解析部分 html tag 的 TextView。在做阅读类 App 的时候格外需要](https://github.com/angebagui/medium-textview)
 *  ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
@@ -156,6 +157,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [带圆圈切换动画的ViewPager](https://github.com/Modificator/CircleIndicator)
   *  [类似 Duolingo 的 Card 滑动和选择效果](https://github.com/rubensousa/ViewPagerCards)
   *  [通过一行代码与ViewPager合体的跟随ViewPager移动的进度展示控件](https://github.com/hzw1199/android_ProcessBar)
+  *  [Android 支持水平和垂直滑动的ViewPager，效果很赞](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager)
 * PickView
   * [安卓选择器类，包括各种类型的选择器，可自定义顶部及底部界面，可自定义窗口动画](https://github.com/gzu-liyujiang/AndroidPicker)
   * [日期选择控件](https://github.com/flavienlaurent/datetimepicker) 
@@ -203,6 +205,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android版的SweetAlert，清新文艺，快意灵动的甜心弹框](https://github.com/pedant/sweet-alert-dialog/blob/master/README.zh.md)
   * [使用 DialogFragment 实现底部弹窗布局](https://github.com/SpikeKing/BottomDialogDemo)
   * [基于相对位置实现弹出 PopupWindow](https://github.com/kakajika/RelativePopupWindow)
+  * [可以记住历史选项的spinner](https://github.com/Jasonchenlijian/MemorySpinner)
 *  Material Design
   * [一个兼容android 2.2material design组件库](https://github.com/navasmdc/MaterialDesignLibrary)
   * [android material design 风格项目整理](https://github.com/soyoungboy/android-material-design-Open-source-projects)
@@ -348,6 +351,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * 图表
    *  [SmallChart图表库](https://github.com/Idtk/SmallChart)
    *  [图表控件](https://github.com/mychoices/Jgraph)
+   *  [Android上的一个蛛网评分控件](https://github.com/xiaopansky/SpiderWebScoreView)
 *  悬浮View 
    * [自定义Floatview实现全站浮动按钮和来电秀](https://github.com/AlexLiuSheng/FloatView)
    * [悬浮球-一个服务开启悬浮球，任何界面都可以使用](https://github.com/hanbaokun/FloatingViewService)
@@ -355,6 +359,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [ 大图作为header跟随手指向上滑动，下拉展示大图](https://github.com/w4lle/PullDownView)
   * [是一个实现树形内容展示的库](https://github.com/Telenav/NodeFlow)
   * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
+  * [使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference](https://github.com/RikkaW/MaterialPreference)
   * [一个可自定义子控件大小及位置、相等大小的子控件间可通过拖动交换位置的ViewGroup](https://github.com/alivebao/FreeSizeDraggableLayout)
   * [对任意View添加连击事件](https://github.com/gjiazhe/ComboListener)
   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
