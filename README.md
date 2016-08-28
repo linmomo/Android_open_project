@@ -77,6 +77,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [自定义动画checkbox](https://github.com/andyxialm/SmoothCheckBox) 
   * [带动画的Checkbox](https://github.com/lguipeng/AnimCheckBox)
   * [CircleCheckBox](https://github.com/arlindiDev/CircleCheckBox)
+  * [让任何布局支持选中状态，类似 Checkbox 的属性](https://github.com/Jaouan/CompoundLayout)
 *  ProgressBar/SeekBar
   * [一个展示注册进度的ProgressBar](https://github.com/jiang111/ProgressView)
   * [渐变的圆形进度条与轻量横向进度条](https://github.com/lingochamp/MagicProgressWidget)
@@ -91,6 +92,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿微信公众号设置文章字体大小时所需要的View控件](https://github.com/YangShaoXiong/RangeBar)
   * [仿新浪体育客户端比分的进度条](https://github.com/YangShaoXiong/LikeSinaSportProgress)
   * [五星好评](https://github.com/FlyingPumba/SimpleRatingBar)
+  * [Android环形进度条类似apple watch健身记录](https://github.com/ldoublem/RingProgress)
 *  RecyclerView
   *  [RecyclerView开源项目集合](https://github.com/CameloeAnthony/Learning-RecyclerView)
   * [一个支持可伸缩头部的布局](https://github.com/hongyangAndroid/Android-StickyNavLayout)
@@ -356,7 +358,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [自定义Floatview实现全站浮动按钮和来电秀](https://github.com/AlexLiuSheng/FloatView)
    * [悬浮球-一个服务开启悬浮球，任何界面都可以使用](https://github.com/hanbaokun/FloatingViewService)
 * Other 
-  * [ 大图作为header跟随手指向上滑动，下拉展示大图](https://github.com/w4lle/PullDownView)
+  * [大图作为header跟随手指向上滑动，下拉展示大图](https://github.com/w4lle/PullDownView)
   * [是一个实现树形内容展示的库](https://github.com/Telenav/NodeFlow)
   * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
   * [使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference](https://github.com/RikkaW/MaterialPreference)
@@ -381,6 +383,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [刮刮卡效果](https://github.com/jackpocket/android_scratchoff)
   * [机票座位在线选择android](https://github.com/ldoublem/FlightSeat)
   * [Android 炫酷发送效果 Demo，赶紧翻开代码学习学习](https://github.com/Jaouan/Sending-Animation-Example)
+  * [速度指示器，UI 再改进一下会好看很多很多](https://github.com/anastr/SpeedView)
  
 ##**工具类**
 
@@ -419,7 +422,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [包含美颜等40余种实时滤镜相机，可拍照、录像、图片修改](https://github.com/wuhaoyu1990/MagicCamera)
   * [支持常见的一些图片滤镜效果函数](https://github.com/mukeshsolanki/photofilter)
   * [Android任意添加贴纸，支持添加Bitmap和Drawable ](https://github.com/wuapnjie/StickerView)
-   * [Android 摄像头实时滤镜](https://github.com/nekocode/CameraFilter)
+  * [Android 摄像头实时滤镜](https://github.com/nekocode/CameraFilter)
+  * [Android拼图支持库，轻松实现Instagram Layout效果](https://github.com/wuapnjie/PuzzleView/blob/master/README_CN.md)
 * ImageSelector
  * [Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置](https://github.com/pengjianbo/GalleryFinal)
  * [图片选择库，可以用来选择头像，或者多张图片选择， material design](https://github.com/lijunguan/AlbumSelector)
@@ -470,8 +474,10 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [生成二维码和从图片解析二维码库](https://github.com/RurioLuca/QrCardParsing)
  * [封装 zxing 二维码扫描功能库，用起来更简单 ](https://github.com/yipianfengye/android-zxingLibrary)
  * [扫描二维码、扫描条形码、相册获取图片后识别、生成带Logo二维码、支持微博微信QQ二维码扫描样式](https://github.com/bingoogolapple/BGAQRCode-Android)
-* Other 
+* 蓝牙
+  * [Android BLE 蓝牙开发框架，使用简单的回调方式一步处理搜索、连接、notify、indicate、读、写等一系列蓝牙操作](https://github.com/Jasonchenlijian/FastBle)\
   * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
+* Other 
   * [android下自定义View之雷达扫描 ](https://github.com/gpfduoduo/RadarScanView)
   * [一个获取号码归属地和其他信息（诈骗、骚扰等）的开源库](https://github.com/xdtianyu/PhoneNumber)
   * [识别手势类库 ](https://github.com/nisrulz/sensey)
@@ -519,7 +525,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 ##**链接**
   * [Trinea大神整理的开源项目库](https://github.com/Trinea/android-open-project)
   * [正在成为史上最全分类Android开源代码大全](https://github.com/XXApple/AndroidLibs)
-  *  [自己总结的Android开源项目及库](https://github.com/Tim9Liu9/TimLiu-Android)
+  * [自己总结的Android开源项目及库](https://github.com/Tim9Liu9/TimLiu-Android)
   * [英文版Android开源UI框架分类](https://github.com/wasabeef/awesome-android-ui)
   * [Android开源UI框架分类](https://github.com/yeungeek/awesome-android-ui)
   * [一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档](https://github.com/CameloeAnthony/Perfect_IM_SNS)
