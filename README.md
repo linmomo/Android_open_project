@@ -259,6 +259,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [手势返回](https://github.com/ikew0ng/SwipeBackLayout)
   * [有与微信相同的手势返回](https://github.com/Jude95/SwipeBackHelper/blob/master/README_ch.md)
   * [漂亮的色彩渐变式背景效果](https://github.com/dynamitechetan/Flowing-Gradient)
+  * [一个简单但可以自定义切换动画的管理多状态的自定义layout ](https://github.com/lufficc/StateLayout)
 
 ##**自定义控件**
 
@@ -455,9 +456,10 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [可以实现好多种音效的播放器](http://android-openslmediaplayer.h6ah4i.com/#carousel-demoapp-1)
   * [安卓音频录制 ](https://github.com/adrielcafe/AndroidAudioRecorder)
   * [一个适用于 Android 平台的音视频播放器 SDK，可高度定制化和二次开发，为 Android 开发者提供了简单、快捷的接口，帮助开发者在 Android 平台上快速开发播放器应用。](https://github.com/pili-engineering/PLDroidPlayer)
-  * [Yasea是一个100%纯Java写的，完全开源的安卓直播推流客户端。](https://github.com/begeekmyfriend/yasea)
+  * [基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装。 是一个适用于 Android 的 RTMP 直播推流 SDK，可高度定制化和二次开发](https://github.com/jjdxmashl/jjdxm_ijkplayer/)
 * 直播
   * [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
+  * [Yasea是一个100%纯Java写的，完全开源的安卓直播推流客户端。](https://github.com/begeekmyfriend/yasea)
 * 社交
   * [社交分享组件](https://github.com/maoruibin/ChinaShare)
   * [社交登录授权、分享SDK，支持微信、微博和QQ](https://github.com/elbbbird/ESSocialSDK)
