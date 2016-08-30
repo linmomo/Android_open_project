@@ -160,6 +160,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [类似 Duolingo 的 Card 滑动和选择效果](https://github.com/rubensousa/ViewPagerCards)
   *  [通过一行代码与ViewPager合体的跟随ViewPager移动的进度展示控件](https://github.com/hzw1199/android_ProcessBar)
   *  [Android 支持水平和垂直滑动的ViewPager，效果很赞](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager)
+  *  [一个漂亮的 Android 画廊展示效果](https://github.com/Jaouan/Carousel-Browsing-Example)
 * PickView
   * [安卓选择器类，包括各种类型的选择器，可自定义顶部及底部界面，可自定义窗口动画](https://github.com/gzu-liyujiang/AndroidPicker)
   * [日期选择控件](https://github.com/flavienlaurent/datetimepicker) 
@@ -517,6 +518,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个酷炫的钱包掉落动画](https://github.com/JangGwa/GoldDrop)
   * [很概念化设计的一个注册动画效果。](https://github.com/JeasonWong/SignUpTransition)
   * [多种形状波纹特效，可以用来实现一些背景特效](https://github.com/poldz123/ShapeRipple)
+  * [Android的着色器和过滤器(https://github.com/chiuki/android-graphics-demo)
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
