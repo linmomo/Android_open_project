@@ -64,6 +64,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [一个利用RxJava在TextView和EditText上渲染的markdown解析器，支持大部分语法以及部分语法在EditText上实时预览](https://github.com/yydcdut/RxMarkdown/blob/master/README-zh-rCN.md)
   *  [EditText 实现 Tag 输入和快速选择功能](https://github.com/OfficialAmal/ChipLayout)
   *  [支持自动格式化的 EditText，比如货币、电话号码等等](https://github.com/PaXLiCh/FormattEditText)
+  *  [让 TextView PlaceHolder （Hint）文本带有切换过度效果，在显示多个热门搜索的时候可以用得到](https://github.com/cctanfujun/HintAnim-EditText)
 *  Button
   * [一个Button分成两部分效果](https://github.com/yankai-victor/RingButton) 
   * [连续组合点击](https://github.com/brucetoo/ComboView)
@@ -140,6 +141,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [实现思简单，有趣好玩的下拉刷新库, 你还记得小时候打的黑白掌上游戏机么](https://github.com/Hitomis/FunGameRefresh)
   * [挺有意思的一个下拉刷新效果，可以看看源码学习一下实现类似效果的思路](https://github.com/lubeast/PullToRefresh/blob/master/README_CHN.md)
   * [刷新组件是更换的时候啦！！！轻量级而又无所不能](https://github.com/dinuscxj/RecyclerRefreshLayout)
+  * [“锤子下拉”，东半球最优雅的下拉控件](https://github.com/hougr/SmartisanPull)
 * Adapter
   *  [Android 万能的Adapter for ListView,GridView等，支持多种Item类型的情况](https://github.com/hongyangAndroid/base-adapter)
   *  [FastAdapter](https://github.com/mikepenz/FastAdapter)
@@ -183,6 +185,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Material Design文字缩放入Toolbar的一种实现](https://github.com/yueban/MaterialTextScaleToolbarDemo)
   * [很 Material Design 风格的 Search Bar，可以拿来直接用，文档也很完备。](https://github.com/mancj/MaterialSearchBar)
   * [Android app状态栏变色](https://github.com/hongyangAndroid/ColorfulStatusBar)
+  * [渐进色的 Actionbar 效果，使用场景较少，可以在一些花哨的 App 设计上用得到](https://github.com/flouthoc/Gradbar)
 *  Menu/FloatingActionButton
   * [环形菜单控件](https://github.com/sungerk/CircularMenu)
   * [按钮弹出环绕按钮](https://github.com/anshulagarwal2k/GooeyMenu)
@@ -359,6 +362,10 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 *  悬浮View 
    * [自定义Floatview实现全站浮动按钮和来电秀](https://github.com/AlexLiuSheng/FloatView)
    * [悬浮球-一个服务开启悬浮球，任何界面都可以使用](https://github.com/hanbaokun/FloatingViewService)
+*  Login
+   * [Material 效果两步登录](https://github.com/unipiazza/unipiazza-android-twostepslogin)  
+   * [很概念化设计的一个注册动画效果。](https://github.com/JeasonWong/SignUpTransition)
+   * [Material登录效果](https://github.com/fanrunqi/MaterialLogin)
 * Other 
   * [大图作为header跟随手指向上滑动，下拉展示大图](https://github.com/w4lle/PullDownView)
   * [是一个实现树形内容展示的库](https://github.com/Telenav/NodeFlow)
@@ -386,6 +393,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [机票座位在线选择android](https://github.com/ldoublem/FlightSeat)
   * [Android 炫酷发送效果 Demo，赶紧翻开代码学习学习](https://github.com/Jaouan/Sending-Animation-Example)
   * [速度指示器，UI 再改进一下会好看很多很多](https://github.com/anastr/SpeedView)
+  * [类似 Facebook 闪烁式的 Load View，哇，好漂亮](https://github.com/elye/loaderviewlibrary)
  
 ##**工具类**
 
@@ -426,6 +434,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android任意添加贴纸，支持添加Bitmap和Drawable ](https://github.com/wuapnjie/StickerView)
   * [Android 摄像头实时滤镜](https://github.com/nekocode/CameraFilter)
   * [Android拼图支持库，轻松实现Instagram Layout效果](https://github.com/wuapnjie/PuzzleView/blob/master/README_CN.md)
+  * [图片滤镜](https://github.com/chengdazhi/StyleImageView/wiki/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E%E9%A1%B5)
 * ImageSelector
  * [Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置](https://github.com/pengjianbo/GalleryFinal)
  * [图片选择库，可以用来选择头像，或者多张图片选择， material design](https://github.com/lijunguan/AlbumSelector)
@@ -447,10 +456,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [安卓视频播放器 全屏 播放器列表全屏 仿今日头条UI](https://github.com/lipangit/jiecaovideoplayer/blob/develop/README-ZH.md)
   * [android视频播放器](https://github.com/SinaVDDeveloper/sinavideo_playersdk)
   * [Android声音录制和播放封装库](https://github.com/Piasy/RxAndroidAudio)
-  * [一个Android的弹幕控](https://github.com/linsea/OpenDanmaku件)
+  * [一个Android的弹幕控](https://github.com/linsea/OpenDanmaku)
   * [VideoListPlayer实现了在列表控件（ListView,RecyclerView）中加载并播放视频，并支持滑动时自动播放/暂停的功能利用该项目，可以轻松实现类似Instagram的视频播放功能](https://github.com/waynell/VideoListPlayer)
   * [仿微信小视频录制，基于GitHub上的javacv](https://github.com/szitguy/RecordVideoDemo)
-  * [一个适用于 Android 平台的音视频播放器 SDK，可高度定制化和二次开发](https://github.com/pili-engineering/PLDroidPlayer)
   * [编译好的VLC播放器](https://github.com/hanhailong/VCL-Android)
   * [剪辑视频](https://github.com/knowledge4life/k4l-video-trimmer)
   * [一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，可全屏切换 ](https://github.com/w1123440793/VideoListDemo)
@@ -498,6 +506,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [又一款 MD 风格的 Android 文件选择器组件，支持文件分类选取，交互不错](https://github.com/DroidNinja/Android-FilePicker)
   * [一个轻量级的 Android 异步数据库框架.](https://github.com/hehonghui/simpledb) 
   * [Android手势监听](https://github.com/pwittchen/swipe)
+  * [最轻量的支付宝转账工具类](https://github.com/fython/AlipayZeroSdk)
 
 ##**Animations**
   * [android控件动画集合](https://github.com/daimajia/AndroidViewAnimations)
@@ -516,7 +525,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画](https://github.com/venshine/BezierMaker)
   * [一个炫酷的SearchView搜索动画库](https://github.com/android-cjj/JJSearchViewAnim/blob/master/README-CN.md)
   * [一个酷炫的钱包掉落动画](https://github.com/JangGwa/GoldDrop)
-  * [很概念化设计的一个注册动画效果。](https://github.com/JeasonWong/SignUpTransition)
   * [多种形状波纹特效，可以用来实现一些背景特效](https://github.com/poldz123/ShapeRipple)
   * [Android的着色器和过滤器(https://github.com/chiuki/android-graphics-demo)
 
