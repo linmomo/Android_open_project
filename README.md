@@ -24,6 +24,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个滑动动画的textview（更好的显示温度，金额等）](https://github.com/robinhood/ticker)
   * [textview闪亮效果](https://github.com/RomainPiel/Shimmer-android)
   * [支持解析部分 html tag 的 TextView。在做阅读类 App 的时候格外需要](https://github.com/angebagui/medium-textview)
+  * [一个可折叠和展开的TextView控件](https://github.com/Hymanme/ExpandTextView)
 *  ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
@@ -507,6 +508,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个轻量级的 Android 异步数据库框架.](https://github.com/hehonghui/simpledb) 
   * [Android手势监听](https://github.com/pwittchen/swipe)
   * [最轻量的支付宝转账工具类](https://github.com/fython/AlipayZeroSdk)
+  * [利用 KeyStore 存储密码，加密 SharedPreference 的数据，保证安全性](https://github.com/iamMehedi/Secured-Preference-Store)
 
 ##**Animations**
   * [android控件动画集合](https://github.com/daimajia/AndroidViewAnimations)
