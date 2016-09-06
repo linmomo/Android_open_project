@@ -25,6 +25,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [textview闪亮效果](https://github.com/RomainPiel/Shimmer-android)
   * [支持解析部分 html tag 的 TextView。在做阅读类 App 的时候格外需要](https://github.com/angebagui/medium-textview)
   * [一个可折叠和展开的TextView控件](https://github.com/Hymanme/ExpandTextView)
+  * [非常实用的省略控件，无emoji截断之乱码， 无characterstyle截断之不雅](https://github.com/dinuscxj/EllipsizeTextView)
 *  ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
@@ -122,6 +123,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android RecyclerView 顶部悬浮实现](https://github.com/christmasjason/StickyHeaderView)
   * [一款支持条目展开的 RecyclerView](https://github.com/zaihuishou/ExpandableRecyclerview)
   * [最强RecyclerView，Item侧滑菜单，长按拖拽Item，滑动删除Item。可以和任何下拉刷新框架结合使用](https://github.com/yanzhenjie/SwipeRecyclerView)
+  * [基于itemtouchhelper，实现左滑菜单，删除确认](https://github.com/loopeer/itemtouchhelper-extension)
+  * [RecyclerView Snap 边缘停止效果，让你的 App 更人性化，更精致](https://github.com/rubensousa/RecyclerViewSnap)
 * GridView
   *  [TEmptyView是一个小轮子，希望能够更简单地设置EmptyView，免除每次设置emptyView都要写xml之苦。 支持AdapterView(ListView/GridView等)、RecyclerView](https://github.com/barryhappy/TEmptyView/blob/master/README.cn.md)  
   *  [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
@@ -265,6 +268,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [有与微信相同的手势返回](https://github.com/Jude95/SwipeBackHelper/blob/master/README_ch.md)
   * [漂亮的色彩渐变式背景效果](https://github.com/dynamitechetan/Flowing-Gradient)
   * [一个简单但可以自定义切换动画的管理多状态的自定义layout ](https://github.com/lufficc/StateLayout)
+  * [可跟随手指滑动，进行响应式滑动的背景效果](https://github.com/noties/ScrollingBackgroundView)
 
 ##**自定义控件**
 
@@ -291,6 +295,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Gallery效果](https://github.com/davidschreiber/FancyCoverFlow)
   * [上面显示，下面Gallery效果](https://github.com/sungerk/GalleryView)
   * [炒鸡炫酷效果的ExpandingPager](https://github.com/qs-lll/ExpandingPager)
+  * [RecyclerView 卡片画廊效果](https://github.com/huazhiyuan2008/RecyclerViewCardGallery)
 * TimeLineView
   * [时间线View](https://github.com/alorma/TimelineView)
   * [一个RecyclerView实现的时间轴](https://github.com/ishratkhan/NestedTimeLineRecyclerView)
@@ -395,6 +400,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 炫酷发送效果 Demo，赶紧翻开代码学习学习](https://github.com/Jaouan/Sending-Animation-Example)
   * [速度指示器，UI 再改进一下会好看很多很多](https://github.com/anastr/SpeedView)
   * [类似 Facebook 闪烁式的 Load View，哇，好漂亮](https://github.com/elye/loaderviewlibrary)
+  * [仿qq身边的人Viewpager实现](https://github.com/dalong982242260/SlidingBallViewPager)
+  * [万能的 Android 刮奖效果控件](https://github.com/D-clock/ScratchView)
+  * [仿支付宝芝麻信用分仪表盘效果](https://github.com/HotBitmapGG/CreditSesameRingView)
  
 ##**工具类**
 
@@ -467,6 +475,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [安卓音频录制 ](https://github.com/adrielcafe/AndroidAudioRecorder)
   * [一个适用于 Android 平台的音视频播放器 SDK，可高度定制化和二次开发，为 Android 开发者提供了简单、快捷的接口，帮助开发者在 Android 平台上快速开发播放器应用。](https://github.com/pili-engineering/PLDroidPlayer)
   * [基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装。 是一个适用于 Android 的 RTMP 直播推流 SDK，可高度定制化和二次开发](https://github.com/jjdxmashl/jjdxm_ijkplayer/)
+  * [Android 的录音库，可录制 pcm 和 wav，暂停／继续录制](https://github.com/kailash09dabhi/OmRecorder)
 * 直播
   * [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
   * [Yasea是一个100%纯Java写的，完全开源的安卓直播推流客户端。](https://github.com/begeekmyfriend/yasea)
@@ -509,6 +518,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android手势监听](https://github.com/pwittchen/swipe)
   * [最轻量的支付宝转账工具类](https://github.com/fython/AlipayZeroSdk)
   * [利用 KeyStore 存储密码，加密 SharedPreference 的数据，保证安全性](https://github.com/iamMehedi/Secured-Preference-Store)
+  * [FcPermissions：也许是目前最好的动态权限请求库](https://github.com/lypeer/FcPermissions)
 
 ##**Animations**
   * [android控件动画集合](https://github.com/daimajia/AndroidViewAnimations)
@@ -529,6 +539,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个酷炫的钱包掉落动画](https://github.com/JangGwa/GoldDrop)
   * [多种形状波纹特效，可以用来实现一些背景特效](https://github.com/poldz123/ShapeRipple)
   * [Android的着色器和过滤器(https://github.com/chiuki/android-graphics-demo)
+  * [使用Transition FrameWork实现有意义的转场动画 ](https://github.com/lgvalle/Material-Animations/)
+  * [简单而精致的 Fragment 菜单控件，它可以让你切换 Fragment 的时候眼前一亮](https://github.com/Hitomis/ThumbnailMenu)
+  * [雪花，粒子爆炸效果 ](https://github.com/jinatonic/confetti0
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
