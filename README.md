@@ -51,6 +51,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [用 ImageView 实现圆形头像](https://github.com/Carbs0126/AvatarImageView)
   * [基于 Picasso 库实现的人脸检测和图片自动智能裁剪，做的超棒](https://github.com/aryarohit07/PicassoFaceDetectionTransformation)
   * [多种样式的图片](https://github.com/Idtk/FigureImageView)
+  * [对 ImageView 实现了全屏浏览效果，同时支持了图片缩放效果，和滑动消失效果](https://github.com/stfalcon-studio/FrescoImageViewer)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -372,6 +373,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [Material 效果两步登录](https://github.com/unipiazza/unipiazza-android-twostepslogin)  
    * [很概念化设计的一个注册动画效果。](https://github.com/JeasonWong/SignUpTransition)
    * [Material登录效果](https://github.com/fanrunqi/MaterialLogin)
+   * [Material-Design风格的动画注册登陆界面～够清爽](https://github.com/Yellow5A5/Material-Design-Login)
 * Other 
   * [大图作为header跟随手指向上滑动，下拉展示大图](https://github.com/w4lle/PullDownView)
   * [是一个实现树形内容展示的库](https://github.com/Telenav/NodeFlow)
@@ -519,6 +521,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [最轻量的支付宝转账工具类](https://github.com/fython/AlipayZeroSdk)
   * [利用 KeyStore 存储密码，加密 SharedPreference 的数据，保证安全性](https://github.com/iamMehedi/Secured-Preference-Store)
   * [FcPermissions：也许是目前最好的动态权限请求库](https://github.com/lypeer/FcPermissions)
+  * [App 崩溃后，帮助你恢复现场并查看崩溃信息的库，在开发阶段相当实用，建议大家集成进去节省些开发时间](https://github.com/Sunzxyong/Recovery/blob/master/README-Chinese.md)
 
 ##**Animations**
   * [android控件动画集合](https://github.com/daimajia/AndroidViewAnimations)
