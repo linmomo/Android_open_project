@@ -243,6 +243,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [遇见 LoopBar 从Cleveroad。在Android环境中导航的新方法](https://github.com/Cleveroad/LoopBar)
   * [基于 Floating Button 实现的菜单展开效果，做的非常棒](https://github.com/andremion/Floating-Navigation-View)
   * [仿照 Google Space 实现的导航栏效果，做的很漂亮！！](https://github.com/armcha/Space-Navigation-View)
+  * [一个 DrawerLayout 的扩展,具有帅气的动画与创新的交互。一次手势完成滑出侧边栏与选择菜单](https://github.com/mzule/FantasySlide)
 * Calendar
   * [一款漂亮的calendar ](https://github.com/SundeepK/CompactCalendarView)
   * [ListView实现的日历](https://github.com/traex/CalendarListview)
@@ -290,6 +291,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [高自由度的标签选择器](https://github.com/Rock610/TagSelectorView)
   * [给人眼前一亮的 Toast 效果](https://github.com/yadav-rahul/TastyToast)
   * [Android 支持拖拽排序的流式标签布局](https://github.com/LightSun/android-drag-FlowLayout)
+  * [掉落通知效果](https://github.com/Brudigem/DropDownWarning)
 * Gallery
   * [让图像呈现gallery显示效果](https://github.com/lawloretienne/ImageGallery) 
   * [Android CoverFlow widget](https://github.com/moondroid/CoverFlow)
@@ -485,6 +487,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [社交分享组件](https://github.com/maoruibin/ChinaShare)
   * [社交登录授权、分享SDK，支持微信、微博和QQ](https://github.com/elbbbird/ESSocialSDK)
   * [login and share lib](https://github.com/lingochamp/ShareLoginLib)
+  * [一个酷炫的分享控件](https://github.com/JeasonWong/FlipShare)
 * App下载更新
  *  [可任意定制的app更新组件。](https://github.com/yjfnypeu/UpdatePlugin)
  *  [app下载安装更新](https://github.com/yaming116/UpdateApp/blob/master/README-zh.md)
