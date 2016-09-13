@@ -77,6 +77,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [拥有18种果冻效果、30种缓动效果、可变色的开关按钮](https://github.com/Nightonke/JellyToggleButton/blob/master/README-ZH.md) 
   * [笑脸ToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/README-ZH.md)
   * [一个看了就心情很好的 Switch 组件，好有创意](https://github.com/ztelur/FunSwitch)
+  * [Android 版本的 Day & Night Switcher！](https://github.com/BaymaxTong/SwitchButton)
 *  CheckBox
   * [自定义动画checkbox](https://github.com/andyxialm/SmoothCheckBox) 
   * [带动画的Checkbox](https://github.com/lguipeng/AnimCheckBox)
