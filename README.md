@@ -97,6 +97,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿新浪体育客户端比分的进度条](https://github.com/YangShaoXiong/LikeSinaSportProgress)
   * [五星好评](https://github.com/FlyingPumba/SimpleRatingBar)
   * [Android环形进度条类似apple watch健身记录](https://github.com/ldoublem/RingProgress)
+  * [渐变的下载按钮，发现不少小伙伴要做类似效果的](https://github.com/cctanfujun/ProgressRoundButton)
 *  RecyclerView
   *  [RecyclerView开源项目集合](https://github.com/CameloeAnthony/Learning-RecyclerView)
   * [一个支持可伸缩头部的布局](https://github.com/hongyangAndroid/Android-StickyNavLayout)
@@ -389,8 +390,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [漂亮的数字转化视图](https://github.com/me-abhinav/NumberMorphView)
   * [自定义卡片集view，支持展开收缩滚动](https://github.com/loopeer/CardStackView)
   * [一个支持四个方向循环滚动的自定义控件](https://github.com/oubowu/MarqueeLayoutLibrary)
-  * [全新的快速索引导航栏，联系人字母排序侧边栏](https://github.com/kongnanlive/SideBar)
-  * [做的很不错的一款侧边栏索引](https://github.com/Solartisan/WaveSideBar)
   * [类Android 5.0任务管理的控件](https://github.com/Bossyao168/StackOverView)
   * [旋转3D视图显示View](https://github.com/binaryroot/CarouselView)
   * [雾化擦除效果，可以做出来一些好玩儿的交互效果，比如：猜谜竞猜，低价销售展示，广告展示等等](https://github.com/dynamitechetan/FogView_Library)
@@ -459,6 +458,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [Library for picking pictures from gallery or camera](https://github.com/jkwiecien/EasyImage)
  * [完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数](https://github.com/jeasonlzy0216/ImagePicker)
  * [图片选择器](https://github.com/917386389/imagepickerdemo)
+ * [基于 Bottom Sheet 实现的图片选择器，交互效果不错](https://github.com/ParkSangGwon/TedBottomPicker)
 * DownLoad
   *  [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
   *  [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
@@ -488,6 +488,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [社交登录授权、分享SDK，支持微信、微博和QQ](https://github.com/elbbbird/ESSocialSDK)
   * [login and share lib](https://github.com/lingochamp/ShareLoginLib)
   * [一个酷炫的分享控件](https://github.com/JeasonWong/FlipShare)
+  * [带波动效果的索引侧边栏，支持左右手模式和自定义索引](https://github.com/gjiazhe/WaveSideBar)
+  * [全新的快速索引导航栏，联系人字母排序侧边栏](https://github.com/kongnanlive/SideBar)
+  * [做的很不错的一款侧边栏索引](https://github.com/Solartisan/WaveSideBar)
 * App下载更新
  *  [可任意定制的app更新组件。](https://github.com/yjfnypeu/UpdatePlugin)
  *  [app下载安装更新](https://github.com/yaming116/UpdateApp/blob/master/README-zh.md)
@@ -503,6 +506,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * 蓝牙
   * [Android BLE 蓝牙开发框架，使用简单的回调方式一步处理搜索、连接、notify、indicate、读、写等一系列蓝牙操作](https://github.com/Jasonchenlijian/FastBle)\
   * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
+* HotFix
+  * [Android热修复与增量升级，基于微信Tinker原理](https://github.com/byteam/delta)
 * Other 
   * [android下自定义View之雷达扫描 ](https://github.com/gpfduoduo/RadarScanView)
   * [一个获取号码归属地和其他信息（诈骗、骚扰等）的开源库](https://github.com/xdtianyu/PhoneNumber)
@@ -525,6 +530,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [利用 KeyStore 存储密码，加密 SharedPreference 的数据，保证安全性](https://github.com/iamMehedi/Secured-Preference-Store)
   * [FcPermissions：也许是目前最好的动态权限请求库](https://github.com/lypeer/FcPermissions)
   * [App 崩溃后，帮助你恢复现场并查看崩溃信息的库，在开发阶段相当实用，建议大家集成进去节省些开发时间](https://github.com/Sunzxyong/Recovery/blob/master/README-Chinese.md)
+  * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
 
 ##**Animations**
   * [android控件动画集合](https://github.com/daimajia/AndroidViewAnimations)
@@ -544,10 +550,10 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个炫酷的SearchView搜索动画库](https://github.com/android-cjj/JJSearchViewAnim/blob/master/README-CN.md)
   * [一个酷炫的钱包掉落动画](https://github.com/JangGwa/GoldDrop)
   * [多种形状波纹特效，可以用来实现一些背景特效](https://github.com/poldz123/ShapeRipple)
-  * [Android的着色器和过滤器(https://github.com/chiuki/android-graphics-demo)
+  * [Android的着色器和过滤器](https://github.com/chiuki/android-graphics-demo)
   * [使用Transition FrameWork实现有意义的转场动画 ](https://github.com/lgvalle/Material-Animations/)
   * [简单而精致的 Fragment 菜单控件，它可以让你切换 Fragment 的时候眼前一亮](https://github.com/Hitomis/ThumbnailMenu)
-  * [雪花，粒子爆炸效果 ](https://github.com/jinatonic/confetti0
+  * [雪花，粒子爆炸效果 ](https://github.com/jinatonic/confetti)
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
