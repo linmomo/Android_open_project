@@ -128,6 +128,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [最强RecyclerView，Item侧滑菜单，长按拖拽Item，滑动删除Item。可以和任何下拉刷新框架结合使用](https://github.com/yanzhenjie/SwipeRecyclerView)
   * [基于itemtouchhelper，实现左滑菜单，删除确认](https://github.com/loopeer/itemtouchhelper-extension)
   * [RecyclerView Snap 边缘停止效果，让你的 App 更人性化，更精致](https://github.com/rubensousa/RecyclerViewSnap)
+  * [视差效果的 Item 滑动变大](https://github.com/iielse/RetailMeNotList)
 * GridView
   *  [TEmptyView是一个小轮子，希望能够更简单地设置EmptyView，免除每次设置emptyView都要写xml之苦。 支持AdapterView(ListView/GridView等)、RecyclerView](https://github.com/barryhappy/TEmptyView/blob/master/README.cn.md)  
   *  [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
@@ -294,6 +295,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [给人眼前一亮的 Toast 效果](https://github.com/yadav-rahul/TastyToast)
   * [Android 支持拖拽排序的流式标签布局](https://github.com/LightSun/android-drag-FlowLayout)
   * [掉落通知效果](https://github.com/Brudigem/DropDownWarning)
+  * [超级漂亮的一个高亮功能提醒效果](https://github.com/KeepSafe/TapTargetView)
 * Gallery
   * [让图像呈现gallery显示效果](https://github.com/lawloretienne/ImageGallery) 
   * [Android CoverFlow widget](https://github.com/moondroid/CoverFlow)
@@ -407,6 +409,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿qq身边的人Viewpager实现](https://github.com/dalong982242260/SlidingBallViewPager)
   * [万能的 Android 刮奖效果控件](https://github.com/D-clock/ScratchView)
   * [仿支付宝芝麻信用分仪表盘效果](https://github.com/HotBitmapGG/CreditSesameRingView)
+  * [仿锤子闹钟](https://github.com/SpiritMan/SmartisanTime)
  
 ##**工具类**
 
@@ -504,6 +507,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [生成二维码和从图片解析二维码库](https://github.com/RurioLuca/QrCardParsing)
  * [封装 zxing 二维码扫描功能库，用起来更简单 ](https://github.com/yipianfengye/android-zxingLibrary)
  * [扫描二维码、扫描条形码、相册获取图片后识别、生成带Logo二维码、支持微博微信QQ二维码扫描样式](https://github.com/bingoogolapple/BGAQRCode-Android)
+ * [将生成的二维码与选择的图片合成，生成的新二维码](https://github.com/scola/Qart)
 * 蓝牙
   * [Android BLE 蓝牙开发框架，使用简单的回调方式一步处理搜索、连接、notify、indicate、读、写等一系列蓝牙操作](https://github.com/Jasonchenlijian/FastBle)\
   * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
