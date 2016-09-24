@@ -52,6 +52,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [基于 Picasso 库实现的人脸检测和图片自动智能裁剪，做的超棒](https://github.com/aryarohit07/PicassoFaceDetectionTransformation)
   * [多种样式的图片](https://github.com/Idtk/FigureImageView)
   * [对 ImageView 实现了全屏浏览效果，同时支持了图片缩放效果，和滑动消失效果](https://github.com/stfalcon-studio/FrescoImageViewer)
+  * [多种样式的图片](https://github.com/Idtk/FigureImageView)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -129,6 +130,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [基于itemtouchhelper，实现左滑菜单，删除确认](https://github.com/loopeer/itemtouchhelper-extension)
   * [RecyclerView Snap 边缘停止效果，让你的 App 更人性化，更精致](https://github.com/rubensousa/RecyclerViewSnap)
   * [视差效果的 Item 滑动变大](https://github.com/iielse/RetailMeNotList)
+  * [类似于ViewPagerIndicator，用RecyclerView来实现ViewPager，并加上Indicator](https://github.com/buyi/RecyclerViewPagerIndicator)
 * GridView
   *  [TEmptyView是一个小轮子，希望能够更简单地设置EmptyView，免除每次设置emptyView都要写xml之苦。 支持AdapterView(ListView/GridView等)、RecyclerView](https://github.com/barryhappy/TEmptyView/blob/master/README.cn.md)  
   *  [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
@@ -206,6 +208,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [一个可以给Floating Action Button 添加 Transformation 动画的库](https://github.com/konifar/fab-transformation)
   *  [Float Button 圆形进度条效果 ](https://github.com/DmitryMalkovich/circular-with-floating-action-button)
   * [FabAnimations](https://github.com/qs-lll/FabActionAnimations)
+  * [轮盘样式的 Fragment 菜单选择控件](https://github.com/Hitomis/SpinMenu)
 * DiaLog/PopWindow/Spinner
   * [一行代码实现提示对话框，指定元素](https://github.com/michaelye/EasyDialog)
   * [dialogPlus](https://github.com/orhanobut/dialogplus)
@@ -274,6 +277,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [漂亮的色彩渐变式背景效果](https://github.com/dynamitechetan/Flowing-Gradient)
   * [一个简单但可以自定义切换动画的管理多状态的自定义layout ](https://github.com/lufficc/StateLayout)
   * [可跟随手指滑动，进行响应式滑动的背景效果](https://github.com/noties/ScrollingBackgroundView)
+  * [高仿最新版微信6.2手势滑动返回](https://github.com/XBeats/and_swipeback)
 
 ##**自定义控件**
 
@@ -329,6 +333,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [可定制的Indicator,结合ViewPager使用,当然不通过ViewPager也可以用](https://github.com/jiang111/ScalableTabIndicator)
   *  [Flipboard轮播组件](https://github.com/chengdazhi/DecentBanner)
   *  [一个简单，强大的广告活动弹窗控件](https://github.com/yipianfengye/android-adDialog)
+  *  [通用的广告栏控件，让你轻松实现广告头效果](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
 * CountDown
   * [TextureView仿手淘倒计时](https://github.com/CaMnter/EasyCountDownTextureView)
   * [倒计时控件](https://github.com/iwgang/CountdownView/blob/master/README_CN.md)   
@@ -513,6 +518,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
 * HotFix
   * [Android热修复与增量升级，基于微信Tinker原理](https://github.com/byteam/delta)
+  * [热修复线上View，以及模块化更新](https://github.com/kot32go/dynamic-load-view/blob/master/README_zh.md)
 * Other 
   * [android下自定义View之雷达扫描 ](https://github.com/gpfduoduo/RadarScanView)
   * [一个获取号码归属地和其他信息（诈骗、骚扰等）的开源库](https://github.com/xdtianyu/PhoneNumber)
