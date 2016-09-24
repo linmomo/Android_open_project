@@ -44,6 +44,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [类似ios的动态模糊效果 ](https://github.com/Dimezis/BlurView)
   * [超实用的 Android 图片压缩工具。](https://github.com/zetbaitsu/Compressor)
   * [Low Poly 图片生成器](https://github.com/zzhoujay/LowPoly)
+  * [一行代码实现 Android 图片 Lowpoly 效果](https://github.com/CoXier/LowPoly)
   * [导入图片生成Low Poly风格图片的app](https://github.com/hugeterry/PloyFun)
   * [利用 Renderscript 实现的一个简单的模糊效果封装组件](https://github.com/wl9739/BlurredView)
   * [Android 图片点击全屏放大效果](https://github.com/code-crusher/Image-Zoomer)
@@ -131,6 +132,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [RecyclerView Snap 边缘停止效果，让你的 App 更人性化，更精致](https://github.com/rubensousa/RecyclerViewSnap)
   * [视差效果的 Item 滑动变大](https://github.com/iielse/RetailMeNotList)
   * [类似于ViewPagerIndicator，用RecyclerView来实现ViewPager，并加上Indicator](https://github.com/buyi/RecyclerViewPagerIndicator)
+  * [支持多种显示效果与无限滚动的RecyclerView ](https://github.com/kHRYSTAL/CircleRecyclerView)
+  * [Android两级磁贴列表，拥有完美的不同级磁贴互相接触推动的效果，适合多级分类嵌套展示](https://github.com/Kenber/DoubleStickyHeadersList)
 * GridView
   *  [TEmptyView是一个小轮子，希望能够更简单地设置EmptyView，免除每次设置emptyView都要写xml之苦。 支持AdapterView(ListView/GridView等)、RecyclerView](https://github.com/barryhappy/TEmptyView/blob/master/README.cn.md)  
   *  [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
@@ -209,6 +212,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [Float Button 圆形进度条效果 ](https://github.com/DmitryMalkovich/circular-with-floating-action-button)
   * [FabAnimations](https://github.com/qs-lll/FabActionAnimations)
   * [轮盘样式的 Fragment 菜单选择控件](https://github.com/Hitomis/SpinMenu)
+  * [一个好看的Float菜单](https://github.com/xue5455/SmartMenu)
 * DiaLog/PopWindow/Spinner
   * [一行代码实现提示对话框，指定元素](https://github.com/michaelye/EasyDialog)
   * [dialogPlus](https://github.com/orhanobut/dialogplus)
@@ -223,6 +227,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [使用 DialogFragment 实现底部弹窗布局](https://github.com/SpikeKing/BottomDialogDemo)
   * [基于相对位置实现弹出 PopupWindow](https://github.com/kakajika/RelativePopupWindow)
   * [可以记住历史选项的spinner](https://github.com/Jasonchenlijian/MemorySpinner)
+  * [位置搜索智能提示框，利用了 GoogleApi，想要用到国内的话，可以对接一个国内的地图服务](https://github.com/codemybrainsout/PlaceSearchDialog)
 *  Material Design
   * [一个兼容android 2.2material design组件库](https://github.com/navasmdc/MaterialDesignLibrary)
   * [android material design 风格项目整理](https://github.com/soyoungboy/android-material-design-Open-source-projects)
@@ -278,6 +283,10 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个简单但可以自定义切换动画的管理多状态的自定义layout ](https://github.com/lufficc/StateLayout)
   * [可跟随手指滑动，进行响应式滑动的背景效果](https://github.com/noties/ScrollingBackgroundView)
   * [高仿最新版微信6.2手势滑动返回](https://github.com/XBeats/and_swipeback)
+* Activity
+  * [兼容4.0以上版本的点击扩散动画库，几行代码实现Activity转场动画效果及新增自定义界面转场动画](https://github.com/Yellow5A5/ActSwitchAnimTool)
+*  Fragment
+ * (为"单Activity ＋ 多Fragment","多模块Activity多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG)[https://github.com/YoKeyword/Fragmentation]  
 
 ##**自定义控件**
 
@@ -351,6 +360,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [漂亮的 Welcome 效果框架 ](https://github.com/txusballesteros/welcome-coordinator)
   * [漂亮的变换引导效果](https://github.com/eoinfogarty/Onboarding)
   * [小红书欢迎引导第二版](https://github.com/w446108264/XhsWelcomeAnim)
+  * [带有色彩渐变的新功能引导页](https://github.com/codemybrainsout/ahoy-onboarding)
+  * [Material 风格的介绍页，在做介绍的同时，可以向用户申请权限，做的超漂亮](https://github.com/TangoAgency/material-intro-screen)
 * Theme
   * [日夜间模式切换](https://github.com/zzz40500/ThemeDemo)
   * [基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式](https://github.com/bboyfeiyu/Colorful)
@@ -415,6 +426,11 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [万能的 Android 刮奖效果控件](https://github.com/D-clock/ScratchView)
   * [仿支付宝芝麻信用分仪表盘效果](https://github.com/HotBitmapGG/CreditSesameRingView)
   * [仿锤子闹钟](https://github.com/SpiritMan/SmartisanTime)
+  * [摇晃的门牌效果，支持 Sensor 晃动](https://github.com/renaudcerrato/DoorSignView)
+  * [双面翻转 View 效果 ](https://github.com/4xes/FlipAnimation)
+  * [纯用SVG做的Google I/O 2016那个炫酷的时钟](https://github.com/lypeer/GoogleClock)
+  * [锯齿边框，类似优惠劵效果的自定义 View](https://github.com/dongjunkun/CouponView)
+  * [Material Design 风格的投票效果](https://github.com/hiteshsahu/Material-UpVote)
  
 ##**工具类**
 
@@ -468,6 +484,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数](https://github.com/jeasonlzy0216/ImagePicker)
  * [图片选择器](https://github.com/917386389/imagepickerdemo)
  * [基于 Bottom Sheet 实现的图片选择器，交互效果不错](https://github.com/ParkSangGwon/TedBottomPicker)
+ * [抽取自Telegram，并加入QQ相册选择风格的图片选择器，高效，低耗，响应快速](https://github.com/TangXiaoLv/TelegramGallery/blob/master/README_CN.md)
+ * [简洁的图片裁剪小裤子](https://github.com/ekimual/croperino)
 * DownLoad
   *  [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
   *  [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
@@ -489,6 +507,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个适用于 Android 平台的音视频播放器 SDK，可高度定制化和二次开发，为 Android 开发者提供了简单、快捷的接口，帮助开发者在 Android 平台上快速开发播放器应用。](https://github.com/pili-engineering/PLDroidPlayer)
   * [基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装。 是一个适用于 Android 的 RTMP 直播推流 SDK，可高度定制化和二次开发](https://github.com/jjdxmashl/jjdxm_ijkplayer/)
   * [Android 的录音库，可录制 pcm 和 wav，暂停／继续录制](https://github.com/kailash09dabhi/OmRecorder)
+  * [Android 音频格式转换，支持 AAC, MP3, M4A, WMA, WAV 和 FLAC 之间的转换](https://github.com/adrielcafe/AndroidAudioConverter)
 * 直播
   * [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
   * [Yasea是一个100%纯Java写的，完全开源的安卓直播推流客户端。](https://github.com/begeekmyfriend/yasea)
@@ -542,6 +561,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [FcPermissions：也许是目前最好的动态权限请求库](https://github.com/lypeer/FcPermissions)
   * [App 崩溃后，帮助你恢复现场并查看崩溃信息的库，在开发阶段相当实用，建议大家集成进去节省些开发时间](https://github.com/Sunzxyong/Recovery/blob/master/README-Chinese.md)
   * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
+  * [Android 收集用户基本信息利器，比如 App 崩溃后的地理位置，GPS网络状态，当前页面截屏等等 ](https://github.com/rm3l/maoni-email)
 
 ##**Animations**
   * [android控件动画集合](https://github.com/daimajia/AndroidViewAnimations)
