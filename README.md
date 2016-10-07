@@ -444,7 +444,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [双面翻转 View 效果 ](https://github.com/4xes/FlipAnimation)
   * [摇晃的门牌效果，支持 Sensor 晃动](https://github.com/renaudcerrato/DoorSignView)
   * [Material Design 风格的投票效果](https://github.com/hiteshsahu/Material-UpVote)
-    * [一个能够在任何控件之上执行漂浮效果动画的控件](https://github.com/UFreedom/FloatingText/blob/master/README_CN.md)
+  * [一个能够在任何控件之上执行漂浮效果动画的控件](https://github.com/UFreedom/FloatingText/blob/master/README_CN.md)
  
 ##**工具类**
 
