@@ -658,7 +658,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [android版高仿喵街主页滑动效果](http://www.jianshu.com/p/a2c3c21e3b99)
    * [拆轮子-唯美细腻的夕阳海浪动画](http://immortalz.me/559.html)
    * [Android 中 View 炸裂特效的实现分析](http://blog.csdn.net/feelang/article/details/48817145)
-   * [超漂亮的 Animation Scale 动画设置效果](https://github.com/nickbutcher/AnimatorDurationTile)
+   * [超漂亮的 Animation Scale 动画设置效果](https://github.com/nickbutcher/AnimatorDurationTile)
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
