@@ -292,8 +292,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [高仿最新版微信6.2手势滑动返回](https://github.com/XBeats/and_swipeback)
  * [高仿微信手势滑动返回](https://github.com/hanhailong/SwipeBackSample)
  * [一款功能强大的滑动库，目前支持dialogfragment，activity，卡片，listView，RecyclerView，GridView等的滑动。](https://github.com/CameloeAnthony/UltimateSwipeTool)
-    * [识别手势类库 ](https://github.com/nisrulz/sensey)
-    * [Android手势监听](https://github.com/pwittchen/swipe)
+ * [识别手势类库 ](https://github.com/nisrulz/sensey)
+ * [Android手势监听](https://github.com/pwittchen/swipe)
 *  TipView/Badge
   * [给布局添加提示](https://github.com/tomergoldst/tooltips)
   * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
@@ -654,7 +654,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   	* [Android 炫酷发送效果 Demo，赶紧翻开代码学习学习](https://github.com/Jaouan/Sending-Animation-Example)
   	* [Android 下雪效果](https://github.com/HelloVass/SnowingView)
   	* [动画-漫天飞雪](http://www.jianshu.com/p/54daee8ae2a9)
- 	 * [android版高仿喵街主页滑动效果](http://www.jianshu.com/p/a2c3c21e3b99)
+ 	* [android版高仿喵街主页滑动效果](http://www.jianshu.com/p/a2c3c21e3b99)
   	* [Android 中 View 炸裂特效的实现分析](http://blog.csdn.net/feelang/article/details/48817145)
 
 ##**源码系列**
