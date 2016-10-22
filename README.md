@@ -26,6 +26,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [非常实用的省略控件，无emoji截断之乱码， 无characterstyle截断之不雅](https://github.com/dinuscxj/EllipsizeTextView)
   * [自动给 TextView 增加超链接的库，还可以处理 Hashtags (#) ，at 人（@），电话，邮件等等数据](https://github.com/armcha/AutoLinkTextView)
   * [支持自动高亮关键字的 TextView，很实用](https://github.com/wangshaolei/UnderLineLinkTextView)
+	* [文本编辑工具，轻松搞定一段文字不同颜色的需求](https://github.com/THEONE10211024/ColorPhrase)
+  * [ColorTextView：让特定的文字呈现出特定的颜色](https://github.com/zhonghanwen/ColorTextView)
 *  ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
@@ -42,6 +44,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 色彩渐进 ImageView](https://github.com/skyfe79/AndroidGradientImageView)
   * [用 ImageView 实现圆形头像](https://github.com/Carbs0126/AvatarImageView)
   * [基于 Picasso 库实现的人脸检测和图片自动智能裁剪，做的超棒](https://github.com/aryarohit07/PicassoFaceDetectionTransformation)
+  * [Android 图片放大过渡效果 ](https://github.com/vikramkakkar/ImageTransition)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -56,6 +59,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [让 TextView PlaceHolder （Hint）文本带有切换过度效果，在显示多个热门搜索的时候可以用得到](https://github.com/cctanfujun/HintAnim-EditText)
   * [支持 at 别人效果的 EditText，很实用的样子](https://github.com/luckyandyzhang/MentionEditText)
   * [自定义EditText实现右下角计数控件](https://github.com/FTandJYQ/AnFQNumEditText)
+  * [自定义 自动补充 email 的 EditText ](https://github.com/wangshaolei/AutoFillEmailEditText)
 *  Button
   * [一个Button分成两部分效果](https://github.com/yankai-victor/RingButton) 
   * [连续组合点击](https://github.com/brucetoo/ComboView)
@@ -125,6 +129,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个如你熟悉ListView、GridView一样熟悉的RecyclerView](https://github.com/iwgang/FamiliarRecyclerView)
   * [支持多种显示效果与无限滚动的RecyclerView ](https://github.com/kHRYSTAL/CircleRecyclerView)
   * [又一个显示recycleview复杂效果的库](https://github.com/airbnb/epoxy)
+	* [风车转盘效果的 LayoutManager，做的很漂亮](https://github.com/Cleveroad/FanLayoutManager)
 * ListView
   * [一个下拉顶部图片放大的listview](https://github.com/matrixxun/PullToZoomInListView)
   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
@@ -278,6 +283,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个轻量的ProgressLayout，能够帮助你实现“加载中”、“无内容”，“网络错误”，“加载失败”等不同场景下的页面切换与展示，并且支持点击页面重试。](https://github.com/LianjiaTech/ProgressLayout)
   * [通用状态切换视图](https://github.com/XuDaojie/MultiStateView)
   * [一个简单但可以自定义切换动画的管理多状态的自定义layout ](https://github.com/lufficc/StateLayout)
+	* [以组件的方式维护列表加载状态](https://github.com/gitsindonesia/baso)
   * [渐变色背景组件](https://github.com/csdodd/GradientLayout)
   * [漂亮的色彩渐变式背景效果](https://github.com/dynamitechetan/Flowing-Gradient)
   * [给布局添加阴影，立体显示](https://github.com/wangjiegulu/ShadowViewHelper)
@@ -286,6 +292,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [让任何布局支持选中状态，类似 Checkbox 的属性](https://github.com/Jaouan/CompoundLayout)
   * [一个可自定义子控件大小及位置、相等大小的子控件间可通过拖动交换位置的ViewGroup](https://github.com/alivebao/FreeSizeDraggableLayout)
   * [类似 Facebook 闪烁式的 Load View，哇，好漂亮](https://github.com/elye/loaderviewlibrary)
+  * [斜角 View 效果，用来做 Profile 背景最适合不过](https://github.com/florent37/DiagonalLayout)
+	* [使AppBarLayout 可以弹性下拉的Behavior](https://github.com/ToDou/appbarlayout-spring-behavior)
 * 伸缩展开布局
   * [一种可根据展开是否超出屏幕来判断父控件是否自动滚动的ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout)
   * [可展开/隐藏子view的layout](https://github.com/AAkira/ExpandableLayout) 
@@ -303,7 +311,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [识别手势类库 ](https://github.com/nisrulz/sensey)
  * [Android手势监听](https://github.com/pwittchen/swipe)
 *  TipView/Badge
-  * [为你的应用程序加上数字角标]((https://github.com/leolin310148/ShortcutBadger)
+  * [为你的应用程序加上数字角标](https://github.com/leolin310148/ShortcutBadger)
   * [给布局添加提示](https://github.com/tomergoldst/tooltips)
   * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
   * [带箭头的TipVIew](https://github.com/cpiz/BubbleView/blob/master/README_CN.md)
@@ -412,6 +420,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [图表控件](https://github.com/mychoices/Jgraph)
    * [Android上的一个蛛网评分控件](https://github.com/xiaopansky/SpiderWebScoreView)
    * [正多边形的统计图，支持任意边数的多边形](https://github.com/GordenXiao/PolygonChart)
+	 * [做的很棒的一个 Android 辐射数据统计效果](https://github.com/DmitriyZaitsev/RadarChartView)
 * 悬浮View 
    * [自定义Floatview实现全站浮动按钮和来电秀](https://github.com/AlexLiuSheng/FloatView)
    * [悬浮球-一个服务开启悬浮球，任何界面都可以使用](https://github.com/hanbaokun/FloatingViewService)
@@ -573,6 +582,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿微信小视频录制，基于GitHub上的javacv](https://github.com/szitguy/RecordVideoDemo)
   * [剪辑视频](https://github.com/knowledge4life/k4l-video-trimmer)
   * [一个Android的弹幕控](https://github.com/linsea/OpenDanmaku)
+  * [基于VCamera，仿微信录制短视频](https://github.com/maimingliang/WxRecoderVideo)
 * Audio
   * [Android声音录制和播放封装库](https://github.com/Piasy/RxAndroidAudio)
   * [安卓音频录制 ](https://github.com/adrielcafe/AndroidAudioRecorder)
@@ -606,9 +616,11 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [封装 zxing 二维码扫描功能库，用起来更简单 ](https://github.com/yipianfengye/android-zxingLibrary)
  * [扫描二维码、扫描条形码、相册获取图片后识别、生成带Logo二维码、支持微博微信QQ二维码扫描样式](https://github.com/bingoogolapple/BGAQRCode-Android)
  * [将生成的二维码与选择的图片合成，生成的新二维码](https://github.com/scola/Qart)
+ * [Android 二维码扫描工具库](https://github.com/KingsMentor/MobileVisionBarcodeScanner)
 * 蓝牙
   * [Android BLE 蓝牙开发框架，使用简单的回调方式一步处理搜索、连接、notify、indicate、读、写等一系列蓝牙操作](https://github.com/Jasonchenlijian/FastBle)\
   * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
+	* [一款简洁的蓝牙操作工具库](https://github.com/a-voyager/BluetoothHelper/blob/master/README_zh.md)
 * HotFix
   * [Android热修复与增量升级，基于微信Tinker原理](https://github.com/byteam/delta)
   * [热修复线上View，以及模块化更新](https://github.com/kot32go/dynamic-load-view/blob/master/README_zh.md)
@@ -676,6 +688,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [拆轮子-唯美细腻的夕阳海浪动画](http://immortalz.me/559.html)
    * [Android 中 View 炸裂特效的实现分析](http://blog.csdn.net/feelang/article/details/48817145)
    * [超漂亮的 Animation Scale 动画设置效果](https://github.com/nickbutcher/AnimatorDurationTile)
+	 * [Multi-Selection （优雅多选框），把选中的先存起来](https://github.com/Yalantis/Multi-Selection)
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
