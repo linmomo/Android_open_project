@@ -592,6 +592,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 音频格式转换，支持 AAC, MP3, M4A, WMA, WAV 和 FLAC 之间的转换](https://github.com/adrielcafe/AndroidAudioConverter)
   * [可以实现好多种音效的播放器](http://android-openslmediaplayer.h6ah4i.com/#carousel-demoapp-1)
   * [转换QQ微信语音格式转为mp3](https://github.com/ketn4391/android_silk_v3_decoder)
+  * [通话录音](https://github.com/aykuttasil/CallRecorder)
 * 直播
   * [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
   * [Yasea是一个100%纯Java写的，完全开源的安卓直播推流客户端。](https://github.com/begeekmyfriend/yasea)
@@ -659,6 +660,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [安卓 sqlite 数据库查看](https://github.com/yedaxia/sqlitelookup)
   * [更方便的将各个rom厂商自己的推送服务进行集成,并统一管理](https://github.com/jiang111/AndroidPush)
   * [移动地图选址](https://github.com/scp504677840/MoveMapLocation)
+  * [Android精准计步器](https://github.com/linglongxin24/DylanStepCount)
 
 ##**Animations**
   * 动画合集库
