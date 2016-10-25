@@ -320,7 +320,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [提示框 ](https://github.com/douglasjunior/android-simple-tooltip)
   * [仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”](https://github.com/Qiaoidea/QQTipsView)
   * [各个位置未读消息及设置各种徽章样式](https://github.com/bingoogolapple/BGABadgeView-Android/blob/master/README.md)
-  * [ 消息提醒数目标记](https://github.com/stefanjauker/BadgeView)
+  * [带有徽标(数字，小红点)的按钮](https://github.com/czy1121/badgebutton)
+  * [消息提醒数目标记](https://github.com/stefanjauker/BadgeView)
   * [一系列可绘制的 Badge](https://github.com/nekocode/Badge)
   * [掉落通知效果](https://github.com/Brudigem/DropDownWarning)
   * [超级漂亮的一个高亮功能提醒效果](https://github.com/KeepSafe/TapTargetView)
@@ -471,6 +472,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [这是Android一个雷达扫描显示的扫描图，超高仿QQ附近的人搜索展示](https://github.com/ImmortalZ/RadarScan)
  * [四步实现ChromeLikeSwipeLayout效果](http://www.jianshu.com/p/d6b4a9ad022e)
  * [高仿 path下拉小球，类似IOS果冻效果](https://github.com/ImmortalZ/jellyball)
+ * [仿 Smartisan OneStep，可以的，速度很快](https://github.com/gavinliu/SimpleOneStep)
 * Other 
   * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
   * [使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference](https://github.com/RikkaW/MaterialPreference)
