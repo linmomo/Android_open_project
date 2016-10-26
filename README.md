@@ -93,6 +93,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个展示注册进度的ProgressBar](https://github.com/jiang111/ProgressView)
   * [Range Seekbar](https://github.com/dolphinwang/RangeSeekbar)
   * [给用户提供一个好看的 Rating 打分效果](https://github.com/eugeneek/SmileBar)
+  * [一款漂亮的打分效果](https://github.com/DreaminginCodeZH/MaterialRatingBar)
   * [仿微信公众号设置文章字体大小时所需要的View控件](https://github.com/YangShaoXiong/RangeBar)
   * [五星好评](https://github.com/FlyingPumba/SimpleRatingBar)
   * [分离式的 Slider 效果，可以用来做打赏选择钱数，也可以做类似Uber选择车型，可用的场景相当多](https://github.com/lawloretienne/DiscreteSlider)
@@ -130,6 +131,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [支持多种显示效果与无限滚动的RecyclerView ](https://github.com/kHRYSTAL/CircleRecyclerView)
   * [又一个显示recycleview复杂效果的库](https://github.com/airbnb/epoxy)
   * [风车转盘效果的 LayoutManager，做的很漂亮](https://github.com/Cleveroad/FanLayoutManager)
+  * [让 RecyclerView 也支持 fast scroll 效果](https://github.com/L4Digital/FastScroll)
 * ListView
   * [一个下拉顶部图片放大的listview](https://github.com/matrixxun/PullToZoomInListView)
   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
@@ -309,6 +311,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [有与微信相同的手势返回](https://github.com/Jude95/SwipeBackHelper/blob/master/README_ch.md)
  * [高仿最新版微信6.2手势滑动返回](https://github.com/XBeats/and_swipeback)
  * [高仿微信手势滑动返回](https://github.com/hanhailong/SwipeBackSample)
+ * [高仿微信视差手势滑动返回，无需设置透明主题](https://github.com/oubowu/SlideBack)
  * [一款功能强大的滑动库，目前支持dialogfragment，activity，卡片，listView，RecyclerView，GridView等的滑动。](https://github.com/CameloeAnthony/UltimateSwipeTool)
  * [识别手势类库 ](https://github.com/nisrulz/sensey)
  * [Android手势监听](https://github.com/pwittchen/swipe)
