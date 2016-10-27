@@ -28,6 +28,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [支持自动高亮关键字的 TextView，很实用](https://github.com/wangshaolei/UnderLineLinkTextView)
   * [文本编辑工具，轻松搞定一段文字不同颜色的需求](https://github.com/THEONE10211024/ColorPhrase)
   * [ColorTextView：让特定的文字呈现出特定的颜色](https://github.com/zhonghanwen/ColorTextView)
+  * [一个功能强大的TextView，可以满足日常大部分布局方式 ](https://github.com/lygttpod/SuperTextView)
 *  ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
@@ -65,6 +66,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [连续组合点击](https://github.com/brucetoo/ComboView)
   * [带完成动画效果的按钮](https://github.com/SparkYuan/SubmitButton)
   * [Button 拉长展开效果 ](https://github.com/daniel-martins-IR/MagicButton)
+  * [可设置圆角背景边框的的按钮](https://github.com/czy1121/roundbutton)
 * SwitchButton
   * [拥有18种果冻效果、30种缓动效果、可变色的开关按钮](https://github.com/Nightonke/JellyToggleButton/blob/master/README-ZH.md) 
   * [笑脸ToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/README-ZH.md)
@@ -645,6 +647,10 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [Android Permission 辅助检测和申请工具库](https://github.com/rebus007/PermissionUtils)  
    * [FcPermissions：也许是目前最好的动态权限请求库](https://github.com/lypeer/FcPermissions)
    * [Android 又一个权限管理库](https://github.com/holidaycheck/Permissify)
+* 文件选择
+  * [Android 文件选择工具库](https://github.com/Angads25/android-filepicker)
+  * [又一款 MD 风格的 Android 文件选择器组件，支持文件分类选取，交互不错](https://github.com/DroidNinja/Android-FilePicker)
+  * [一款轻量级的文件选择器，支持多种文件类型](https://github.com/fishwjy/MultiType-FilePicker)
 * Other 
   * [android下自定义View之雷达扫描 ](https://github.com/gpfduoduo/RadarScanView)
   * [一个获取号码归属地和其他信息（诈骗、骚扰等）的开源库](https://github.com/xdtianyu/PhoneNumber)
@@ -654,8 +660,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [可以读取SD卡，asset文件夹，或者网络下载的pdf文件的widget](https://github.com/voghDev/PdfViewPager)
   * [可读取pdf文件的view](https://github.com/barteksc/AndroidPdfViewer)
   * [显示url的view](https://github.com/kaelaela/OpenGraphView)
-  * [Android 文件选择工具库](https://github.com/Angads25/android-filepicker)
-  * [又一款 MD 风格的 Android 文件选择器组件，支持文件分类选取，交互不错](https://github.com/DroidNinja/Android-FilePicker)
   * [一个轻量级的 Android 异步数据库框架.](https://github.com/hehonghui/simpledb) 
   * [最轻量的支付宝转账工具类](https://github.com/fython/AlipayZeroSdk)
   * [利用 KeyStore 存储密码，加密 SharedPreference 的数据，保证安全性](https://github.com/iamMehedi/Secured-Preference-Store)
@@ -666,6 +670,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [更方便的将各个rom厂商自己的推送服务进行集成,并统一管理](https://github.com/jiang111/AndroidPush)
   * [移动地图选址](https://github.com/scp504677840/MoveMapLocation)
   * [Android精准计步器](https://github.com/linglongxin24/DylanStepCount)
+  * [Android app 增量更新](https://github.com/kingwang666/AppAddUpdate)
 
 ##**Animations**
   * 动画合集库
@@ -701,6 +706,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [Android 中 View 炸裂特效的实现分析](http://blog.csdn.net/feelang/article/details/48817145)
    * [超漂亮的 Animation Scale 动画设置效果](https://github.com/nickbutcher/AnimatorDurationTile)
    * [Multi-Selection （优雅多选框），把选中的先存起来](https://github.com/Yalantis/Multi-Selection)
+   * [让你的 App 不再那么无聊和单调，气泡风格的过渡动画效果，酷酷的](https://github.com/Cleveroad/BubbleAnimationLayout)
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
