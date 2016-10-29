@@ -160,6 +160,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [刷新组件是更换的时候啦！！！轻量级而又无所不能](https://github.com/dinuscxj/RecyclerRefreshLayout)
   * [“锤子下拉”，东半球最优雅的下拉控件](https://github.com/hougr/SmartisanPull)
   * [支持下拉刷新和上拉加载的RefreshLayout,自带越界回弹效果，支持RecyclerView,AbsListView,ScrollView,WebView](https://github.com/lcodecorex/TwinklingRefreshLayout)
+  * [效果超棒的微笑下拉刷新。这是在 SwipeRefreshLayout基础上修改的下拉刷新库](https://github.com/songixan/SmileRefresh)
 * Adapter
   *  [Android 万能的Adapter for ListView,GridView等，支持多种Item类型的情况](https://github.com/hongyangAndroid/base-adapter)
   *  [FastAdapter](https://github.com/mikepenz/FastAdapter)
@@ -671,6 +672,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [移动地图选址](https://github.com/scp504677840/MoveMapLocation)
   * [Android精准计步器](https://github.com/linglongxin24/DylanStepCount)
   * [Android app 增量更新](https://github.com/kingwang666/AppAddUpdate)
+  * [Android 上展示 FPS 的悬浮组件](https://github.com/friendlyrobotnyc/TinyDancer)
+  * [滑动完成确认的交互效果](https://github.com/VictorAlbertos/SwipeCoordinator)
 
 ##**Animations**
   * 动画合集库
