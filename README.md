@@ -610,6 +610,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [励志成为较全的直播技术导航_AnyRTC](https://github.com/DyncLang/DevLiveBook)
   * [CSDN直播技术相关集合](http://lib.csdn.net/base/liveplay)
   * [RTMP 推流器，RTMP播放器（秒开），跨平台（Win,IOS,Android](https://github.com/AnyRTC/AnyRTC-RTMP)
+  * [一个 TV app 的直播节目实例，包含各央视频道及卫视频道](https://github.com/hejunlin2013/LivePlayback)
 * 社交
   * [第三方登录分享组件封装](https://github.com/tianzhijiexian/ShareLoginLib/)
   * [社交分享组件](https://github.com/maoruibin/ChinaShare)
