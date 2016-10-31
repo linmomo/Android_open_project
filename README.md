@@ -134,6 +134,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [又一个显示recycleview复杂效果的库](https://github.com/airbnb/epoxy)
   * [风车转盘效果的 LayoutManager，做的很漂亮](https://github.com/Cleveroad/FanLayoutManager)
   * [让 RecyclerView 也支持 fast scroll 效果](https://github.com/L4Digital/FastScroll)
+  * [支持多选的 RecyclerView](https://github.com/dvdciri/MultiChoiceRecyclerView)
 * ListView
   * [一个下拉顶部图片放大的listview](https://github.com/matrixxun/PullToZoomInListView)
   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
@@ -338,6 +339,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [支持 SingleLine 模式的标签云效果，轻松实现知乎问题话题列表](https://github.com/kingideayou/TagCloudView)
   * [Android流式布局，支持点击、单选、多选等，适合用于产品标签等，用法采用Adapter模式，和ListView、GridView用法一样！！！](https://github.com/hanhailong/FlowTag)
   * [Android 支持拖拽排序的流式标签布局](https://github.com/LightSun/android-drag-FlowLayout)
+  * [RecyclerView 实现流式布局，可以用来做 Tag 标签效果](https://github.com/BelooS/ChipsLayoutManager)
 * Gallery
   * [让图像呈现gallery显示效果](https://github.com/lawloretienne/ImageGallery) 
   * [Android CoverFlow widget](https://github.com/moondroid/CoverFlow)
@@ -603,6 +605,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [通话录音](https://github.com/aykuttasil/CallRecorder)
 * 直播
   * [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
+  * [几行代码快速实现滑动清屏效果！动态绑定清屏UI，参考自淘宝直播](https://github.com/Yellow5A5/ClearScreenHelper/blob/master/README_CN.md)
   * [Yasea是一个100%纯Java写的，完全开源的安卓直播推流客户端。](https://github.com/begeekmyfriend/yasea)
   * [励志成为较全的直播技术导航_AnyRTC](https://github.com/DyncLang/DevLiveBook)
   * [CSDN直播技术相关集合](http://lib.csdn.net/base/liveplay)
@@ -674,6 +677,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android app 增量更新](https://github.com/kingwang666/AppAddUpdate)
   * [Android 上展示 FPS 的悬浮组件](https://github.com/friendlyrobotnyc/TinyDancer)
   * [滑动完成确认的交互效果](https://github.com/VictorAlbertos/SwipeCoordinator)
+  * [搜索过滤器交互效果 ](https://github.com/Yalantis/SearchFilter)
 
 ##**Animations**
   * 动画合集库
@@ -681,6 +685,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [Android动画库项目](https://github.com/hujiaweibujidao/wava/blob/master/README-CN.md)
    * [一个给SVG添加动画的库](https://github.com/glomadrian/RoadRunner)
    * [页面过渡动画](https://github.com/linfaxin/TransitionPlayer)
+   * [兼容5.0以下转场动画帮助类](https://github.com/ImmortalZ/TransitionHelper)
    * [简单的创建属性动画](https://github.com/robinxdroid/XDroidAnimation)
    * [切换页面的圆形动画效果](https://github.com/SpikeKing/wcl-circle-reveal-demo)
    * [动画效果集合](https://github.com/wusp/IndicatorBox)
