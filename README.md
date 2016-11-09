@@ -46,7 +46,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 色彩渐进 ImageView](https://github.com/skyfe79/AndroidGradientImageView)
   * [用 ImageView 实现圆形头像](https://github.com/Carbs0126/AvatarImageView)
   * [基于 Picasso 库实现的人脸检测和图片自动智能裁剪，做的超棒](https://github.com/aryarohit07/PicassoFaceDetectionTransformation)
-  * [Android 图片放大过渡效果 ](https://github.com/vikramkakkar/ImageTransition)
+  * [Android 图片放大过渡效果](https://github.com/vikramkakkar/ImageTransition)
+  * [大图查看加载库，支持拖动和缩放，利用 fresco 加载，超级方便，但是内存占用超级低，一点也不卡](https://github.com/Piasy/BigImageViewer)
+  * [一个实现了最新的Google Calender中月份图片的效果的ImageView,图片会随着外部ScrollView的滚动而滚动](https://github.com/dexlex/DexMovingImageView)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -283,10 +285,13 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [兼容4.0以上版本的点击扩散动画库，几行代码实现Activity转场动画效果及新增自定义界面转场动画](https://github.com/Yellow5A5/ActSwitchAnimTool)
    * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
    * [一款简单的Android端用于Activity跳转的路由框架](https://github.com/yjfnypeu/Router)
+   * [以卡片视图的形式管理你的 Activity，让你的 app 可以自由的切换、跳转、关闭 Activity 以及结束 app 程序 ](https://github.com/Hitomis/ActivitySwitcher)
+   * [Android 逆向实用小插件：展示页面 Top Activity 的名称和包名](https://github.com/109021017/android-TopActivity)
 *  Fragment
    * [Activity ＋ 多Fragment","多模块Activity多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG](https://github.com/YoKeyword/Fragmentation])
    * [手势滑动返回的Fragment](https://github.com/YoKeyword/SwipeBackFragment) 
    * [Fragment切换动画](https://github.com/kakajika/FragmentAnimations)
+   * [轮盘样式的 Fragment 选择菜单，可转动轮盘切换 Fragment](https://github.com/Hitomis/SpinMenu)
 
 ##**自定义控件**
 
@@ -325,10 +330,11 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [Android手势监听](https://github.com/pwittchen/swipe)
 *  TipView/Badge
   * [为你的应用程序加上数字角标](https://github.com/leolin310148/ShortcutBadger)
+  * []()
   * [给布局添加提示](https://github.com/tomergoldst/tooltips)
   * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
   * [带箭头的TipVIew](https://github.com/cpiz/BubbleView/blob/master/README_CN.md)
- * [提示框 ](https://github.com/douglasjunior/android-simple-tooltip)
+  * [提示框 ](https://github.com/douglasjunior/android-simple-tooltip)
   * [仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”](https://github.com/Qiaoidea/QQTipsView)
   * [各个位置未读消息及设置各种徽章样式](https://github.com/bingoogolapple/BGABadgeView-Android/blob/master/README.md)
   * [带有徽标(数字，小红点)的按钮](https://github.com/czy1121/badgebutton)
@@ -476,16 +482,18 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [酷炫的碎纸机Andorid版本](https://github.com/ldoublem/PaperShredder)
   * [电影票在线选座 ](https://github.com/qifengdeqingchen/SeatTable)
   * [机票座位在线选择android](https://github.com/ldoublem/FlightSeat)
-   * [仿支付宝芝麻信用分仪表盘效果](https://github.com/HotBitmapGG/CreditSesameRingView)
+  * [仿支付宝芝麻信用分仪表盘效果](https://github.com/HotBitmapGG/CreditSesameRingView)
   * [仿锤子闹钟](https://github.com/SpiritMan/SmartisanTime)
   * [纯用SVG做的Google I/O 2016那个炫酷的时钟](https://github.com/lypeer/GoogleClock)
   * [模仿掌上英雄联盟能力分析效果](https://github.com/jiangzehui/polygonsview)
- * [android指纹识别动画](https://github.com/mattprecious/swirl)
- * [在 Android 上模拟 Siri 录音动效](https://github.com/rakkang/SiriWaveframe)
- * [这是Android一个雷达扫描显示的扫描图，超高仿QQ附近的人搜索展示](https://github.com/ImmortalZ/RadarScan)
- * [四步实现ChromeLikeSwipeLayout效果](http://www.jianshu.com/p/d6b4a9ad022e)
- * [高仿 path下拉小球，类似IOS果冻效果](https://github.com/ImmortalZ/jellyball)
- * [仿 Smartisan OneStep，可以的，速度很快](https://github.com/gavinliu/SimpleOneStep)
+  * [android指纹识别动画](https://github.com/mattprecious/swirl)
+  * [自定义 Android 指纹识别快捷方式](https://github.com/ztc1997/Fingerprint2Sleep)
+  * [在 Android 上模拟 Siri 录音动效](https://github.com/rakkang/SiriWaveframe)
+  * [这是Android一个雷达扫描显示的扫描图，超高仿QQ附近的人搜索展示](https://github.com/ImmortalZ/RadarScan)
+  * [四步实现ChromeLikeSwipeLayout效果](http://www.jianshu.com/p/d6b4a9ad022e)
+  * [高仿 path下拉小球，类似IOS果冻效果](https://github.com/ImmortalZ/jellyball)
+  * [仿 Smartisan OneStep，可以的，速度很快](https://github.com/gavinliu/SimpleOneStep)
+  * [仿三星桌面的浮动工具](https://github.com/k0shk0sh/FastAccess)
 * Other 
   * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
   * [使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference](https://github.com/RikkaW/MaterialPreference)
@@ -502,6 +510,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [这是一个切割时间的表盘](https://github.com/DuanTzXavier/conciseclock)
   * [tv常用效果控件，包括焦点、边框处理等。](https://github.com/evilbinary/TvWidget)
   * [可固定头部的表格控件](https://github.com/InQBarna/TableFixHeaders)
+  * [App 备份和恢复，做的很完整](https://github.com/samanyougarg/ABR-App-Backup-Restore)
 
 ## **自定义控相关链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
