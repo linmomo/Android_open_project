@@ -30,6 +30,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [文本编辑工具，轻松搞定一段文字不同颜色的需求](https://github.com/THEONE10211024/ColorPhrase)
   * [ColorTextView：让特定的文字呈现出特定的颜色](https://github.com/zhonghanwen/ColorTextView)
   * [一个功能强大的TextView，可以满足日常大部分布局方式 ](https://github.com/lygttpod/SuperTextView)
+  * [一个可以取词的TextView](https://github.com/burgessjp/GetWordTextView)
 *  ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
