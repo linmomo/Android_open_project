@@ -312,6 +312,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [类似 Facebook 闪烁式的 Load View，哇，好漂亮](https://github.com/elye/loaderviewlibrary)
   * [斜角 View 效果，用来做 Profile 背景最适合不过](https://github.com/florent37/DiagonalLayout)
   * [使AppBarLayout 可以弹性下拉的Behavior](https://github.com/ToDou/appbarlayout-spring-behavior)
+  * [一个真正的Ripple效果，需要考虑Ripple的圆心变化 ](https://github.com/liuguangqiang/RippleLayout)
 * 伸缩展开布局
   * [一种可根据展开是否超出屏幕来判断父控件是否自动滚动的ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout)
   * [可展开/隐藏子view的layout](https://github.com/AAkira/ExpandableLayout) 
@@ -694,6 +695,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 上展示 FPS 的悬浮组件](https://github.com/friendlyrobotnyc/TinyDancer)
   * [滑动完成确认的交互效果](https://github.com/VictorAlbertos/SwipeCoordinator)
   * [搜索过滤器交互效果 ](https://github.com/Yalantis/SearchFilter)
+  * [副作用小的在线热更新View库，可将View作为一个独立模块进行更新抽换](https://github.com/kot32go/dynamic-load-view/blob/master/README_zh.md)
 
 ##**Animations**
   * 动画合集库
