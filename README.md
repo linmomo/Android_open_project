@@ -31,6 +31,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [ColorTextView：让特定的文字呈现出特定的颜色](https://github.com/zhonghanwen/ColorTextView)
   * [一个功能强大的TextView，可以满足日常大部分布局方式 ](https://github.com/lygttpod/SuperTextView)
   * [一个可以取词的TextView](https://github.com/burgessjp/GetWordTextView)
+  * [一个简单的spannable工具](https://github.com/jaychang0917/SimpleText)
 *  ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
@@ -85,6 +86,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 *  ProgressBar/SeekBar
   * [渐变的圆形进度条与轻量横向进度条](https://github.com/lingochamp/MagicProgressWidget)
   * [可定制的圆形进度条，通过xml参数配置可实现QQ健康中步数的弧形进度显示、仪盘表显示速度、最常见的下载进度条等功能](https://github.com/Shinelw/ColorArcProgressBar/blob/master/README_CHINESE.md)
+  * [安卓版圆形进度条](https://github.com/yingLanNull/CircleAlarmTimerView)
   * [速度指示器，UI 再改进一下会好看很多很多](https://github.com/anastr/SpeedView)
   * [layout中的进度条](https://github.com/iammert/ProgressLayout)
   * [圆弧进度条](https://github.com/GIGAMOLE/ArcProgressStackView)
@@ -105,6 +107,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿微信公众号设置文章字体大小时所需要的View控件](https://github.com/YangShaoXiong/RangeBar)
   * [五星好评](https://github.com/FlyingPumba/SimpleRatingBar)
   * [分离式的 Slider 效果，可以用来做打赏选择钱数，也可以做类似Uber选择车型，可用的场景相当多](https://github.com/lawloretienne/DiscreteSlider)
+  * [自动通过用户启动 App 的次数，弹出 Rating 页面引导用户评价](https://github.com/codemybrainsout/smart-app-rate)
 *  ScrollView
   * [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
   * [Android Header 自动随滑动浮动](https://github.com/w446108264/ScrollableLayout)
@@ -332,7 +335,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [Android手势监听](https://github.com/pwittchen/swipe)
 *  TipView/Badge
   * [为你的应用程序加上数字角标](https://github.com/leolin310148/ShortcutBadger)
-  * []()
   * [给布局添加提示](https://github.com/tomergoldst/tooltips)
   * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
   * [带箭头的TipVIew](https://github.com/cpiz/BubbleView/blob/master/README_CN.md)
@@ -513,6 +515,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [tv常用效果控件，包括焦点、边框处理等。](https://github.com/evilbinary/TvWidget)
   * [可固定头部的表格控件](https://github.com/InQBarna/TableFixHeaders)
   * [App 备份和恢复，做的很完整](https://github.com/samanyougarg/ABR-App-Backup-Restore)
+  * [Android 画板 View，随心所欲的画画](https://github.com/ByoxCode/DrawView)
 
 ## **自定义控相关链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
@@ -555,6 +558,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [Android 高性能实时模糊（Blur） View 效果](https://github.com/mmin18/RealtimeBlurView)
    * [毛玻璃效果的解锁界面](https://github.com/Nightonke/BlurLockView/blob/master/README-ZH.md)
    * [又一个LowPoly图片, 另外这个还可以让图片变成沙画](https://github.com/xyzxqs/XLowPoly)
+   * [一行代码完成图片高斯模糊](Android MP3录制，波形显示，音频权限兼容与播放)
 * ImageCompress
    * [Luban可能是最接近微信朋友圈的图片压缩算法](https://github.com/Curzibn/Luban) 
    * [超实用的 Android 图片压缩工具](https://github.com/zetbaitsu/Compressor)
@@ -591,6 +595,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [图片选择器](https://github.com/917386389/imagepickerdemo)
  * [基于 Bottom Sheet 实现的图片选择器，交互效果不错](https://github.com/ParkSangGwon/TedBottomPicker)
  * [抽取自Telegram，并加入QQ相册选择风格的图片选择器，高效，低耗，响应快速](https://github.com/TangXiaoLv/TelegramGallery/blob/master/README_CN.md)
+ * [轻量级的material design图片选择器](https://github.com/liuguangqiang/IPicker)
 * DownLoad
   * [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
   * [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
@@ -619,6 +624,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [可以实现好多种音效的播放器](http://android-openslmediaplayer.h6ah4i.com/#carousel-demoapp-1)
   * [转换QQ微信语音格式转为mp3](https://github.com/ketn4391/android_silk_v3_decoder)
   * [通话录音](https://github.com/aykuttasil/CallRecorder)
+  * [Android MP3录制，波形显示，音频权限兼容与播放](http://www.jianshu.com/p/2448e2903b07)
 * 直播
   * [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
   * [几行代码快速实现滑动清屏效果！动态绑定清屏UI，参考自淘宝直播](https://github.com/Yellow5A5/ClearScreenHelper/blob/master/README_CN.md)
@@ -714,6 +720,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [简单的的函数实现绚丽动画效果](https://github.com/wingjay/WJMagicCurveView)
    * [Android缓动函数库](https://github.com/daimajia/AnimationEasingFunctions)
    * [当数学遇上动画：讲述ValueAnimator、TypeEvaluator和TimeInterpolator之间的恩恩怨怨](https://github.com/hujiaweibujidao/yava/blob/master/README-CN.md)
+   * [动画插值器的编辑器](https://github.com/MartinRGB/RapidInterpolator)
    * [通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画](https://github.com/venshine/BezierMaker)
   * 自定义动画
    *  [一个炫酷的SearchView搜索动画库](https://github.com/android-cjj/JJSearchViewAnim/blob/master/README-CN.md) 
