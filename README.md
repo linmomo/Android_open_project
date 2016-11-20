@@ -287,6 +287,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿QQ底部Tab切换带数字提示的RadioButton，支持自定义提示数字背景颜色、字体大小、字体颜色](https://github.com/hcs-xph/BadgeRadioButton)
 * Activity
   * [兼容4.0以上版本的点击扩散动画库，几行代码实现Activity转场动画效果及新增自定义界面转场动画](https://github.com/Yellow5A5/ActSwitchAnimTool)
+  * [穿件简单的Android转场动画](https://github.com/kaichunlin/android-transition)
    * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
    * [一款简单的Android端用于Activity跳转的路由框架](https://github.com/yjfnypeu/Router)
    * [以卡片视图的形式管理你的 Activity，让你的 app 可以自由的切换、跳转、关闭 Activity 以及结束 app 程序 ](https://github.com/Hitomis/ActivitySwitcher)
@@ -335,6 +336,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [Android手势监听](https://github.com/pwittchen/swipe)
 *  TipView/Badge
   * [为你的应用程序加上数字角标](https://github.com/leolin310148/ShortcutBadger)
+  * [最简单的BadgeView，一句代码就搞定](https://github.com/AlexLiuSheng/BadgeView)
   * [给布局添加提示](https://github.com/tomergoldst/tooltips)
   * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
   * [带箭头的TipVIew](https://github.com/cpiz/BubbleView/blob/master/README_CN.md)
@@ -346,6 +348,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一系列可绘制的 Badge](https://github.com/nekocode/Badge)
   * [掉落通知效果](https://github.com/Brudigem/DropDownWarning)
   * [超级漂亮的一个高亮功能提醒效果](https://github.com/KeepSafe/TapTargetView)
+  * [Badge 风格的 TextView，支持 Shadow 和 Elevation](https://github.com/matrixxun/MaterialBadgeTextView)
 * TagView/FlowTag
   * [自定义TagView，并且可拖拽](https://github.com/whilu/AndroidTagView)
   * [Android流式布局，支持单选、多选等，适合用于产品标签等](https://github.com/hongyangAndroid/FlowLayout)
@@ -596,6 +599,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * [基于 Bottom Sheet 实现的图片选择器，交互效果不错](https://github.com/ParkSangGwon/TedBottomPicker)
  * [抽取自Telegram，并加入QQ相册选择风格的图片选择器，高效，低耗，响应快速](https://github.com/TangXiaoLv/TelegramGallery/blob/master/README_CN.md)
  * [轻量级的material design图片选择器](https://github.com/liuguangqiang/IPicker)
+ * [图片，视频，文件选择器](https://github.com/fishwjy/MultiType-FilePicker)
 * DownLoad
   * [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
   * [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
@@ -714,6 +718,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [切换页面的圆形动画效果](https://github.com/SpikeKing/wcl-circle-reveal-demo)
    * [动画效果集合](https://github.com/wusp/IndicatorBox)
    * [通过 AnimateVectoreDrawer 实现的一些动画效果](https://github.com/ghuiii/AnimateVectorDrawableDEMO)
+   * [ENViews, 一个华丽丽的动效控件库](https://github.com/codeestX/ENViews)
   *  动画函数
    * [缓动函数速查表](http://easings.net/zh-cn) 
    * [Android Easing 函数库，动画](https://github.com/MasayukiSuda/EasingInterpolator)
