@@ -389,6 +389,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [手摸手教你写Slack的Loading动画](https://github.com/JeasonWong/SlackLoadingView)
   * [仿支付宝实现的一个笑脸 LoadingView 效果。](https://github.com/andyxialm/SmileyLoadingView)
   * [Android 方块加载器动画，很有新意](https://github.com/yuweiguocn/SquareLoading)
+  * [正方体样式的loadingView](https://github.com/XBeats/and_cube_progress)
 * Banner
   * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
   *  [一些 indicator样式](https://github.com/ongakuer/CircleIndicator) 
