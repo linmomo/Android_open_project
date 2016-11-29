@@ -52,6 +52,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 图片放大过渡效果](https://github.com/vikramkakkar/ImageTransition)
   * [大图查看加载库，支持拖动和缩放，利用 fresco 加载，超级方便，但是内存占用超级低，一点也不卡](https://github.com/Piasy/BigImageViewer)
   * [一个实现了最新的Google Calender中月份图片的效果的ImageView,图片会随着外部ScrollView的滚动而滚动](https://github.com/dexlex/DexMovingImageView)
+  * [验证码图片 ImageView](https://github.com/jineshfrancs/CaptchaImageView)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -127,11 +128,11 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一种新的实现RecyclerViewHeadView的方法](https://github.com/drakeet/RecyclerViewWithHeaderNewPractice)
   * [一个下拉放大的RecyclerView](https://github.com/dinuscxj/PullZoomRecyclerView)
   * [视差效果的 Item 滑动变大](https://github.com/iielse/RetailMeNotList)
-   * [RecyclerView粘性标签库](https://github.com/oubowu/PinnedSectionItemDecoration)
+  * [RecyclerView粘性标签库](https://github.com/oubowu/PinnedSectionItemDecoration)
   * [Android RecyclerView 顶部悬浮实现](https://github.com/christmasjason/StickyHeaderView)
   * [Android两级磁贴列表，拥有完美的不同级磁贴互相接触推动的效果，适合多级分类嵌套展示](https://github.com/Kenber/DoubleStickyHeadersList)
   * [基于RecyclerView的扩展库，提供了与ViewPager类似的滑动效果并且添加了一些有用的特性](https://github.com/luckyandyzhang/CleverRecyclerView)
-   * [类似于ViewPagerIndicator，用RecyclerView来实现ViewPager，并加上Indicator](https://github.com/buyi/RecyclerViewPagerIndicator)
+  * [类似于ViewPagerIndicator，用RecyclerView来实现ViewPager，并加上Indicator](https://github.com/buyi/RecyclerViewPagerIndicator)
   * [上拉下拉刷新的RecyclerView](https://github.com/tosslife/PullLoadView)
   * [RecyclerViewManager支持上下拉刷新及点击事件](https://github.com/Syehunter/RecyclerViewManager)
   * [RecyclerView的卡片式旋转LayoutManager布局管理器](https://github.com/Azoft/CarouselLayoutManager)
@@ -204,6 +205,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [日历组件，包含了多个日历控件样式供使用。](https://github.com/dengshiwei/CalendarComponent)
   * [显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库](https://github.com/myjoybar/android-calendar-view)
   * [简洁风格的日历 View](https://github.com/recruit-mp/LightCalendarView)
+  * [类似 Google 日历的实现，做的不错](https://github.com/memfis19/Cadar)
 * PickView
   * [安卓选择器类，包括各种类型的选择器，可自定义顶部及底部界面，可自定义窗口动画](https://github.com/gzu-liyujiang/AndroidPicker)
   * [日期选择控件](https://github.com/flavienlaurent/datetimepicker) 
@@ -240,6 +242,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个可以给Floating Action Button 添加 Transformation 动画的库](https://github.com/konifar/fab-transformation)
   * [Float Button 圆形进度条效果 ](https://github.com/DmitryMalkovich/circular-with-floating-action-button)
   * [可展开定制菜单的Float Button](https://github.com/Clans/FloatingActionButton)
+  * [支持展开菜单的 Fab 按钮](https://github.com/JoaquimLey/faboptions)
   * [FabAnimations](https://github.com/qs-lll/FabActionAnimations)
   * [轮盘样式的 Fragment 菜单选择控件](https://github.com/Hitomis/SpinMenu)
   * [一个好看的Float菜单](https://github.com/xue5455/SmartMenu)
@@ -678,6 +681,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [扫描二维码、扫描条形码、相册获取图片后识别、生成带Logo二维码、支持微博微信QQ二维码扫描样式](https://github.com/bingoogolapple/BGAQRCode-Android)
   * [将生成的二维码与选择的图片合成，生成的新二维码](https://github.com/scola/Qart)
   * [Android 二维码扫描工具库](https://github.com/KingsMentor/MobileVisionBarcodeScanner)
+  * [六种二维码生成的样式](https://github.com/vivian8725118/ZXingDemo/) 
 * 蓝牙
   * [Android BLE 蓝牙开发框架，使用简单的回调方式一步处理搜索、连接、notify、indicate、读、写等一系列蓝牙操作](https://github.com/Jasonchenlijian/FastBle)\
   * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
