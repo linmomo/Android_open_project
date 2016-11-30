@@ -33,6 +33,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个功能强大的TextView，可以满足日常大部分布局方式](https://github.com/lygttpod/SuperTextView)
   * [一个可以取词的TextView](https://github.com/burgessjp/GetWordTextView)
   * [一个简单的spannable工具](https://github.com/jaychang0917/SimpleText)
+  * [数字增加动画的 TextView](https://github.com/Bakumon/NumberAnimTextView)
+  * [支持放大缩小的 TextView](https://github.com/androidessence/PinchZoomTextView)
 * ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
@@ -393,16 +395,17 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿支付宝实现的一个笑脸 LoadingView 效果。](https://github.com/andyxialm/SmileyLoadingView)
   * [Android 方块加载器动画，很有新意](https://github.com/yuweiguocn/SquareLoading)
   * [正方体样式的loadingView](https://github.com/XBeats/and_cube_progress)
+  * [守望先锋的加载效果](https://github.com/zhangyuChen1991/OverWatchLoading)
 * Banner
   * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
-  *  [一些 indicator样式](https://github.com/ongakuer/CircleIndicator) 
-  *  [可定制的Indicator,结合ViewPager使用,当然不通过ViewPager也可以用](https://github.com/jiang111/ScalableTabIndicator)
-  *  [轮播Banner](https://github.com/waylife/InfiniteViewPager/blob/master/README_ZH.md)
-  *  [一个简单的Banner轮播](https://github.com/sayyam/carouselview)
-  *  [一个好的广告轮播](https://github.com/H07000223/FlycoBanner_Master/blob/master/README_CN.md)
-  *  [Flipboard轮播组件](https://github.com/chengdazhi/DecentBanner)
-  *  [通用的广告栏控件，让你轻松实现广告头效果](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
-  *  [一个简单，强大的广告活动弹窗控件](https://github.com/yipianfengye/android-adDialog)
+  * [一些 indicator样式](https://github.com/ongakuer/CircleIndicator) 
+  * [可定制的Indicator,结合ViewPager使用,当然不通过ViewPager也可以用](https://github.com/jiang111/ScalableTabIndicator)
+  * [轮播Banner](https://github.com/waylife/InfiniteViewPager/blob/master/README_ZH.md)
+  * [一个简单的Banner轮播](https://github.com/sayyam/carouselview)
+  * [一个好的广告轮播](https://github.com/H07000223/FlycoBanner_Master/blob/master/README_CN.md)
+  * [Flipboard轮播组件](https://github.com/chengdazhi/DecentBanner)
+  * [通用的广告栏控件，让你轻松实现广告头效果](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
+  * [一个简单，强大的广告活动弹窗控件](https://github.com/yipianfengye/android-adDialog)
 * CountDown
   * [TextureView仿手淘倒计时](https://github.com/CaMnter/EasyCountDownTextureView)
   * [倒计时控件](https://github.com/iwgang/CountdownView/blob/master/README_CN.md)   
@@ -460,6 +463,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [正多边形的统计图，支持任意边数的多边形](https://github.com/GordenXiao/PolygonChart)
   * [做的很棒的一个 Android 辐射数据统计效果](https://github.com/DmitriyZaitsev/RadarChartView)
   * [一款可以自由定制外观、手势旋转的android雷达图表lib](https://github.com/qstumn/RadarChart)
+  * [支持多个方向滑动的 View，类似 Calendar 里的 UI 效果，类似表格](https://github.com/Kelin-Hong/ScrollablePanel)
 * 悬浮View 
   * [自定义Floatview实现全站浮动按钮和来电秀](https://github.com/AlexLiuSheng/FloatView)
   * [悬浮球-一个服务开启悬浮球，任何界面都可以使用](https://github.com/hanbaokun/FloatingViewService)
@@ -513,6 +517,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿 Smartisan OneStep，可以的，速度很快](https://github.com/gavinliu/SimpleOneStep)
   * [仿三星桌面的浮动工具](https://github.com/k0shk0sh/FastAccess)
   * [仿TinderStack](https://github.com/lawloretienne/TinderStack)
+  * [仿斗鱼滑动验证码](https://github.com/mcxtzhang/SwipeCaptcha) 
 * Other 
   * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
   * [使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference](https://github.com/RikkaW/MaterialPreference)
@@ -731,6 +736,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [副作用小的在线热更新View库，可将View作为一个独立模块进行更新抽换](https://github.com/kot32go/dynamic-load-view/blob/master/README_zh.md)
   * [为应用程序提供pin密码 ](https://github.com/OrangeGangsters/LolliPin)
   * [一个ToastBar, 可以像Snackbar一样attach到viewgroup里面或者像Toast一样的overlay，支持Top/Bottom两种模式](https://github.com/SwiftyWang/ToastBar)
+  * [Adblock Webview，支持自动屏蔽广告](https://github.com/AmniX/AdBlockedWebView-Android)
 
 ##**Animations**
  * 动画合集库
