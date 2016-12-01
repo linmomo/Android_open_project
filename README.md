@@ -55,6 +55,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [大图查看加载库，支持拖动和缩放，利用 fresco 加载，超级方便，但是内存占用超级低，一点也不卡](https://github.com/Piasy/BigImageViewer)
   * [一个实现了最新的Google Calender中月份图片的效果的ImageView,图片会随着外部ScrollView的滚动而滚动](https://github.com/dexlex/DexMovingImageView)
   * [验证码图片 ImageView](https://github.com/jineshfrancs/CaptchaImageView)
+  * [滚动时图片产生视差效果的ImageView](https://github.com/gjiazhe/ScrollParallaxImageView)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -314,6 +315,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个轻量的ProgressLayout，能够帮助你实现“加载中”、“无内容”，“网络错误”，“加载失败”等不同场景下的页面切换与展示，并且支持点击页面重试。](https://github.com/LianjiaTech/ProgressLayout)
   * [通用状态切换视图](https://github.com/XuDaojie/MultiStateView)
   * [一个简单但可以自定义切换动画的管理多状态的自定义layout ](https://github.com/lufficc/StateLayout)
+  * [简单实用的页面多状态布局(content,loading,empty,error)](https://github.com/czy1121/loadinglayout)
   * [以组件的方式维护列表加载状态](https://github.com/gitsindonesia/baso)
   * [渐变色背景组件](https://github.com/csdodd/GradientLayout)
   * [漂亮的色彩渐变式背景效果](https://github.com/dynamitechetan/Flowing-Gradient)
@@ -374,6 +376,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [上面显示，下面Gallery效果](https://github.com/sungerk/GalleryView)
   * [炒鸡炫酷效果的ExpandingPager](https://github.com/qs-lll/ExpandingPager)
   * [RecyclerView 卡片画廊效果](https://github.com/huazhiyuan2008/RecyclerViewCardGallery)
+  * [特殊的瀑布流](https://github.com/CarGuo/ImageGalleryOptimize)
 * TimeLineView
   * [时间线View](https://github.com/alorma/TimelineView)
   * [一个RecyclerView实现的时间轴](https://github.com/ishratkhan/NestedTimeLineRecyclerView)
@@ -536,7 +539,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [可固定头部的表格控件](https://github.com/InQBarna/TableFixHeaders)
   * [App 备份和恢复，做的很完整](https://github.com/samanyougarg/ABR-App-Backup-Restore)
   * [android温度计](https://github.com/kofigyan/Thermometer)
-  * [特殊的瀑布流](https://github.com/CarGuo/ImageGalleryOptimize)
+  * [用以显示类似github贡献度的View，当然，也绝不仅限于此](https://github.com/barryhappy/TContributionsView)
 
 ## **自定义控相关链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
