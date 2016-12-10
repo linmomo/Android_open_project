@@ -55,6 +55,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [大图查看加载库，支持拖动和缩放，利用 fresco 加载，超级方便，但是内存占用超级低，一点也不卡](https://github.com/Piasy/BigImageViewer)
   * [一个实现了最新的Google Calender中月份图片的效果的ImageView,图片会随着外部ScrollView的滚动而滚动](https://github.com/dexlex/DexMovingImageView)
   * [验证码图片 ImageView](https://github.com/jineshfrancs/CaptchaImageView)
+  * [又一个Android端动态验证码实现](https://github.com/Freshman111/VerificationCodeView)
   * [滚动时图片产生视差效果的ImageView](https://github.com/gjiazhe/ScrollParallaxImageView)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
@@ -115,6 +116,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [五星好评](https://github.com/FlyingPumba/SimpleRatingBar)
   * [分离式的 Slider 效果，可以用来做打赏选择钱数，也可以做类似Uber选择车型，可用的场景相当多](https://github.com/lawloretienne/DiscreteSlider)
   * [自动通过用户启动 App 的次数，弹出 Rating 页面引导用户评价](https://github.com/codemybrainsout/smart-app-rate)
+  * [自定义SeekBar，进度变化由可视化气泡样式呈现，定制化程度较高](https://github.com/woxingxiao/BubbleSeekBar) 
 * ScrollView
   * [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
   * [Android Header 自动随滑动浮动](https://github.com/w446108264/ScrollableLayout)
@@ -298,10 +300,10 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * Activity
   * [兼容4.0以上版本的点击扩散动画库，几行代码实现Activity转场动画效果及新增自定义界面转场动画](https://github.com/Yellow5A5/ActSwitchAnimTool)
   * [穿件简单的Android转场动画](https://github.com/kaichunlin/android-transition)
-   * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
-   * [一款简单的Android端用于Activity跳转的路由框架](https://github.com/yjfnypeu/Router)
-   * [以卡片视图的形式管理你的 Activity，让你的 app 可以自由的切换、跳转、关闭 Activity 以及结束 app 程序 ](https://github.com/Hitomis/ActivitySwitcher)
-   * [Android 逆向实用小插件：展示页面 Top Activity 的名称和包名](https://github.com/109021017/android-TopActivity)
+  * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
+  * [一款简单的Android端用于Activity跳转的路由框架](https://github.com/yjfnypeu/Router)
+  * [以卡片视图的形式管理你的 Activity，让你的 app 可以自由的切换、跳转、关闭 Activity 以及结束 app 程序 ](https://github.com/Hitomis/ActivitySwitcher)
+  * [Android 逆向实用小插件：展示页面 Top Activity 的名称和包名](https://github.com/109021017/android-TopActivity)
 *  Fragment
    * [Activity ＋ 多Fragment","多模块Activity多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG](https://github.com/YoKeyword/Fragmentation])
    * [手势滑动返回的Fragment](https://github.com/YoKeyword/SwipeBackFragment) 
@@ -399,6 +401,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 方块加载器动画，很有新意](https://github.com/yuweiguocn/SquareLoading)
   * [正方体样式的loadingView](https://github.com/XBeats/and_cube_progress)
   * [守望先锋的加载效果](https://github.com/zhangyuChen1991/OverWatchLoading)
+  * [波浪加载动画](https://github.com/race604/WaveLoading)  
 * Banner
   * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
   * [一些 indicator样式](https://github.com/ongakuer/CircleIndicator) 
@@ -540,7 +543,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [App 备份和恢复，做的很完整](https://github.com/samanyougarg/ABR-App-Backup-Restore)
   * [android温度计](https://github.com/kofigyan/Thermometer)
   * [用以显示类似github贡献度的View，当然，也绝不仅限于此](https://github.com/barryhappy/TContributionsView)
-
+  * [显示飞行器姿态的Android控件](https://github.com/billhsu/AndroidAHRSView)
+   
 ## **自定义控相关链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
 * [自定义View教程](https://github.com/Idtk/Blog/tree/master/Blog)
@@ -607,7 +611,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [打码效果](https://github.com/DanielMartinus/Pixelate)
   * [Android拼图支持库，轻松实现Instagram Layout效果](https://github.com/wuapnjie/PuzzleView/blob/master/README_CN.md)
   * [Android 画板 View，随心所欲的画画](https://github.com/ByoxCode/DrawView)
-  * [填图应用，填图部分逻辑功能已经基本完善](https://github.com/SwiftyWang/FingerColoring-Android)
+  * [填图应用，填图部分逻辑功能已经基本完善](https://github.com/SwiftyWang/FingerColoring-Android)
+* Camera
+  * [拍照时之拍预览界面指定区域的照片](https://github.com/CGmaybe10/FocusSurfaceView)
 * ImageSelector
   * [Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置](https://github.com/pengjianbo/GalleryFinal)
   * [一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](https://github.com/crazycodeboy/TakePhoto)
@@ -630,6 +636,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
   * [Android 文件下载引擎，稳定、高效、简单易用](https://github.com/lingochamp/FileDownloader/blob/master/README-zh.md)
   * [处理异步下载的库](https://github.com/wangdanlizhiyun/lib_download)
+  * [基于RxJava打造的多线程下载工具, 支持断点续传下载管理等](https://github.com/ssseasonnn/RxDownload)
 * Video
   * [一个适用于 Android 平台的音视频播放器 SDK，可高度定制化和二次开发，为 Android 开发者提供了简单、快捷的接口，帮助开发者在 Android 平台上快速开发播放器应用。](https://github.com/pili-engineering/PLDroidPlayer)
   * [基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装。 是一个适用于 Android 的 RTMP 直播推流 SDK，可高度定制化和二次开发](https://github.com/jjdxmashl/jjdxm_ijkplayer/)
@@ -706,9 +713,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [App 崩溃后，帮助你恢复现场并查看崩溃信息的库，在开发阶段相当实用，建议大家集成进去节省些开发时间](https://github.com/Sunzxyong/Recovery/blob/master/README-Chinese.md)
   * [Android 收集用户基本信息利器，比如 App 崩溃后的地理位置，GPS网络状态，当前页面截屏等等 ](https://github.com/rm3l/maoni-email)
 * 权限
-   * [Android Permission 辅助检测和申请工具库](https://github.com/rebus007/PermissionUtils)  
-   * [FcPermissions：也许是目前最好的动态权限请求库](https://github.com/lypeer/FcPermissions)
-   * [Android 又一个权限管理库](https://github.com/holidaycheck/Permissify)
+  * [Android Permission 辅助检测和申请工具库](https://github.com/rebus007/PermissionUtils)  
+  * [FcPermissions：也许是目前最好的动态权限请求库](https://github.com/lypeer/FcPermissions)
+  * [Android 又一个权限管理库](https://github.com/holidaycheck/Permissify)
 * 文件选择
   * [Android 文件选择工具库](https://github.com/Angads25/android-filepicker)
   * [又一款 MD 风格的 Android 文件选择器组件，支持文件分类选取，交互不错](https://github.com/DroidNinja/Android-FilePicker)
@@ -747,6 +754,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [Android动画库项目](https://github.com/hujiaweibujidao/wava/blob/master/README-CN.md)
    * [一个给SVG添加动画的库](https://github.com/glomadrian/RoadRunner)
    * [页面过渡动画](https://github.com/linfaxin/TransitionPlayer)
+   * [Android 翻页效果库](https://github.com/eschao/android-PageFlip)
    * [兼容5.0以下转场动画帮助类](https://github.com/ImmortalZ/TransitionHelper)
    * [简单的创建属性动画](https://github.com/robinxdroid/XDroidAnimation)
    * [切换页面的圆形动画效果](https://github.com/SpikeKing/wcl-circle-reveal-demo)
