@@ -202,7 +202,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   *  [无限循环滚动卡片式ViewPager，可同时上下左右，效果很赞](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager)
   *  [一个漂亮的 Android 画廊展示效果,点击可以显示详情 ](https://github.com/Jaouan/Carousel-Browsing-Example)
   *  [画廊展示效果，点击可以查看简介，可进入详情页面](https://github.com/xmuSistone/android-page-transition)
-  * [仿qq身边的人Viewpager实现](https://github.com/dalong982242260/SlidingBallViewPager)
+  *  [仿qq身边的人Viewpager实现](https://github.com/dalong982242260/SlidingBallViewPager)
 * Calendar
   * [一款漂亮的calendar ](https://github.com/SundeepK/CompactCalendarView)
   * [ListView实现的日历](https://github.com/traex/CalendarListview)
@@ -266,6 +266,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [自定义底部dialog](https://github.com/rebus007/BottomDialog)
   * [底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView](https://github.com/kingideayou/SlideBottomPanel)
   * [位置搜索智能提示框，利用了 GoogleApi，想要用到国内的话，可以对接一个国内的地图服务](https://github.com/codemybrainsout/PlaceSearchDialog)
+  * [悬浮窗权限兼容库 ](https://github.com/czy1121/overlaypermission)
 * Spinner/Toast
   * [一个带有展开和折叠动画的Spinner](https://github.com/arcadefire/nice-spinner)
   * [可以记住历史选项的spinner](https://github.com/Jasonchenlijian/MemorySpinner)
