@@ -685,15 +685,17 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [login and share lib](https://github.com/lingochamp/ShareLoginLib)
   * [一个酷炫的分享控件](https://github.com/JeasonWong/FlipShare)
   * [一个漂亮的 Share Button UI 效果](https://github.com/kayan1990/ShareButton)
+  * [简单的Android社会化分享登录库，一行代码搞定](https://github.com/shaohui10086/ShareUtil)
 * App下载更新
   * [可任意定制的app更新组件。](https://github.com/yjfnypeu/UpdatePlugin)
   * [app下载安装更新](https://github.com/yaming116/UpdateApp/blob/master/README-zh.md)
   * [Android 应用更新](https://github.com/feicien/android-auto-update)
   * [清晰灵活简单易用的应用更新库](https://github.com/czy1121/update)
   * [一个可以让您应用的自动更新功能更加优雅的静默安装库 !](https://github.com/a-voyager/AutoInstaller/blob/master/README_zh.md)  
-* JS
+* JS/WebView
   * [Java 和 Javascript Bridge 封装](https://github.com/ImangazalievM/Scripto) 
   * [仿简书选取页面内容生成分享图片](https://github.com/zhangke3016/GeneratePicture)
+  * [Webview 伸缩 Toolbar 效果](https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview)
 * QRCODE
   * [android端ZXing二维码扫码器，高度自定义FindView ，支持设备自由转屏](https://github.com/ThePacific/zxing-barcode)
   * [生成二维码和从图片解析二维码库](https://github.com/RurioLuca/QrCardParsing)
@@ -710,9 +712,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android热修复与增量升级，基于微信Tinker原理](https://github.com/byteam/delta)
   * [热修复线上View，以及模块化更新](https://github.com/kot32go/dynamic-load-view/blob/master/README_zh.md)
 * 富文本/MarkDown
- * [安卓富文本编辑器](https://github.com/mr5/icarus-android)
- * [EditText富文本编辑器](https://github.com/chen-xiao-dong/RichEditText)
- * [一个利用RxJava在TextView和EditText上渲染的markdown解析器，支持大部分语法以及部分语法在EditText上实时预览](https://github.com/yydcdut/RxMarkdown/blob/master/README-zh-rCN.md)
+  * [安卓富文本编辑器](https://github.com/mr5/icarus-android)
+  * [EditText富文本编辑器](https://github.com/chen-xiao-dong/RichEditText)
+  * [一个利用RxJava在TextView和EditText上渲染的markdown解析器，支持大部分语法以及部分语法在EditText上实时预览](https://github.com/yydcdut/RxMarkdown/blob/master/README-zh-rCN.md)
 * 崩溃/信息收集
   * [崩溃日志上传框架](https://github.com/wenmingvs/LogReport) 
   * [App 崩溃后，帮助你恢复现场并查看崩溃信息的库，在开发阶段相当实用，建议大家集成进去节省些开发时间](https://github.com/Sunzxyong/Recovery/blob/master/README-Chinese.md)
