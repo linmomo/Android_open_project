@@ -9,6 +9,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [自适应大小和行的TextView](https://github.com/AndroidDeveloperLB/AutoFitTextView)
   * [对原生TextView解析Html格式文本的增强](https://github.com/xuyisheng/TextViewForFullHtml)
   * [Android平台下的富文本显示控件](https://github.com/zzhoujay/RichText)
+  * [显示富文本的TextView](https://github.com/limedroid/XRichText)
   * [一个方便你在App里使用自定义字体的库](https://github.com/vsvankhede/easyfonts)
   * [TextView文本改变动画](https://github.com/z56402344/AnimTextView)
   * [Textview电影特效](https://github.com/Rogero0o/MatchView)
@@ -75,6 +76,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [给用户输入自动加上特定格式](https://github.com/RedMadRobot/input-mask-android)
   * [Android 仿业问 打字机效果](https://github.com/andyxialm/TyperEditText)
   * [类似微博标签的文本控件](https://github.com/limedroid/TagEditText)
+  * [MD 风格的 EditText，精致](https://github.com/bufferapp/BufferTextInputLayout)
 * Button
   * [一个Button分成两部分效果](https://github.com/yankai-victor/RingButton) 
   * [连续组合点击](https://github.com/brucetoo/ComboView)
@@ -162,7 +164,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * GridView
   * [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
   * [带头尾的gridview](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter/blob/master/README-cn.md)
-  * [仿探探可拖拽的gridView,编辑个人资料，图片可拖拽排序](https://github.com/xmuSistone/android-drag-square)
 * PullToRefresh  
   * [安卓下拉刷新开源库对比](https://github.com/desmond1121/Android-Ptr-Comparison) 
   * [众多优秀的下拉刷新](https://github.com/android-cjj/BeautifulRefreshLayout)
@@ -257,6 +258,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个别致的环形菜单](https://github.com/Hitomis/CircleMenu) 
   * [简单易用的可定制展开角度的button menu](https://github.com/uin3566/AllAngleExpandableButton)
   * [Android 方块儿展开菜单，很有新意](https://github.com/devsideal/SquareMenu)
+  * [3D 视差效果的多选按钮](https://github.com/gjiazhe/MultiChoicesCircleButton) 
 * DiaLog
   * [提供自定义dialog style的库，非自定义view，纯净原生](https://github.com/tianzhijiexian/EasyDialog)
   * [一行代码实现提示对话框，指定元素](https://github.com/michaelye/EasyDialog)
@@ -264,7 +266,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个强大的Android对话框库,简化自定义对话框.支持2.2+](https://github.com/H07000223/FlycoDialog_Master/blob/master/README_CN.md) 
   * [支持左右滑动选项卡的 Dialog](https://github.com/ashishbhandari/AndroidTabbedDialog)
   * [动画显示能够侧滑消失的DialogFragment](https://github.com/kakajika/SwipeAwayDialog)
-   * [使用 DialogFragment 实现底部弹窗布局](https://github.com/SpikeKing/BottomDialogDemo)
+  * [使用 DialogFragment 实现底部弹窗布局](https://github.com/SpikeKing/BottomDialogDemo)
   * [自定义底部dialog](https://github.com/rebus007/BottomDialog)
   * [底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView](https://github.com/kingideayou/SlideBottomPanel)
   * [位置搜索智能提示框，利用了 GoogleApi，想要用到国内的话，可以对接一个国内的地图服务](https://github.com/codemybrainsout/PlaceSearchDialog)
@@ -528,6 +530,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿TinderStack](https://github.com/lawloretienne/TinderStack)
   * [仿斗鱼滑动验证码](https://github.com/mcxtzhang/SwipeCaptcha) 
   * [仿最美应用的底栏，使用recyclerView实现](https://github.com/huage2580/ZuiMeiTAG)
+  * [仿探探可拖拽的gridView,编辑个人资料，图片可拖拽排序](https://github.com/xmuSistone/android-drag-square)
+  * [一个仿探探上传相片的widget，基于xmuSistone的demo, 提供gradle import，添加上传照片功能以及各种回调，api，方便使用](https://github.com/SwiftyWang/android-drag-square)
 * Other 
   * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
   * [使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference](https://github.com/RikkaW/MaterialPreference)
@@ -592,6 +596,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [又一个LowPoly图片, 另外这个还可以让图片变成沙画](https://github.com/xyzxqs/XLowPoly)
   * [一行代码完成图片高斯模糊](https://github.com/jrvansuita/GaussianBlur)
   * [目前来看做 Blur 效果速度最快的库](https://github.com/wonderkiln/blurkit-android)
+  * [用RxJava处理和操作高斯模糊效果的简单用例。](https://github.com/SmartDengg/RxBlur)
 * ImageCompress
   * [Luban可能是最接近微信朋友圈的图片压缩算法](https://github.com/Curzibn/Luban) 
   * [超实用的 Android 图片压缩工具](https://github.com/zetbaitsu/Compressor)
@@ -653,6 +658,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [编译好的VLC播放器](https://github.com/hanhailong/VCL-Android)
   * [android视频播放器](https://github.com/SinaVDDeveloper/sinavideo_playersdk)
   * [仿网易新闻视频播放](https://github.com/xiongwei-git/AndroidVideoPlayer)
+  * [一种在播放视频时，能够拖拽的方案](https://github.com/hejunlin2013/DragVideo) 
   * [VideoListPlayer实现了在列表控件（ListView,RecyclerView）中加载并播放视频，并支持滑动时自动播放/暂停的功能利用该项目，可以轻松实现类似Instagram的视频播放功能](https://github.com/waynell/VideoListPlayer)
   * [一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，可全屏切换 ](https://github.com/w1123440793/VideoListDemo)
   * [仿微信小视频录制，基于GitHub上的javacv](https://github.com/szitguy/RecordVideoDemo)
@@ -695,7 +701,14 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * JS/WebView
   * [Java 和 Javascript Bridge 封装](https://github.com/ImangazalievM/Scripto) 
   * [仿简书选取页面内容生成分享图片](https://github.com/zhangke3016/GeneratePicture)
-  * [Webview 伸缩 Toolbar 效果](https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview)
+  * [Webview 伸缩 Toolbar 效果](https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview)
+* 插件化/hybrid
+  * [最接近原生APP体验的高性能框架](https://github.com/dcloudio/mui)
+  * [Small，做最轻巧的跨平台插件化框架](https://github.com/wequick/Small)
+* SharePreferences
+  * [一个Android平台上基于SharePreferences的偏好存储库](https://github.com/baoyongzhang/Treasure)
+  * [一个简单使用的SharePreferences](https://github.com/soarcn/Favor)
+  * [](https://github.com/lusfold/AndroidKeyValueStore)
 * QRCODE
   * [android端ZXing二维码扫码器，高度自定义FindView ，支持设备自由转屏](https://github.com/ThePacific/zxing-barcode)
   * [生成二维码和从图片解析二维码库](https://github.com/RurioLuca/QrCardParsing)
@@ -723,6 +736,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android Permission 辅助检测和申请工具库](https://github.com/rebus007/PermissionUtils)  
   * [FcPermissions：也许是目前最好的动态权限请求库](https://github.com/lypeer/FcPermissions)
   * [Android 又一个权限管理库](https://github.com/holidaycheck/Permissify)
+  * [窗口权限方案](https://github.com/bunnyblue/AndroidPopWinPermission) 
 * 文件选择
   * [Android 文件选择工具库](https://github.com/Angads25/android-filepicker)
   * [又一款 MD 风格的 Android 文件选择器组件，支持文件分类选取，交互不错](https://github.com/DroidNinja/Android-FilePicker)
