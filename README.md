@@ -36,6 +36,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个简单的spannable工具](https://github.com/jaychang0917/SimpleText)
   * [数字增加动画的 TextView](https://github.com/Bakumon/NumberAnimTextView)
   * [支持放大缩小的 TextView](https://github.com/androidessence/PinchZoomTextView)
+  * [Facebook 开源文本布局库](https://github.com/facebookincubator/TextLayoutBuilder)
 * ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
@@ -110,6 +111,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [渐变的下载按钮，发现不少小伙伴要做类似效果的](https://github.com/cctanfujun/ProgressRoundButton)
   * [Android 仿应用宝的下载效果，你知道中间那个光条是怎么做出来的吗](https://github.com/LineChen/FlickerProgressBar)
   * [一个展示下载进度的View，下载完成和失败的时候会有酷酷的动画](一个展示下载进度的View，下载完成和失败的时候会有酷酷的动画.)
+  * [蛮有创意的一发 Android 下载效果](https://github.com/Ajian-studio/GADownloading/blob/master/README_CN.md)
 * SeekBar
   * [一个展示注册进度的ProgressBar](https://github.com/jiang111/ProgressView)
   * [Range Seekbar](https://github.com/dolphinwang/RangeSeekbar)
@@ -297,6 +299,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Material Bottom Navigation 实现](https://github.com/krpiotrek/BottomNavigation)
   * [各式动画底部导航栏](https://github.com/Ashok-Varma/BottomNavigation)
   * [仿照 Google Space 实现的导航栏效果，做的很漂亮！！](https://github.com/armcha/Space-Navigation-View)
+  * [很有新意的一款 Android Bottom Tab 效果](https://github.com/thelong1EU/SpaceTabLayout)
   * [遇见 LoopBar 从Cleveroad。在Android环境中导航的新方法](https://github.com/Cleveroad/LoopBar)
   * [基于 Floating Button 实现的菜单展开效果，做的非常棒](https://github.com/andremion/Floating-Navigation-View)
   * [侧滑菜单，可自定义左中右](https://github.com/flyfei/CustomMenu/blob/master/README_CN.md) 
