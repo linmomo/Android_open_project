@@ -555,6 +555,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [android温度计](https://github.com/kofigyan/Thermometer)
   * [用以显示类似github贡献度的View，当然，也绝不仅限于此](https://github.com/barryhappy/TContributionsView)
   * [显示飞行器姿态的Android控件](https://github.com/billhsu/AndroidAHRSView)
+  * [仿微信掉落表情包效果](https://github.com/Luolc/EmojiRain/blob/master/README-cn.md)
    
 ## **自定义控相关链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
