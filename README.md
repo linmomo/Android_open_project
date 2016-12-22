@@ -233,6 +233,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [WheelPicker](https://github.com/AigeStudio/WheelPicker)
   * [类似仪表盘的选择器](https://github.com/BCsl/CursorWheelLayout)
   * [一款漂亮的 Bottom Sheet 时间选择器](https://github.com/philliphsu/BottomSheetPickers)
+  * [时间选择器，选择特定间隔时间段](https://github.com/skedgo/DateTimeRangePicker) 
 * StatusBar/ActionBar/ToolBar
   * [目测是 Bilibili 出品的 StatusBar 和 NavigationBar 辅助工具类](https://github.com/H07000223/FlycoSystemBar)  
   * [5.0以下沉浸式状态栏](https://github.com/Veaer/Glass)
@@ -773,7 +774,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个ToastBar, 可以像Snackbar一样attach到viewgroup里面或者像Toast一样的overlay，支持Top/Bottom两种模式](https://github.com/SwiftyWang/ToastBar)
   * [Adblock Webview，支持自动屏蔽广告](https://github.com/AmniX/AdBlockedWebView-Android)
   * [Android 手写体数字识别](https://github.com/lopei/collageview)
-
+  * [支持自定义主题的 Google Map 工具类](https://github.com/jineshfrancs/ThemedGoogleMap)
+  * [帮助你在 App 端，查看 Logcat 输出信息，测试的时候会有帮助](https://github.com/munix/LogcatTextView)
+  
 ##**Animations**
  * 动画合集库
    * [android控件动画集合](https://github.com/daimajia/AndroidViewAnimations) 
