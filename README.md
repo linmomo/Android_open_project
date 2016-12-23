@@ -502,6 +502,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [酷炫信用卡View](https://github.com/cooltechworks/CreditCardView)
   * [Android酷炫的礼物卡片控件](https://github.com/ldoublem/GiftCard)  
   * [自定义卡片集view，支持展开收缩滚动](https://github.com/loopeer/CardStackView)
+  * [Android 卡片滑动出现和消失效果](https://github.com/mancj/SlideUp-Android)
 * 刮刮卡/优惠券
   * [雾化擦除效果，可以做出来一些好玩儿的交互效果，比如：猜谜竞猜，低价销售展示，广告展示等等](https://github.com/dynamitechetan/FogView_Library)
   * [刮刮卡效果](https://github.com/jackpocket/android_scratchoff)
@@ -557,6 +558,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [用以显示类似github贡献度的View，当然，也绝不仅限于此](https://github.com/barryhappy/TContributionsView)
   * [显示飞行器姿态的Android控件](https://github.com/billhsu/AndroidAHRSView)
   * [仿微信掉落表情包效果](https://github.com/Luolc/EmojiRain/blob/master/README-cn.md)
+  * [一个方便使用的跑马灯效果library](https://github.com/gongwen/MarqueeViewDemo)
    
    
 ## **自定义控相关链接**
@@ -690,6 +692,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [CSDN直播技术相关集合](http://lib.csdn.net/base/liveplay)
   * [RTMP 推流器，RTMP播放器（秒开），跨平台（Win,IOS,Android](https://github.com/AnyRTC/AnyRTC-RTMP)
   * [一个 TV app 的直播节目实例，包含各央视频道及卫视频道](https://github.com/hejunlin2013/LivePlayback)
+  * [Android上专为视屏直播打造的轻量级弹幕库](https://github.com/hpdx/DanmukuLight)
 * 社交
   * [第三方登录分享组件封装](https://github.com/tianzhijiexian/ShareLoginLib/)
   * [社交分享组件](https://github.com/maoruibin/ChinaShare)
