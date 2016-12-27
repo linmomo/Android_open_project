@@ -8,6 +8,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个对齐TextView文本的库](https://github.com/bluejamesbond/TextJustify-Android)
   * [自适应大小和行的TextView](https://github.com/AndroidDeveloperLB/AutoFitTextView)
   * [对原生TextView解析Html格式文本的增强](https://github.com/xuyisheng/TextViewForFullHtml)
+  * [Android HTML to TextView Builder 辅助工具库](https://github.com/jrummyapps/html-builder)
   * [Android平台下的富文本显示控件](https://github.com/zzhoujay/RichText)
   * [显示富文本的TextView](https://github.com/limedroid/XRichText)
   * [一个方便你在App里使用自定义字体的库](https://github.com/vsvankhede/easyfonts)
@@ -59,6 +60,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [验证码图片 ImageView](https://github.com/jineshfrancs/CaptchaImageView)
   * [又一个Android端动态验证码实现](https://github.com/Freshman111/VerificationCodeView)
   * [滚动时图片产生视差效果的ImageView](https://github.com/gjiazhe/ScrollParallaxImageView)
+  * [多种图片样式 UI 组合，很适合做头像相关的功能](https://github.com/stfalcon-studio/MultiImageView)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -649,6 +651,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [轻量级的material design图片选择器](https://github.com/liuguangqiang/IPicker)
   * [图片，视频，文件选择器](https://github.com/fishwjy/MultiType-FilePicker)
   * [Material 风格的类似 Instagram 的图片选择器](https://github.com/NodensN/MediaPickerInstagram)
+  * [RxJava实现的图片选择库](https://github.com/miguelbcr/RxPaparazzo) 
 * DownLoad
   * [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
   * [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
@@ -780,6 +783,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 手写体数字识别](https://github.com/lopei/collageview)
   * [支持自定义主题的 Google Map 工具类](https://github.com/jineshfrancs/ThemedGoogleMap)
   * [帮助你在 App 端，查看 Logcat 输出信息，测试的时候会有帮助](https://github.com/munix/LogcatTextView)
+  * [Android Key 生成，存储，加密工具库](https://github.com/yakivmospan/scytale)
   
 ##**Animations**
  * 动画合集库
