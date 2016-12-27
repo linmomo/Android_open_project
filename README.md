@@ -15,7 +15,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [TextView文本改变动画](https://github.com/z56402344/AnimTextView)
   * [Textview电影特效](https://github.com/Rogero0o/MatchView)
   * [LyricView：歌词Textview](https://github.com/markzhai/LyricView)
-  * [bili图文混排](https://github.com/Bilibili/drawee-text-view)
+  * [歌词显示控件，支持多行显示、拖曳播放、自动识别歌词文件的编码](https://github.com/zhengken/LyricViewDemo)
+  * [bili图文混排](https://github.com/Bilibili/drawee-text-view)
   * [高级TextView,支持自适应,阅读更多多种高级功能](https://github.com/oktayayr/advancedtextview)
   * [垂直跑马灯/垂直翻页公告](https://github.com/sfsheng0322/MarqueeView)
   * [滚动播放的公告控件](https://github.com/czy1121/noticeview)
@@ -61,6 +62,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [又一个Android端动态验证码实现](https://github.com/Freshman111/VerificationCodeView)
   * [滚动时图片产生视差效果的ImageView](https://github.com/gjiazhe/ScrollParallaxImageView)
   * [多种图片样式 UI 组合，很适合做头像相关的功能](https://github.com/stfalcon-studio/MultiImageView)
+  * [通过监听手腕旋转进行交互，自动滚动图片](https://github.com/gjiazhe/PanoramaImageView)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -342,6 +344,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [漂亮的弧形顶部布局效果](https://github.com/florent37/ArcLayout)
   * [使AppBarLayout 可以弹性下拉的Behavior](https://github.com/ToDou/appbarlayout-spring-behavior)
   * [一个真正的Ripple效果，需要考虑Ripple的圆心变化 ](https://github.com/liuguangqiang/RippleLayout)
+  * [Material Design 风格的 About 页面设计](https://github.com/daniel-stoneuk/material-about-library)
 * 伸缩展开布局
   * [一种可根据展开是否超出屏幕来判断父控件是否自动滚动的ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout)
   * [可展开/隐藏子view的layout](https://github.com/AAkira/ExpandableLayout) 
@@ -828,6 +831,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [Android 创造更精致的动画效果库，非常实用](https://github.com/thunderrise/android-TNRAnimationHelper)
    * [一个能够让 View 执行漂亮的漂浮动画的库](https://github.com/UFreedom/FloatingView/blob/master/README_CN.md)
    * [ToDoList，拥有非常平滑漂亮的动画，值得学习](https://github.com/Yalantis/ToDoList)
+   * [Android 实现的漂亮的下雪效果](https://github.com/JetradarMobile/android-snowfall)
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
