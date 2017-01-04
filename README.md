@@ -539,6 +539,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [模仿掌上英雄联盟能力分析效果](https://github.com/jiangzehui/polygonsview)
   * [android指纹识别动画](https://github.com/mattprecious/swirl)
   * [自定义 Android 指纹识别快捷方式](https://github.com/ztc1997/Fingerprint2Sleep)
+  * [RxJava 实现 Android 指纹识别](https://github.com/Zweihui/RxFingerPrinter)
   * [在 Android 上模拟 Siri 录音动效](https://github.com/rakkang/SiriWaveframe)
   * [这是Android一个雷达扫描显示的扫描图，超高仿QQ附近的人搜索展示](https://github.com/ImmortalZ/RadarScan)
   * [四步实现ChromeLikeSwipeLayout效果](http://www.jianshu.com/p/d6b4a9ad022e)
