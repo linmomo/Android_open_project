@@ -40,6 +40,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [数字增加动画的 TextView](https://github.com/Bakumon/NumberAnimTextView)
   * [支持放大缩小的 TextView](https://github.com/androidessence/PinchZoomTextView)
   * [Facebook 开源文本布局库](https://github.com/facebookincubator/TextLayoutBuilder)
+  * [简单易用的TextView装饰库](https://github.com/nntuyen/text-decorator)
 * ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
@@ -477,6 +478,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个倾斜的TextView，适用于标签场景](https://github.com/HeZaiJin/SlantedTextView/blob/master/README-cn.md)
   * [一个简单的标签控件](https://github.com/corerzhang/LabelView)
   * [Android 角标组件效果](https://github.com/czy1121/cornerlabelview)
+  * [一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果](https://github.com/yanbober/AvatarLabelView)
 * 赞
   * [twitter 点赞效果](https://github.com/frogermcs/LikeAnimation)
   * [点赞效果 类似twitter的效果](https://github.com/ChadCSong/ShineButton)
@@ -571,6 +573,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿微信掉落表情包效果](https://github.com/Luolc/EmojiRain/blob/master/README-cn.md)
   * [一个方便使用的跑马灯效果library](https://github.com/gongwen/MarqueeViewDemo)
   * [实现 Google 风格的上下箭头动态效果](https://github.com/zagum/Android-ExpandIcon) 
+  * [在 Android 上，实现沃漂亮的罗诺伊图(多view不规则组合成一个)](https://github.com/Quatja/Vorolay)
    
    
 ## **自定义控相关链接**
@@ -808,6 +811,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [动画效果集合](https://github.com/wusp/IndicatorBox)
    * [通过 AnimateVectoreDrawer 实现的一些动画效果](https://github.com/ghuiii/AnimateVectorDrawableDEMO)
    * [ENViews, 一个华丽丽的动效控件库](https://github.com/codeestX/ENViews)
+   * [用于做Path动画的自定义View](https://github.com/mcxtzhang/PathAnimView) 
  * 动画函数
    * [缓动函数速查表](http://easings.net/zh-cn) 
    * [Android Easing 函数库，动画](https://github.com/MasayukiSuda/EasingInterpolator)
