@@ -268,6 +268,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [简单易用的可定制展开角度的button menu](https://github.com/uin3566/AllAngleExpandableButton)
   * [Android 方块儿展开菜单，很有新意](https://github.com/devsideal/SquareMenu)
   * [3D 视差效果的多选按钮](https://github.com/gjiazhe/MultiChoicesCircleButton) 
+  * [Android 动态 Menu 菜单 Demo，做的很棒](https://github.com/adonixis/android-animated-menu-items)
 * DiaLog
   * [提供自定义dialog style的库，非自定义view，纯净原生](https://github.com/tianzhijiexian/EasyDialog)
   * [一行代码实现提示对话框，指定元素](https://github.com/michaelye/EasyDialog)
@@ -350,6 +351,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个真正的Ripple效果，需要考虑Ripple的圆心变化 ](https://github.com/liuguangqiang/RippleLayout)
   * [Material Design 风格的 About 页面设计](https://github.com/daniel-stoneuk/material-about-library)
   * [Android 优雅的对角线效果](https://github.com/IntruderShanky/Squint)
+  * [类 Instagram 的色彩渐变效果](https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid) 
 * 伸缩展开布局
   * [一种可根据展开是否超出屏幕来判断父控件是否自动滚动的ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout)
   * [可展开/隐藏子view的layout](https://github.com/AAkira/ExpandableLayout) 
@@ -472,6 +474,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个垂直方向的DrawerLayout,抽屉从上向下展开](https://github.com/corerzhang/VerticalDrawerLayout)
   * [一个类似支付宝、微信输入支付密码的控件](https://github.com/iamMehedi/PasscodeView)
   * [高仿微信支付键盘](https://github.com/zuiwuyuan/WeChatPswKeyboard)
+  * [仿饿了么加入购物车旋转控件 - 自带闪转腾挪动画 的按钮。UI已适配View复用](https://github.com/mcxtzhang/AnimShopButton)
 * LableView
   * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
   * [一个给图片加标签的库，如热销等等](https://github.com/H07000223/FlycoLabelView/blob/master/README_CN.md)
@@ -479,6 +482,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个简单的标签控件](https://github.com/corerzhang/LabelView)
   * [Android 角标组件效果](https://github.com/czy1121/cornerlabelview)
   * [一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果](https://github.com/yanbober/AvatarLabelView)
+  * [仿小红书图片标签](https://github.com/shellljx/TagViewGroup) 
 * 赞
   * [twitter 点赞效果](https://github.com/frogermcs/LikeAnimation)
   * [点赞效果 类似twitter的效果](https://github.com/ChadCSong/ShineButton)
@@ -518,6 +522,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [自定义卡片集view，支持展开收缩滚动](https://github.com/loopeer/CardStackView)
   * [Android 卡片滑动出现和消失效果](https://github.com/mancj/SlideUp-Android)
   * [滑动卡片的view](https://github.com/Meetic/Shuffle)
+  * [Android 横向翻转效果，支持双面的 View 场景,类似信用卡](https://github.com/wajahatkarim3/EasyFlipView)
 * 刮刮卡/优惠券
   * [雾化擦除效果，可以做出来一些好玩儿的交互效果，比如：猜谜竞猜，低价销售展示，广告展示等等](https://github.com/dynamitechetan/FogView_Library)
   * [刮刮卡效果](https://github.com/jackpocket/android_scratchoff)
