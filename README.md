@@ -269,6 +269,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 方块儿展开菜单，很有新意](https://github.com/devsideal/SquareMenu)
   * [3D 视差效果的多选按钮](https://github.com/gjiazhe/MultiChoicesCircleButton) 
   * [Android 动态 Menu 菜单 Demo，做的很棒](https://github.com/adonixis/android-animated-menu-items)
+  * [支持计数效果的 FloatingActionButton](https://github.com/andremion/CounterFab)
 * DiaLog
   * [提供自定义dialog style的库，非自定义view，纯净原生](https://github.com/tianzhijiexian/EasyDialog)
   * [一行代码实现提示对话框，指定元素](https://github.com/michaelye/EasyDialog)
@@ -317,6 +318,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * Activity
   * [兼容4.0以上版本的点击扩散动画库，几行代码实现Activity转场动画效果及新增自定义界面转场动画](https://github.com/Yellow5A5/ActSwitchAnimTool)
   * [穿件简单的Android转场动画](https://github.com/kaichunlin/android-transition)
+  * [两行代码搞定Android视图扩散切换效果](https://github.com/zhangke3016/ViewSpreadTranslationController)
   * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
   * [一款简单的Android端用于Activity跳转的路由框架](https://github.com/yjfnypeu/Router)
   * [可能是目前最简单、灵活的路由框架](https://github.com/chenenyu/Router)
