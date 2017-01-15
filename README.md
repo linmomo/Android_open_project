@@ -20,6 +20,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [bili图文混排](https://github.com/Bilibili/drawee-text-view)
   * [高级TextView,支持自适应,阅读更多多种高级功能](https://github.com/oktayayr/advancedtextview)
   * [垂直跑马灯/垂直翻页公告](https://github.com/sfsheng0322/MarqueeView)
+  * [Android 跑马灯效果，适合做个小广告，通知之类的](https://github.com/gongwen/MarqueeViewLibrary)
   * [滚动播放的公告控件](https://github.com/czy1121/noticeview)
   * [阅读更多TextView](https://github.com/borjabravo10/ReadMoreTextView)
   * [支持展开的 TextView](https://github.com/Chen-Sir/ExpandableTextView)
@@ -65,6 +66,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [滚动时图片产生视差效果的ImageView](https://github.com/gjiazhe/ScrollParallaxImageView)
   * [多种图片样式 UI 组合，很适合做头像相关的功能](https://github.com/stfalcon-studio/MultiImageView)
   * [通过监听手腕旋转进行交互，自动滚动图片](https://github.com/gjiazhe/PanoramaImageView)
+  * [支持给图片加锚点的 Android 组件](https://github.com/jcodeing/AnchorImageView)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -97,6 +99,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 版本的 Day & Night Switcher！](https://github.com/BaymaxTong/SwitchButton)
   * [Android 两状态 或者 三状态 Switch 按钮，三状态切换超实用](https://github.com/RiccardoMoro/RMSwitch)
   * [又一个三状态 Toggle Button](https://github.com/BeppiMenozzi/TriStateToggleButton)
+  * [Android 状态切换按钮效果](https://github.com/zagum/Android-SwitchIcon)
 * CheckBox
   * [自定义动画checkbox](https://github.com/andyxialm/SmoothCheckBox) 
   * [带动画的Checkbox](https://github.com/lguipeng/AnimCheckBox)
@@ -164,6 +167,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [风车转盘效果的 LayoutManager，做的很漂亮](https://github.com/Cleveroad/FanLayoutManager)
   * [让 RecyclerView 也支持 fast scroll 效果](https://github.com/L4Digital/FastScroll)
   * [支持多选的 RecyclerView](https://github.com/dvdciri/MultiChoiceRecyclerView)
+  * [类似 Facebook 加载时，条目的闪烁效果，酷酷的](https://github.com/sharish/ShimmerRecyclerView)
 * ListView
   * [一个下拉顶部图片放大的listview](https://github.com/matrixxun/PullToZoomInListView)
   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
@@ -656,6 +660,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [拍照时之拍预览界面指定区域的照片](https://github.com/CGmaybe10/FocusSurfaceView)
 * ImageSelector
   * [Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置](https://github.com/pengjianbo/GalleryFinal)
+  * [android多图选择 图片/视频 单选or多选，以及视频录制](https://github.com/LuckSiege/PictureSelector)
   * [一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](https://github.com/crazycodeboy/TakePhoto)
   * [图片选择库，可以用来选择头像，或者多张图片选择， material design](https://github.com/lijunguan/AlbumSelector)
   * [一款支持多选的图片选择器，支持Android2.0+](https://git.oschina.net/xiao-lifan/MutiPhotoChoser#git-readme)
