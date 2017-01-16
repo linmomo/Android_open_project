@@ -257,6 +257,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [按钮弹出环绕按钮](https://github.com/anshulagarwal2k/GooeyMenu)
   * [底部滑出菜单](https://github.com/soarcn/BottomSheet)
   * [BoomMenu可以让你的菜单按钮 ... 瞬间爆炸！](https://github.com/Nightonke/BoomMenu/blob/master/README-ZH.md)
+  * [Google 放出的 Android 浮动菜单效果](https://github.com/google/hover)
   * [类似FloatingActionButton的可扩展和收缩列表项的库](https://github.com/Karumi/ExpandableSelector)
   * [仿tumblr的FloatingActionButton的菜单打开动画 ](https://github.com/tiancaiCC/SpringFloatingActionMenu)
   * [仿美团糯米下拉菜单列表](https://github.com/sungerk/DropDownLayout)
@@ -855,6 +856,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [一个能够让 View 执行漂亮的漂浮动画的库](https://github.com/UFreedom/FloatingView/blob/master/README_CN.md)
    * [ToDoList，拥有非常平滑漂亮的动画，值得学习](https://github.com/Yalantis/ToDoList)
    * [Android 实现的漂亮的下雪效果](https://github.com/JetradarMobile/android-snowfall)
+   * [一个有趣的Android录音动画](https://github.com/HeZaiJin/AnimatedRecordingView/blob/master/README-cn.md)
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
