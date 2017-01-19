@@ -857,6 +857,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [ToDoList，拥有非常平滑漂亮的动画，值得学习](https://github.com/Yalantis/ToDoList)
    * [Android 实现的漂亮的下雪效果](https://github.com/JetradarMobile/android-snowfall)
    * [一个有趣的Android录音动画](https://github.com/HeZaiJin/AnimatedRecordingView/blob/master/README-cn.md)
+   * [显示雷达和谷歌地图上的圆形涟漪效应](https://github.com/aarsy/GoogleMapsAnimations)
+   * [沙漠风情动画](https://github.com/JetradarMobile/desertplaceholder)
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
