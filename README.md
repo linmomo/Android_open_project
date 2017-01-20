@@ -292,6 +292,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [可以记住历史选项的spinner](https://github.com/Jasonchenlijian/MemorySpinner)
   * [基于相对位置实现弹出 PopupWindow](https://github.com/kakajika/RelativePopupWindow)
   * [给人眼前一亮的 Toast 效果](https://github.com/yadav-rahul/TastyToast)
+  * [美化原生 Toast ](https://github.com/GrenderG/Toasty)
   * [类似手机QQ界面右上角的弹出菜单，使用 recyclerview 和 popupwindow 封装了一下](https://github.com/zaaach/TopRightMenu)
 * Material Design
   * [一个兼容android 2.2material design组件库](https://github.com/navasmdc/MaterialDesignLibrary)
@@ -542,6 +543,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [双面翻转 View 效果 ](https://github.com/4xes/FlipAnimation)
   * [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
   * [3d旋转切换view，类似旋转木马效果。可以自动切换！](https://github.com/dalong982242260/LoopRotarySwitch)
+  * [一个实现图片花式3D翻转效果的自定义View](https://github.com/zhangyuChen1991/Roll3DImageView)
 * 模仿系列
   * [仿小米运动，目前做的最漂亮的一款脉搏效果](https://github.com/booncol/Pulsator4Droid)
   * [酷炫的碎纸机Andorid版本](https://github.com/ldoublem/PaperShredder)
@@ -663,6 +665,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置](https://github.com/pengjianbo/GalleryFinal)
   * [android多图选择 图片/视频 单选or多选，以及视频录制](https://github.com/LuckSiege/PictureSelector)
   * [一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](https://github.com/crazycodeboy/TakePhoto)
+  * [A Library help u to pick photos.](https://github.com/Werb/PickPhotoSample)
   * [图片选择库，可以用来选择头像，或者多张图片选择， material design](https://github.com/lijunguan/AlbumSelector)
   * [一款支持多选的图片选择器，支持Android2.0+](https://git.oschina.net/xiao-lifan/MutiPhotoChoser#git-readme)
   * [android 相册支持单选模式和多选模式](https://github.com/wqandroid/wqgallery)
