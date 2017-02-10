@@ -294,6 +294,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [给人眼前一亮的 Toast 效果](https://github.com/yadav-rahul/TastyToast)
   * [美化原生 Toast ](https://github.com/GrenderG/Toasty)
   * [类似手机QQ界面右上角的弹出菜单，使用 recyclerview 和 popupwindow 封装了一下](https://github.com/zaaach/TopRightMenu)
+  * [支持风格化和动画效果的 Toast，很漂亮](https://github.com/Muddz/StyleableToast)
 * Material Design
   * [一个兼容android 2.2material design组件库](https://github.com/navasmdc/MaterialDesignLibrary)
   * [android material design 风格项目整理](https://github.com/soyoungboy/android-material-design-Open-source-projects)
@@ -393,6 +394,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [掉落通知效果](https://github.com/Brudigem/DropDownWarning)
   * [超级漂亮的一个高亮功能提醒效果](https://github.com/KeepSafe/TapTargetView)
   * [Badge 风格的 TextView，支持 Shadow 和 Elevation](https://github.com/matrixxun/MaterialBadgeTextView)
+  * [https://github.com/qstumn/BadgeView](https://github.com/qstumn/BadgeView)
 * TagView/FlowTag
   * [自定义TagView，并且可拖拽](https://github.com/whilu/AndroidTagView)
   * [Android流式布局，支持单选、多选等，适合用于产品标签等](https://github.com/hongyangAndroid/FlowLayout)
@@ -531,6 +533,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 卡片滑动出现和消失效果](https://github.com/mancj/SlideUp-Android)
   * [滑动卡片的view](https://github.com/Meetic/Shuffle)
   * [Android 横向翻转效果，支持双面的 View 场景,类似信用卡](https://github.com/wajahatkarim3/EasyFlipView)
+  * [Android 信用卡提交效果](https://github.com/adonixis/android-sumbit-credit-card-flow)
 * 刮刮卡/优惠券
   * [雾化擦除效果，可以做出来一些好玩儿的交互效果，比如：猜谜竞猜，低价销售展示，广告展示等等](https://github.com/dynamitechetan/FogView_Library)
   * [刮刮卡效果](https://github.com/jackpocket/android_scratchoff)
@@ -588,6 +591,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个方便使用的跑马灯效果library](https://github.com/gongwen/MarqueeViewDemo)
   * [实现 Google 风格的上下箭头动态效果](https://github.com/zagum/Android-ExpandIcon) 
   * [在 Android 上，实现沃漂亮的罗诺伊图(多view不规则组合成一个)](https://github.com/Quatja/Vorolay)
+  * [简洁优雅的网络状态提示](https://github.com/iammert/StatusView)
    
    
 ## **自定义控相关链接**
@@ -604,6 +608,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [对OkHttp进行封装，网络请求失败自动查询本地缓存,上传文件等功能](https://github.com/duzechao/OKHttpUtils)
   * [restVolley](https://github.com/HujiangTechnology/RestVolley)
   * [Volley + RxJava + OkHttp](https://github.com/kymjs/RxVolley)
+  * [Android App 内网络调试工具，超实用-Okhttp拦截器](https://github.com/jgilfelt/chuck)
 * IM
   * [建立聊天视图](https://github.com/himanshu-soni/ChatMessageView)
   * [模仿微信朋友圈、QQ说说的评论的人，点赞人可点击效果 ](https://github.com/nimengbo/TextViewSpanClickable)
@@ -706,6 +711,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个Android的弹幕控](https://github.com/linsea/OpenDanmaku)
   * [基于VCamera，仿微信录制短视频](https://github.com/maimingliang/WxRecoderVideo)
   * [视频拍摄，支持横屏拍摄效果与竖屏拍摄效果，闪光灯，切换前后摄像头](https://github.com/CarGuo/VideoRecord)
+  * [支持视频 Preview 效果的 Seekbar](https://github.com/rubensousa/PreviewSeekBar)
 * Audio
   * [Android声音录制和播放封装库](https://github.com/Piasy/RxAndroidAudio)
   * [安卓音频录制 ](https://github.com/adrielcafe/AndroidAudioRecorder)
