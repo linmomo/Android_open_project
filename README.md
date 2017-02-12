@@ -42,6 +42,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [支持放大缩小的 TextView](https://github.com/androidessence/PinchZoomTextView)
   * [Facebook 开源文本布局库](https://github.com/facebookincubator/TextLayoutBuilder)
   * [简单易用的TextView装饰库](https://github.com/nntuyen/text-decorator)
+  * [Android Textview Fading 动画效果](https://github.com/rosenpin/FadingTextView)
 * ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
@@ -168,6 +169,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [让 RecyclerView 也支持 fast scroll 效果](https://github.com/L4Digital/FastScroll)
   * [支持多选的 RecyclerView](https://github.com/dvdciri/MultiChoiceRecyclerView)
   * [类似 Facebook 加载时，条目的闪烁效果，酷酷的](https://github.com/sharish/ShimmerRecyclerView)
+  * [实现 RecyclerView 布局切换动画的示例 ](https://github.com/gjiazhe/LayoutSwitch)
+  * [在RecyclerView上实现吸顶布局](https://github.com/TellH/RecyclerStickyHeaderView)
+  * [一个RecycleView扩展，让你更容易使用](https://github.com/jaychang0917/SimpleRecyclerView)
 * ListView
   * [一个下拉顶部图片放大的listview](https://github.com/matrixxun/PullToZoomInListView)
   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
@@ -226,6 +230,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库](https://github.com/myjoybar/android-calendar-view)
   * [简洁风格的日历 View](https://github.com/recruit-mp/LightCalendarView)
   * [类似 Google 日历的实现，做的不错](https://github.com/memfis19/Cadar)
+  * [又一个漂亮的 Android MD 风格日历效果](https://github.com/jMavarez/MaterialCalendar)
 * PickView
   * [安卓选择器类，包括各种类型的选择器，可自定义顶部及底部界面，可自定义窗口动画](https://github.com/gzu-liyujiang/AndroidPicker)
   * [日期选择控件](https://github.com/flavienlaurent/datetimepicker) 
@@ -322,6 +327,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [侧滑菜单，可自定义左中右](https://github.com/flyfei/CustomMenu/blob/master/README_CN.md) 
   * [一个 DrawerLayout 的扩展,具有帅气的动画与创新的交互。一次手势完成滑出侧边栏与选择菜单](https://github.com/mzule/FantasySlide)
   * [仿QQ底部Tab切换带数字提示的RadioButton，支持自定义提示数字背景颜色、字体大小、字体颜色](https://github.com/hcs-xph/BadgeRadioButton)
+  * [很有特点的一个 Bar，动画效果很 Android](https://github.com/florent37/AwesomeBar)
 * Activity
   * [兼容4.0以上版本的点击扩散动画库，几行代码实现Activity转场动画效果及新增自定义界面转场动画](https://github.com/Yellow5A5/ActSwitchAnimTool)
   * [穿件简单的Android转场动画](https://github.com/kaichunlin/android-transition)
@@ -639,6 +645,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一行代码完成图片高斯模糊](https://github.com/jrvansuita/GaussianBlur)
   * [目前来看做 Blur 效果速度最快的库](https://github.com/wonderkiln/blurkit-android)
   * [用RxJava处理和操作高斯模糊效果的简单用例。](https://github.com/SmartDengg/RxBlur)
+  * [基于 RenderScript 实现的模糊效果，支持多种方式的模糊，如静态模糊，实时模糊还有模糊动画](https://github.com/patrickfav/Dali)
 * ImageCompress
   * [Luban可能是最接近微信朋友圈的图片压缩算法](https://github.com/Curzibn/Luban) 
   * [超实用的 Android 图片压缩工具](https://github.com/zetbaitsu/Compressor)
@@ -666,6 +673,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [填图应用，填图部分逻辑功能已经基本完善](https://github.com/SwiftyWang/FingerColoring-Android)
 * Camera
   * [拍照时之拍预览界面指定区域的照片](https://github.com/CGmaybe10/FocusSurfaceView)
+  * [integrate Camera Fragment for Android](https://github.com/florent37/CameraFragment)
 * ImageSelector
   * [Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置](https://github.com/pengjianbo/GalleryFinal)
   * [android多图选择 图片/视频 单选or多选，以及视频录制](https://github.com/LuckSiege/PictureSelector)
@@ -686,6 +694,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [图片，视频，文件选择器](https://github.com/fishwjy/MultiType-FilePicker)
   * [Material 风格的类似 Instagram 的图片选择器](https://github.com/NodensN/MediaPickerInstagram)
   * [RxJava实现的图片选择库](https://github.com/miguelbcr/RxPaparazzo) 
+  * [又一个漂亮的 Android 图片选择工具库](https://github.com/andremion/Louvre)
 * DownLoad
   * [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
   * [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
@@ -731,6 +740,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [RTMP 推流器，RTMP播放器（秒开），跨平台（Win,IOS,Android](https://github.com/AnyRTC/AnyRTC-RTMP)
   * [一个 TV app 的直播节目实例，包含各央视频道及卫视频道](https://github.com/hejunlin2013/LivePlayback)
   * [Android上专为视屏直播打造的轻量级弹幕库](https://github.com/hpdx/DanmukuLight)
+  * [Android 任意View边沿渐变透明(类似视频直播评论列表边沿处理) ](https://github.com/qinci/EdgeTranslucent)
 * 社交
   * [第三方登录分享组件封装](https://github.com/tianzhijiexian/ShareLoginLib/)
   * [社交分享组件](https://github.com/maoruibin/ChinaShare)
@@ -868,6 +878,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [一个有趣的Android录音动画](https://github.com/HeZaiJin/AnimatedRecordingView/blob/master/README-cn.md)
    * [显示雷达和谷歌地图上的圆形涟漪效应](https://github.com/aarsy/GoogleMapsAnimations)
    * [沙漠风情动画](https://github.com/JetradarMobile/desertplaceholder)
+   * [Android SVG 动画效果，做的非常棒](https://github.com/jrummyapps/AnimatedSvgView)
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
