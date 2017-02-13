@@ -135,6 +135,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * ScrollView
   * [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
   * [Android Header 自动随滑动浮动](https://github.com/w446108264/ScrollableLayout)
+  * [TabLayout 和 CoordinatorLayout 相结合的折叠控件](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/README_CN.md) 
 * RecyclerView
   * [RecyclerView开源项目集合](https://github.com/CameloeAnthony/Learning-RecyclerView)
   * [一个简单的RecyclerView items动画库](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
@@ -423,6 +424,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [时间线View](https://github.com/vipulasri/Timeline-View)
   * [流程指示器](https://github.com/baoyachi/StepView)
   * [带有动态效果的表单引导进度条](https://github.com/VictorAlbertos/BreadcrumbsView)
+  * [Android 实现步骤管理的组件](https://github.com/stepstone-tech/android-material-stepper)
 * Loading UI
   * [各种各样Loading动画](https://github.com/81813780/AVLoadingIndicatorView) 
   * [各种 Loading 动画效果](https://github.com/ybq/Android-SpinKit)
