@@ -483,6 +483,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [MagicaSakura 是 Android 多主题框架 ](https://github.com/Bilibili/MagicaSakura)
   * [超赞！Android 多主题切换库！](https://github.com/52inc/Scoops)
   * [Android 主题换肤的开源库（插件化换肤）](https://github.com/burgessjp/ThemeSkinning/blob/master/README.md)
+  * [Android 运行时主题切换小工具库](https://github.com/garretyoder/Colorful)
 * Shop
   * [android仿京东、淘宝商品详情页上拉查看详情](https://github.com/ysnows/DoubleScrollVIew) 
   * [仿照淘宝和聚美优品，在商品详情页，向上拖动时，可以加载下一页](https://github.com/xmuSistone/android-vertical-slide-view)
@@ -581,6 +582,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * Other 
   * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
   * [使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference](https://github.com/RikkaW/MaterialPreference)
+  * [Material Design 风格的 About 页面](https://github.com/jrvansuita/MaterialAbout)
   * [Preference 中经常会遇到选颜色的问题，这个自定义组件，就是帮你解决Color Preferece 的问题](https://github.com/kizitonwose/colorpreference)
   * [对任意View添加连击事件](https://github.com/gjiazhe/ComboListener)
   * [类Android 5.0任务管理的控件](https://github.com/Bossyao168/StackOverView)
