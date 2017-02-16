@@ -699,6 +699,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Material 风格的类似 Instagram 的图片选择器](https://github.com/NodensN/MediaPickerInstagram)
   * [RxJava实现的图片选择库](https://github.com/miguelbcr/RxPaparazzo) 
   * [又一个漂亮的 Android 图片选择工具库](https://github.com/andremion/Louvre)
+  * [B 站开源了一款多媒体文件选择和编辑工具](https://github.com/Bilibili/boxing) 
 * DownLoad
   * [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
   * [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
