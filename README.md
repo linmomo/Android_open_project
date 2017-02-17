@@ -136,6 +136,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
   * [Android Header 自动随滑动浮动](https://github.com/w446108264/ScrollableLayout)
   * [TabLayout 和 CoordinatorLayout 相结合的折叠控件](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/README_CN.md) 
+  * [一款漂亮的 Android 视差效果](https://github.com/developer-shivam/ChanelView)
 * RecyclerView
   * [RecyclerView开源项目集合](https://github.com/CameloeAnthony/Learning-RecyclerView)
   * [一个简单的RecyclerView items动画库](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
@@ -173,6 +174,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [实现 RecyclerView 布局切换动画的示例 ](https://github.com/gjiazhe/LayoutSwitch)
   * [在RecyclerView上实现吸顶布局](https://github.com/TellH/RecyclerStickyHeaderView)
   * [一个RecycleView扩展，让你更容易使用](https://github.com/jaychang0917/SimpleRecyclerView)
+  * [实现类似锤子和 Google Photo 的滑动列表选择功能](https://github.com/MFlisar/DragSelectRecyclerView)
 * ListView
   * [一个下拉顶部图片放大的listview](https://github.com/matrixxun/PullToZoomInListView)
   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
@@ -302,6 +304,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [美化原生 Toast ](https://github.com/GrenderG/Toasty)
   * [类似手机QQ界面右上角的弹出菜单，使用 recyclerview 和 popupwindow 封装了一下](https://github.com/zaaach/TopRightMenu)
   * [支持风格化和动画效果的 Toast，很漂亮](https://github.com/Muddz/StyleableToast)
+  * [Android Dropdown 风格的 Alert 窗体](https://github.com/Tapadoo/Alerter)
 * Material Design
   * [一个兼容android 2.2material design组件库](https://github.com/navasmdc/MaterialDesignLibrary)
   * [android material design 风格项目整理](https://github.com/soyoungboy/android-material-design-Open-source-projects)
@@ -538,6 +541,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [全新的快速索引导航栏，联系人字母排序侧边栏](https://github.com/kongnanlive/SideBar)
   * [做的很不错的一款侧边栏索引](https://github.com/Solartisan/WaveSideBar)
   * [仿汽车报价大全的sidebar](https://github.com/AlexLiuSheng/AnimSideBar)
+  * [一个实用的联系人选择工具](https://github.com/quiin/UnifiedContactPicker) 
 * Card
   * [酷炫信用卡View](https://github.com/cooltechworks/CreditCardView)
   * [Android酷炫的礼物卡片控件](https://github.com/ldoublem/GiftCard)  
@@ -622,6 +626,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [restVolley](https://github.com/HujiangTechnology/RestVolley)
   * [Volley + RxJava + OkHttp](https://github.com/kymjs/RxVolley)
   * [Android App 内网络调试工具，超实用-Okhttp拦截器](https://github.com/jgilfelt/chuck)
+  * [OkHttp Mock 数据调用，在做 Api 测试，写测试用例的时候会很有用哦](https://github.com/mirrajabi/okhttp-json-mock) 
 * IM
   * [建立聊天视图](https://github.com/himanshu-soni/ChatMessageView)
   * [模仿微信朋友圈、QQ说说的评论的人，点赞人可点击效果 ](https://github.com/nimengbo/TextViewSpanClickable)
