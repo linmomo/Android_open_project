@@ -250,6 +250,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [类似仪表盘的选择器](https://github.com/BCsl/CursorWheelLayout)
   * [一款漂亮的 Bottom Sheet 时间选择器](https://github.com/philliphsu/BottomSheetPickers)
   * [时间选择器，选择特定间隔时间段](https://github.com/skedgo/DateTimeRangePicker) 
+  * [Android 双层级 Dialog 选择框](https://github.com/aliab/Two-Step-Picker-Dialog)
 * StatusBar/ActionBar/ToolBar
   * [目测是 Bilibili 出品的 StatusBar 和 NavigationBar 辅助工具类](https://github.com/H07000223/FlycoSystemBar)  
   * [5.0以下沉浸式状态栏](https://github.com/Veaer/Glass)
@@ -311,6 +312,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * Navigation
   * [又一个TabLayout,对PagerSlidingTabStrip进行修改](https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md)
   * [一个用RecyclerView实现的TabLayout](https://github.com/nshmura/RecyclerTabLayout)
+  * [扩展 Android Tab Layout，实现动画指示器效果，很漂亮](https://github.com/Andy671/Dachshund-Tab-Layout)
   * [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
   * [Youtube Gaming inspired Tabs](https://github.com/saiff35/LivingTabs)
   * [酷炫多彩的互动导航标签栏](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
@@ -429,6 +431,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [各种各样Loading动画](https://github.com/81813780/AVLoadingIndicatorView) 
   * [各种 Loading 动画效果](https://github.com/ybq/Android-SpinKit)
   * [GIfLoading动画](https://github.com/Rogero0o/GifLoadingView)
+  * [Android 上个性自定义 Loader](https://github.com/nntuyen/mkloader)
   * [各种动画效果的LoadingView](https://github.com/ldoublem/LoadingView)
   * [仿Cuto的加载动画](https://github.com/andyxialm/CutoLoadingView)
   * [几个小清新的load dialog](https://github.com/yankai-victor/Loading)    
