@@ -8,7 +8,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个对齐TextView文本的库](https://github.com/bluejamesbond/TextJustify-Android)
   * [自适应大小和行的TextView](https://github.com/AndroidDeveloperLB/AutoFitTextView)
   * [对原生TextView解析Html格式文本的增强](https://github.com/xuyisheng/TextViewForFullHtml)
-  * [Android HTML to TextView Builder 辅助工具库](https://github.com/jrummyapps/html-builder)
+  * [Android 富文本（HTML）解析库，渲染的非常漂亮，值得推荐](https://github.com/fourlastor/dante)
   * [Android平台下的富文本显示控件](https://github.com/zzhoujay/RichText)
   * [显示富文本的TextView](https://github.com/limedroid/XRichText)
   * [一个方便你在App里使用自定义字体的库](https://github.com/vsvankhede/easyfonts)
@@ -68,6 +68,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [多种图片样式 UI 组合，很适合做头像相关的功能](https://github.com/stfalcon-studio/MultiImageView)
   * [通过监听手腕旋转进行交互，自动滚动图片](https://github.com/gjiazhe/PanoramaImageView)
   * [支持给图片加锚点的 Android 组件](https://github.com/jcodeing/AnchorImageView)
+  * [双指控制图片展开，以及放大缩小，做的超棒](https://github.com/imablanco/Zoomy)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -100,7 +101,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 版本的 Day & Night Switcher！](https://github.com/BaymaxTong/SwitchButton)
   * [Android 两状态 或者 三状态 Switch 按钮，三状态切换超实用](https://github.com/RiccardoMoro/RMSwitch)
   * [又一个三状态 Toggle Button](https://github.com/BeppiMenozzi/TriStateToggleButton)
-  * [Android 状态切换按钮效果](https://github.com/zagum/Android-SwitchIcon)
+  * [Android 状态切换按钮效果](https://github.com/zagum/Android-SwitchIcon)
+  * [很有新意的一个滑动效果库](https://github.com/MAXDeliveryNG/slideview)
 * CheckBox
   * [自定义动画checkbox](https://github.com/andyxialm/SmoothCheckBox) 
   * [带动画的Checkbox](https://github.com/lguipeng/AnimCheckBox)
