@@ -236,6 +236,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [简洁风格的日历 View](https://github.com/recruit-mp/LightCalendarView)
   * [类似 Google 日历的实现，做的不错](https://github.com/memfis19/Cadar)
   * [又一个漂亮的 Android MD 风格日历效果](https://github.com/jMavarez/MaterialCalendar)
+  * [一款漂亮的每周日历组件](https://github.com/nomanr/weekcalendar)
 * PickView
   * [安卓选择器类，包括各种类型的选择器，可自定义顶部及底部界面，可自定义窗口动画](https://github.com/gzu-liyujiang/AndroidPicker)
   * [日期选择控件](https://github.com/flavienlaurent/datetimepicker) 
@@ -307,6 +308,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [类似手机QQ界面右上角的弹出菜单，使用 recyclerview 和 popupwindow 封装了一下](https://github.com/zaaach/TopRightMenu)
   * [支持风格化和动画效果的 Toast，很漂亮](https://github.com/Muddz/StyleableToast)
   * [Android Dropdown 风格的 Alert 窗体](https://github.com/Tapadoo/Alerter)
+  * [比原生 Snack 更漂亮的 Bottom Notification 库](https://github.com/matecode/Snacky)
 * Material Design
   * [一个兼容android 2.2material design组件库](https://github.com/navasmdc/MaterialDesignLibrary)
   * [android material design 风格项目整理](https://github.com/soyoungboy/android-material-design-Open-source-projects)
@@ -343,6 +345,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
   * [一款简单的Android端用于Activity跳转的路由框架](https://github.com/yjfnypeu/Router)
   * [可能是目前最简单、灵活的路由框架](https://github.com/chenenyu/Router)
+  * [一款小而美的路由框架。网页动态添加自定义参数启动应用](https://github.com/Jomes/routerSDK)
   * [以卡片视图的形式管理你的 Activity，让你的 app 可以自由的切换、跳转、关闭 Activity 以及结束 app 程序 ](https://github.com/Hitomis/ActivitySwitcher)
   * [Android 逆向实用小插件：展示页面 Top Activity 的名称和包名](https://github.com/109021017/android-TopActivity)
 *  Fragment
@@ -789,6 +792,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [将生成的二维码与选择的图片合成，生成的新二维码](https://github.com/scola/Qart)
   * [Android 二维码扫描工具库](https://github.com/KingsMentor/MobileVisionBarcodeScanner)
   * [六种二维码生成的样式](https://github.com/vivian8725118/ZXingDemo/) 
+  * [二维码扫描的封装库](https://github.com/XuDaojie/QRCode-Android)
 * 蓝牙
   * [Android BLE 蓝牙开发框架，使用简单的回调方式一步处理搜索、连接、notify、indicate、读、写等一系列蓝牙操作](https://github.com/Jasonchenlijian/FastBle)\
   * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
@@ -844,6 +848,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [支持自定义主题的 Google Map 工具类](https://github.com/jineshfrancs/ThemedGoogleMap)
   * [帮助你在 App 端，查看 Logcat 输出信息，测试的时候会有帮助](https://github.com/munix/LogcatTextView)
   * [Android Key 生成，存储，加密工具库](https://github.com/yakivmospan/scytale)
+  * [SMS 验证小工具，自动帮你读取短信，然后填写短信验证码](http://gank.io/2017/02/21?utm_source=gank.io&utm_medium=rss)
   
 ##**Animations**
  * 动画合集库
