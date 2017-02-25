@@ -43,6 +43,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Facebook 开源文本布局库](https://github.com/facebookincubator/TextLayoutBuilder)
   * [简单易用的TextView装饰库](https://github.com/nntuyen/text-decorator)
   * [Android Textview Fading 动画效果](https://github.com/rosenpin/FadingTextView)
+  * [Android 文本字数计算小工具，做社交类的 App 可能会有些帮助](https://github.com/xbroak/CharCountTextView)
+  * [Android修改6.0系统文本选择菜单](http://www.jianshu.com/p/89970f098012)
 * ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
@@ -227,6 +229,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个漂亮的 Android 画廊展示效果,点击可以显示详情 ](https://github.com/Jaouan/Carousel-Browsing-Example)
   * [画廊展示效果，点击可以查看简介，可进入详情页面](https://github.com/xmuSistone/android-page-transition)
   * [仿qq身边的人Viewpager实现](https://github.com/dalong982242260/SlidingBallViewPager)
+  * [基于官方ViewPager，支持水平方向上滑动和竖直方向上的滑动的ViewPager](https://github.com/youngkaaa/YViewPagerDemo/blob/master/README_CH.md)
 * Calendar
   * [一款漂亮的calendar ](https://github.com/SundeepK/CompactCalendarView)
   * [ListView实现的日历](https://github.com/traex/CalendarListview)
