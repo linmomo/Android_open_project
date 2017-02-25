@@ -237,6 +237,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [类似 Google 日历的实现，做的不错](https://github.com/memfis19/Cadar)
   * [又一个漂亮的 Android MD 风格日历效果](https://github.com/jMavarez/MaterialCalendar)
   * [一款漂亮的每周日历组件](https://github.com/nomanr/weekcalendar)
+  * [一个可以动态修改标记日期和显示预约列表的周日历](https://github.com/loonggg/WeekCalendar)
 * PickView
   * [安卓选择器类，包括各种类型的选择器，可自定义顶部及底部界面，可自定义窗口动画](https://github.com/gzu-liyujiang/AndroidPicker)
   * [日期选择控件](https://github.com/flavienlaurent/datetimepicker) 
@@ -495,6 +496,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [超赞！Android 多主题切换库！](https://github.com/52inc/Scoops)
   * [Android 主题换肤的开源库（插件化换肤）](https://github.com/burgessjp/ThemeSkinning/blob/master/README.md)
   * [Android 运行时主题切换小工具库](https://github.com/garretyoder/Colorful)
+  * [Android 切换皮肤方案，轻松实现](https://github.com/ximsfei/Android-skin-support)
 * Shop
   * [android仿京东、淘宝商品详情页上拉查看详情](https://github.com/ysnows/DoubleScrollVIew) 
   * [仿照淘宝和聚美优品，在商品详情页，向上拖动时，可以加载下一页](https://github.com/xmuSistone/android-vertical-slide-view)
@@ -864,6 +866,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [通过 AnimateVectoreDrawer 实现的一些动画效果](https://github.com/ghuiii/AnimateVectorDrawableDEMO)
    * [ENViews, 一个华丽丽的动效控件库](https://github.com/codeestX/ENViews)
    * [用于做Path动画的自定义View](https://github.com/mcxtzhang/PathAnimView) 
+   * [通过描述来实现动画方案，好玩儿，实用](https://github.com/florent37/ExpectAnim)
  * 动画函数
    * [缓动函数速查表](http://easings.net/zh-cn) 
    * [Android Easing 函数库，动画](https://github.com/MasayukiSuda/EasingInterpolator)
