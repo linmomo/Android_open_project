@@ -126,6 +126,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 仿应用宝的下载效果，你知道中间那个光条是怎么做出来的吗](https://github.com/LineChen/FlickerProgressBar)
   * [一个展示下载进度的View，下载完成和失败的时候会有酷酷的动画](一个展示下载进度的View，下载完成和失败的时候会有酷酷的动画.)
   * [蛮有创意的一发 Android 下载效果](https://github.com/Ajian-studio/GADownloading/blob/master/README_CN.md)
+  * [仿iOS下载进度样式的按钮](https://github.com/jiang111/CProgressButton)
 * SeekBar
   * [一个展示注册进度的ProgressBar](https://github.com/jiang111/ProgressView)
   * [Range Seekbar](https://github.com/dolphinwang/RangeSeekbar)
@@ -671,6 +672,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [目前来看做 Blur 效果速度最快的库](https://github.com/wonderkiln/blurkit-android)
   * [用RxJava处理和操作高斯模糊效果的简单用例。](https://github.com/SmartDengg/RxBlur)
   * [基于 RenderScript 实现的模糊效果，支持多种方式的模糊，如静态模糊，实时模糊还有模糊动画](https://github.com/patrickfav/Dali)
+  * [又一个高斯模糊的库子](https://github.com/flurgle/BlurKit-Android)
 * ImageCompress
   * [Luban可能是最接近微信朋友圈的图片压缩算法](https://github.com/Curzibn/Luban) 
   * [超实用的 Android 图片压缩工具](https://github.com/zetbaitsu/Compressor)
@@ -699,6 +701,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * Camera
   * [拍照时之拍预览界面指定区域的照片](https://github.com/CGmaybe10/FocusSurfaceView)
   * [integrate Camera Fragment for Android](https://github.com/florent37/CameraFragment)
+  * [一个相机的库](https://github.com/flurgle/CameraKit-Android)
 * ImageSelector
   * [Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置](https://github.com/pengjianbo/GalleryFinal)
   * [android多图选择 图片/视频 单选or多选，以及视频录制](https://github.com/LuckSiege/PictureSelector)
@@ -837,6 +840,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [可读取pdf文件的view](https://github.com/barteksc/AndroidPdfViewer)
   * [显示url的view](https://github.com/kaelaela/OpenGraphView)
   * [一个轻量级的 Android 异步数据库框架.](https://github.com/hehonghui/simpledb) 
+  * [轻轻松松集成 Wechat 支付和支付宝支付](https://github.com/mayubao/Android-Pay)
   * [最轻量的支付宝转账工具类](https://github.com/fython/AlipayZeroSdk)
   * [利用 KeyStore 存储密码，加密 SharedPreference 的数据，保证安全性](https://github.com/iamMehedi/Secured-Preference-Store)
   * [AES-256加密的SharedPreferences](https://github.com/PDDStudio/EncryptedPreferences)
@@ -859,6 +863,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [帮助你在 App 端，查看 Logcat 输出信息，测试的时候会有帮助](https://github.com/munix/LogcatTextView)
   * [Android Key 生成，存储，加密工具库](https://github.com/yakivmospan/scytale)
   * [SMS 验证小工具，自动帮你读取短信，然后填写短信验证码](http://gank.io/2017/02/21?utm_source=gank.io&utm_medium=rss)
+  * [动态更新 Android launcher App Icon](https://github.com/myinnos/AppIconNameChanger)
   
 ##**Animations**
  * 动画合集库
