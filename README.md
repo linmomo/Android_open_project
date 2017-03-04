@@ -270,6 +270,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Toolbar 组件展示 Banner 图片效果](https://github.com/JuL1205/SlideshowToolbar)
 * Menu/FloatingActionButton
   * [环形菜单控件](https://github.com/sungerk/CircularMenu)
+  * [漂亮的 Android 圆形菜单](https://github.com/ImangazalievM/CircleMenu)
   * [按钮弹出环绕按钮](https://github.com/anshulagarwal2k/GooeyMenu)
   * [底部滑出菜单](https://github.com/soarcn/BottomSheet)
   * [BoomMenu可以让你的菜单按钮 ... 瞬间爆炸！](https://github.com/Nightonke/BoomMenu/blob/master/README-ZH.md)
@@ -366,6 +367,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [通用状态切换视图](https://github.com/XuDaojie/MultiStateView)
   * [一个简单但可以自定义切换动画的管理多状态的自定义layout ](https://github.com/lufficc/StateLayout)
   * [简单实用的页面多状态布局(content,loading,empty,error)](https://github.com/czy1121/loadinglayout)
+  * [Android 布局多状态维护工具，实用](https://github.com/gturedi/StatefulLayout)
   * [以组件的方式维护列表加载状态](https://github.com/gitsindonesia/baso)
   * [渐变色背景组件](https://github.com/csdodd/GradientLayout)
   * [漂亮的色彩渐变式背景效果](https://github.com/dynamitechetan/Flowing-Gradient)
@@ -596,6 +598,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿最美应用的底栏，使用recyclerView实现](https://github.com/huage2580/ZuiMeiTAG)
   * [仿探探可拖拽的gridView,编辑个人资料，图片可拖拽排序](https://github.com/xmuSistone/android-drag-square)
   * [一个仿探探上传相片的widget，基于xmuSistone的demo, 提供gradle import，添加上传照片功能以及各种回调，api，方便使用](https://github.com/SwiftyWang/android-drag-square)
+  * [仿微信朋友圈视频播放特效](https://miaoyongjun.github.io/2017/02/26/2017-2-26-mvideo/)
 * Other 
   * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
   * [使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference](https://github.com/RikkaW/MaterialPreference)
@@ -742,8 +745,10 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [剪辑视频](https://github.com/knowledge4life/k4l-video-trimmer)
   * [一个Android的弹幕控](https://github.com/linsea/OpenDanmaku)
   * [基于VCamera，仿微信录制短视频](https://github.com/maimingliang/WxRecoderVideo)
+  * [高仿微信视频录制,涂鸦水印添加, 基于ffmpeg视频编辑](https://github.com/Zhaoss/WeiXinRecordedDemo)
   * [视频拍摄，支持横屏拍摄效果与竖屏拍摄效果，闪光灯，切换前后摄像头](https://github.com/CarGuo/VideoRecord)
   * [支持视频 Preview 效果的 Seekbar](https://github.com/rubensousa/PreviewSeekBar)
+  * [从视频网站播放视频的媒体播放器](https://github.com/TedaLIEz/ParsingPlayer)
 * Audio
   * [Android声音录制和播放封装库](https://github.com/Piasy/RxAndroidAudio)
   * [安卓音频录制 ](https://github.com/adrielcafe/AndroidAudioRecorder)
