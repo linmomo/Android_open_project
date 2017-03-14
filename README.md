@@ -180,6 +180,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [在RecyclerView上实现吸顶布局](https://github.com/TellH/RecyclerStickyHeaderView)
   * [一个RecycleView扩展，让你更容易使用](https://github.com/jaychang0917/SimpleRecyclerView)
   * [实现类似锤子和 Google Photo 的滑动列表选择功能](https://github.com/MFlisar/DragSelectRecyclerView)
+  * [阿里开源的针对RecyclerView的LayoutManager扩展](https://github.com/alibaba/vlayout/blob/master/README-ch.md)
 * ListView
   * [一个下拉顶部图片放大的listview](https://github.com/matrixxun/PullToZoomInListView)
   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
@@ -261,6 +262,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一款漂亮的 Bottom Sheet 时间选择器](https://github.com/philliphsu/BottomSheetPickers)
   * [时间选择器，选择特定间隔时间段](https://github.com/skedgo/DateTimeRangePicker) 
   * [Android 双层级 Dialog 选择框](https://github.com/aliab/Two-Step-Picker-Dialog)
+  * [水平选择器](https://github.com/GoodieBag/HorizontalPicker)
 * StatusBar/ActionBar/ToolBar
   * [目测是 Bilibili 出品的 StatusBar 和 NavigationBar 辅助工具类](https://github.com/H07000223/FlycoSystemBar)  
   * [5.0以下沉浸式状态栏](https://github.com/Veaer/Glass)
@@ -419,6 +421,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [超级漂亮的一个高亮功能提醒效果](https://github.com/KeepSafe/TapTargetView)
   * [Badge 风格的 TextView，支持 Shadow 和 Elevation](https://github.com/matrixxun/MaterialBadgeTextView)
   * [https://github.com/qstumn/BadgeView](https://github.com/qstumn/BadgeView)
+  * [Material Design 风格的 Tag （Chip） 标签组件，漂亮，实用](https://github.com/robertlevonyan/materialChipView)
 * TagView/FlowTag
   * [自定义TagView，并且可拖拽](https://github.com/whilu/AndroidTagView)
   * [Android流式布局，支持单选、多选等，适合用于产品标签等](https://github.com/hongyangAndroid/FlowLayout)
@@ -576,6 +579,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
   * [3d旋转切换view，类似旋转木马效果。可以自动切换！](https://github.com/dalong982242260/LoopRotarySwitch)
   * [一个实现图片花式3D翻转效果的自定义View](https://github.com/zhangyuChen1991/Roll3DImageView)
+* screen lock/pin
+  * [Android自定义密码锁屏](https://github.com/GoodieBag/Pinview) 
 * 模仿系列
   * [仿小米运动，目前做的最漂亮的一款脉搏效果](https://github.com/booncol/Pulsator4Droid)
   * [酷炫的碎纸机Andorid版本](https://github.com/ldoublem/PaperShredder)
@@ -813,10 +818,13 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * HotFix
   * [Android热修复与增量升级，基于微信Tinker原理](https://github.com/byteam/delta)
   * [热修复线上View，以及模块化更新](https://github.com/kot32go/dynamic-load-view/blob/master/README_zh.md)
-* 富文本/MarkDown
-  * [安卓富文本编辑器](https://github.com/mr5/icarus-android)
+* 富文本/MarkDown/Html
+  * [安卓富文本编辑器](https://github.com/mr5/icarus-android)
   * [EditText富文本编辑器](https://github.com/chen-xiao-dong/RichEditText)
   * [一个利用RxJava在TextView和EditText上渲染的markdown解析器，支持大部分语法以及部分语法在EditText上实时预览](https://github.com/yydcdut/RxMarkdown/blob/master/README-zh-rCN.md)
+  * [Android Markdown 解析库，做的很棒，很有用](https://github.com/tiagohm/MarkdownView)
+  * [让 Android HTML 类支持显示更多 Tag，极大的丰富了 TextView 可以展示的 Tag 类型](https://github.com/Pixplicity/HtmlCompat)
+  * [Android 查询高亮辅助组件](https://github.com/cyrilmottier/QueryHighlighter)
 * 崩溃/信息收集
   * [崩溃日志上传框架](https://github.com/wenmingvs/LogReport) 
   * [App 崩溃后，帮助你恢复现场并查看崩溃信息的库，在开发阶段相当实用，建议大家集成进去节省些开发时间](https://github.com/Sunzxyong/Recovery/blob/master/README-Chinese.md)
