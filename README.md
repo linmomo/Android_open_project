@@ -182,6 +182,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个RecycleView扩展，让你更容易使用](https://github.com/jaychang0917/SimpleRecyclerView)
   * [实现类似锤子和 Google Photo 的滑动列表选择功能](https://github.com/MFlisar/DragSelectRecyclerView)
   * [阿里开源的针对RecyclerView的LayoutManager扩展](https://github.com/alibaba/vlayout/blob/master/README-ch.md)
+  * [基于 RecyclerView 实现的横向滑动组件，超级漂亮和实用](https://github.com/yarolegovich/DiscreteScrollView)
 * ListView
   * [一个下拉顶部图片放大的listview](https://github.com/matrixxun/PullToZoomInListView)
   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
@@ -244,6 +245,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [又一个漂亮的 Android MD 风格日历效果](https://github.com/jMavarez/MaterialCalendar)
   * [一款漂亮的每周日历组件](https://github.com/nomanr/weekcalendar)
   * [一个可以动态修改标记日期和显示预约列表的周日历](https://github.com/loonggg/WeekCalendar)
+  * [一款精致漂亮的日历组件](https://github.com/prolificinteractive/material-calendarview)
+  * [安卓炫酷日历组件，tile 风格相当漂亮](https://github.com/MorochoRochaDarwin/OneCalendarView)
 * PickView
   * [安卓选择器类，包括各种类型的选择器，可自定义顶部及底部界面，可自定义窗口动画](https://github.com/gzu-liyujiang/AndroidPicker)
   * [日期选择控件](https://github.com/flavienlaurent/datetimepicker) 
@@ -873,7 +876,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android Key 生成，存储，加密工具库](https://github.com/yakivmospan/scytale)
   * [SMS 验证小工具，自动帮你读取短信，然后填写短信验证码](http://gank.io/2017/02/21?utm_source=gank.io&utm_medium=rss)
   * [动态更新 Android launcher App Icon](https://github.com/myinnos/AppIconNameChanger)
-  
+  * [Android 上的取色工具](https://github.com/skydoves/ColorPickerView)
 ##**Animations**
  * 动画合集库
    * [android控件动画集合](https://github.com/daimajia/AndroidViewAnimations) 
@@ -885,6 +888,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [ENViews, 一个华丽丽的动效控件库](https://github.com/codeestX/ENViews)
    * [用于做Path动画的自定义View](https://github.com/mcxtzhang/PathAnimView) 
    * [通过描述来实现动画方案，好玩儿，实用](https://github.com/florent37/ExpectAnim)
+   * [自定义LayoutAnimationController，一行代码为ViewGroup设置定制顺序的布局动画](https://github.com/HuanHaiLiuXin/ILayoutAnimationController)
  * Activity Transition
    * [兼容4.0以上版本的点击扩散动画库，几行代码实现Activity转场动画效果及新增自定义界面转场动画](https://github.com/Yellow5A5/ActSwitchAnimTool)
    * [穿件简单的Android转场动画](https://github.com/kaichunlin/android-transition)
