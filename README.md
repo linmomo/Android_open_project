@@ -96,6 +96,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [带完成动画效果的按钮](https://github.com/SparkYuan/SubmitButton)
   * [Button 拉长展开效果 ](https://github.com/daniel-martins-IR/MagicButton)
   * [可设置圆角背景边框的的按钮](https://github.com/czy1121/roundbutton)
+  * [Android 拖住滚动 Button 效果](https://github.com/dewarder/HoldingButton)
 * SwitchButton
   * [拥有18种果冻效果、30种缓动效果、可变色的开关按钮](https://github.com/Nightonke/JellyToggleButton/blob/master/README-ZH.md) 
   * [笑脸ToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/README-ZH.md)
@@ -311,6 +312,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView](https://github.com/kingideayou/SlideBottomPanel)
   * [位置搜索智能提示框，利用了 GoogleApi，想要用到国内的话，可以对接一个国内的地图服务](https://github.com/codemybrainsout/PlaceSearchDialog)
   * [悬浮窗权限兼容库 ](https://github.com/czy1121/overlaypermission)
+  * [一个好看的 Dialog](https://github.com/geniusforapp/fancyDialog) 
 * Spinner/Toast
   * [一个带有展开和折叠动画的Spinner](https://github.com/arcadefire/nice-spinner)
   * [可以记住历史选项的spinner](https://github.com/Jasonchenlijian/MemorySpinner)
@@ -354,7 +356,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * Activity
   * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
   * [一款简单的Android端用于Activity跳转的路由框架](https://github.com/yjfnypeu/Router)
-  * [可能是目前最简单、灵活的路由框架](https://github.com/chenenyu/Router)
+  * [可能是目前最简单、灵活的路由框架](https://github.com/chenenyu/Router) 
+  * [简单轻量的Android Router 框架](https://github.com/themores/AntCaves)
   * [一款小而美的路由框架。网页动态添加自定义参数启动应用](https://github.com/Jomes/routerSDK)
   * [以卡片视图的形式管理你的 Activity，让你的 app 可以自由的切换、跳转、关闭 Activity 以及结束 app 程序 ](https://github.com/Hitomis/ActivitySwitcher)
   * [Android 逆向实用小插件：展示页面 Top Activity 的名称和包名](https://github.com/109021017/android-TopActivity)
@@ -432,6 +435,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android流式布局，支持点击、单选、多选等，适合用于产品标签等，用法采用Adapter模式，和ListView、GridView用法一样！！！](https://github.com/hanhailong/FlowTag)
   * [Android 支持拖拽排序的流式标签布局](https://github.com/LightSun/android-drag-FlowLayout)
   * [RecyclerView 实现流式布局，可以用来做 Tag 标签效果](https://github.com/BelooS/ChipsLayoutManager)
+  * [Android 流式标签布局](https://github.com/nex3z/FlowLayout)
   * [Material Design 风格的 Tag （Chip） 标签组件，漂亮，实用](https://github.com/robertlevonyan/materialChipView)
 * Gallery
   * [让图像呈现gallery显示效果](https://github.com/lawloretienne/ImageGallery) 
