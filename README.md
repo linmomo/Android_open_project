@@ -144,6 +144,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android Header 自动随滑动浮动](https://github.com/w446108264/ScrollableLayout)
   * [TabLayout 和 CoordinatorLayout 相结合的折叠控件](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/README_CN.md) 
   * [一款漂亮的 Android 视差效果](https://github.com/developer-shivam/ChanelView)
+  * [Android Activity 下拉上拉滑动消失效果，类似 Chrome 的 Tab 效果](https://github.com/klinker24/Android-DragDismissActivity) 
 * RecyclerView
   * [RecyclerView开源项目集合](https://github.com/CameloeAnthony/Learning-RecyclerView)
   * [一个简单的RecyclerView items动画库](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
@@ -756,6 +757,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿网易新闻视频播放](https://github.com/xiongwei-git/AndroidVideoPlayer)
   * [一种在播放视频时，能够拖拽的方案](https://github.com/hejunlin2013/DragVideo) 
   * [VideoListPlayer实现了在列表控件（ListView,RecyclerView）中加载并播放视频，并支持滑动时自动播放/暂停的功能利用该项目，可以轻松实现类似Instagram的视频播放功能](https://github.com/waynell/VideoListPlayer)
+  * [在 RecyclerView 中，实现类似 Tumblr 的滑动到自动播放视频效果](https://github.com/Krupen/AutoplayVideos)
   * [一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，可全屏切换 ](https://github.com/w1123440793/VideoListDemo)
   * [仿微信小视频录制，基于GitHub上的javacv](https://github.com/szitguy/RecordVideoDemo)
   * [剪辑视频](https://github.com/knowledge4life/k4l-video-trimmer)
