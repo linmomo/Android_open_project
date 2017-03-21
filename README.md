@@ -372,6 +372,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 
 * Layout
   * [一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图](https://github.com/qyxxjd/MultipleStatusView)
+  * [可能是最优雅的切换布局的方法](https://github.com/fingdo/stateLayout)
   * [一个轻量的ProgressLayout，能够帮助你实现“加载中”、“无内容”，“网络错误”，“加载失败”等不同场景下的页面切换与展示，并且支持点击页面重试。](https://github.com/LianjiaTech/ProgressLayout)
   * [通用状态切换视图](https://github.com/XuDaojie/MultiStateView)
   * [一个简单但可以自定义切换动画的管理多状态的自定义layout ](https://github.com/lufficc/StateLayout)
@@ -524,6 +525,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个类似支付宝、微信输入支付密码的控件](https://github.com/iamMehedi/PasscodeView)
   * [高仿微信支付键盘](https://github.com/zuiwuyuan/WeChatPswKeyboard)
   * [仿饿了么加入购物车旋转控件 - 自带闪转腾挪动画 的按钮。UI已适配View复用](https://github.com/mcxtzhang/AnimShopButton)
+  * [一款萌萌的计数器组件](https://github.com/DanielMartinus/Stepper-Touch)
 * LableView
   * [自定义三角标签 View](https://github.com/shts/TriangleLabelView)
   * [一个给图片加标签的库，如热销等等](https://github.com/H07000223/FlycoLabelView/blob/master/README_CN.md)
