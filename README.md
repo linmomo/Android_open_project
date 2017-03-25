@@ -675,6 +675,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个实现了可以渲染 Emoji 的库](https://github.com/hani-momanii/SuperNova-Emoji)
   * [利用 AnimatedVectorDrawable 实现会动的 emoji](https://github.com/RomainPiel/live-emoji)
   * [通过 Hook 实现系统软键盘监听](https://github.com/pqpo/InputMethodHolder)
+  * [简洁的一个数字输入键盘效果](https://github.com/StephaneBg/SimpleNumberPicker)
 * blur/low poly
   * [类似ios的动态模糊效果 ](https://github.com/Dimezis/BlurView)
   * [Low Poly 图片生成器](https://github.com/zzhoujay/LowPoly)
@@ -740,6 +741,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [RxJava实现的图片选择库](https://github.com/miguelbcr/RxPaparazzo) 
   * [又一个漂亮的 Android 图片选择工具库](https://github.com/andremion/Louvre)
   * [B 站开源了一款多媒体文件选择和编辑工具](https://github.com/Bilibili/boxing) 
+  * [又一个 MD 风格的 ImagePicker](https://github.com/myinnos/AwesomeImagePicker) 
 * DownLoad
   * [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
   * [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
