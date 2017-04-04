@@ -71,6 +71,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [通过监听手腕旋转进行交互，自动滚动图片](https://github.com/gjiazhe/PanoramaImageView)
   * [支持给图片加锚点的 Android 组件](https://github.com/jcodeing/AnchorImageView)
   * [双指控制图片展开，以及放大缩小，做的超棒](https://github.com/imablanco/Zoomy)
+  * [根据图片阴影变颜色，细腻的视觉效果 ](https://github.com/yingLanNull/ShadowImageView/blob/master/READEME_CN.md)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -97,6 +98,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Button 拉长展开效果 ](https://github.com/daniel-martins-IR/MagicButton)
   * [可设置圆角背景边框的的按钮](https://github.com/czy1121/roundbutton)
   * [Android 拖住滚动 Button 效果](https://github.com/dewarder/HoldingButton)
+  * [Android 按钮进度条效果](https://github.com/ishaan1995/ButtonProgressBar)
 * SwitchButton
   * [拥有18种果冻效果、30种缓动效果、可变色的开关按钮](https://github.com/Nightonke/JellyToggleButton/blob/master/README-ZH.md) 
   * [笑脸ToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/README-ZH.md)
@@ -184,7 +186,10 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个RecycleView扩展，让你更容易使用](https://github.com/jaychang0917/SimpleRecyclerView)
   * [实现类似锤子和 Google Photo 的滑动列表选择功能](https://github.com/MFlisar/DragSelectRecyclerView)
   * [阿里开源的针对RecyclerView的LayoutManager扩展](https://github.com/alibaba/vlayout/blob/master/README-ch.md)
-  * [基于 RecyclerView 实现的横向滑动组件，超级漂亮和实用](https://github.com/yarolegovich/DiscreteScrollView)
+  * [基于 RecyclerView 实现的横向滑动组件，超级漂亮和实用](https://github.com/yarolegovich/DiscreteScrollView) 
+  * [RecyclerView侧滑菜单](https://github.com/AItsuki/SwipeMenuRecyclerView)
+* LayoutManageer
+  * [如何用 RecyclerView 打造一个不规则形状的旋转效果](https://github.com/danylovolokh/LondonEyeLayoutManager)
 * ListView
   * [一个下拉顶部图片放大的listview](https://github.com/matrixxun/PullToZoomInListView)
   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
@@ -354,6 +359,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个 DrawerLayout 的扩展,具有帅气的动画与创新的交互。一次手势完成滑出侧边栏与选择菜单](https://github.com/mzule/FantasySlide)
   * [仿QQ底部Tab切换带数字提示的RadioButton，支持自定义提示数字背景颜色、字体大小、字体颜色](https://github.com/hcs-xph/BadgeRadioButton)
   * [很有特点的一个 Bar，动画效果很 Android](https://github.com/florent37/AwesomeBar)
+  * [漂亮的 Android Drawer](https://github.com/yarolegovich/SlidingRootNav)
+  * [利用 TabLayout 实现的 CSV 文件加载和预览，做的效果相当不错](https://github.com/Cleveroad/AdaptiveTableLayout) 
 * Activity
   * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
   * [一款简单的Android端用于Activity跳转的路由框架](https://github.com/yjfnypeu/Router)
@@ -615,6 +622,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仿探探可拖拽的gridView,编辑个人资料，图片可拖拽排序](https://github.com/xmuSistone/android-drag-square)
   * [一个仿探探上传相片的widget，基于xmuSistone的demo, 提供gradle import，添加上传照片功能以及各种回调，api，方便使用](https://github.com/SwiftyWang/android-drag-square)
   * [仿微信朋友圈视频播放特效](https://miaoyongjun.github.io/2017/02/26/2017-2-26-mvideo/)
+  * [ChangeTabLayout是模仿乐视LIVE App主界面TabLayout效果](https://github.com/simplezhli/ChangeTabLayout)
 * Other 
   * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
   * [使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference](https://github.com/RikkaW/MaterialPreference)
@@ -719,6 +727,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [拍照时之拍预览界面指定区域的照片](https://github.com/CGmaybe10/FocusSurfaceView)
   * [integrate Camera Fragment for Android](https://github.com/florent37/CameraFragment)
   * [一个相机的库](https://github.com/flurgle/CameraKit-Android)
+  * [从两个摄像头同时拍下某一个瞬间](https://github.com/andyb129/FlipsideCamera)
 * ImageSelector
   * [Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置](https://github.com/pengjianbo/GalleryFinal)
   * [android多图选择 图片/视频 单选or多选，以及视频录制](https://github.com/LuckSiege/PictureSelector)
@@ -742,6 +751,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [又一个漂亮的 Android 图片选择工具库](https://github.com/andremion/Louvre)
   * [B 站开源了一款多媒体文件选择和编辑工具](https://github.com/Bilibili/boxing) 
   * [又一个 MD 风格的 ImagePicker](https://github.com/myinnos/AwesomeImagePicker) 
+  * [MD 风格的相册选择工具，支持多选，拍照等功能，项目很规范、实用](https://github.com/yanzhenjie/Album/blob/master/README-CN.md)  
 * DownLoad
   * [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
   * [一个Android文件下载管理库，具有扩展性强、简单易用的特性。是基于FileDownloader强大的下载引擎](https://github.com/pengjianbo/FileDownloaderFinal)
@@ -887,6 +897,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [SMS 验证小工具，自动帮你读取短信，然后填写短信验证码](http://gank.io/2017/02/21?utm_source=gank.io&utm_medium=rss)
   * [动态更新 Android launcher App Icon](https://github.com/myinnos/AppIconNameChanger)
   * [Android 上的取色工具](https://github.com/skydoves/ColorPickerView)
+  * [一个超轻超薄的Android工具库，阻止三方SDK中常见的严重影响用户体验的『链式唤醒』行为](https://github.com/oasisfeng/condom)
+  
 ##**Animations**
  * 动画合集库
    * [android控件动画集合](https://github.com/daimajia/AndroidViewAnimations) 
@@ -899,6 +911,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [用于做Path动画的自定义View](https://github.com/mcxtzhang/PathAnimView) 
    * [通过描述来实现动画方案，好玩儿，实用](https://github.com/florent37/ExpectAnim)
    * [自定义LayoutAnimationController，一行代码为ViewGroup设置定制顺序的布局动画](https://github.com/HuanHaiLiuXin/ILayoutAnimationController)
+   * [Android 动画管理库，辅助你管理动画效果,实现类似Facebook布局加载效果](https://github.com/willowtreeapps/spruce-android)
  * Activity Transition
    * [兼容4.0以上版本的点击扩散动画库，几行代码实现Activity转场动画效果及新增自定义界面转场动画](https://github.com/Yellow5A5/ActSwitchAnimTool)
    * [穿件简单的Android转场动画](https://github.com/kaichunlin/android-transition)
