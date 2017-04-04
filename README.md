@@ -654,6 +654,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  
 ##**工具类**
 
+* 性能优化
+  * [一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）](https://github.com/zjw-swun/AppMethodOrder) 
 * network
   * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo) 
   * [hongyang-okhttp的辅助类](https://github.com/hongyangAndroid/okhttp-utils)
