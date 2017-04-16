@@ -560,6 +560,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [做的很棒的一个 Android 辐射数据统计效果](https://github.com/DmitriyZaitsev/RadarChartView)
   * [一款可以自由定制外观、手势旋转的android雷达图表lib](https://github.com/qstumn/RadarChart)
   * [支持多个方向滑动的 View，类似 Calendar 里的 UI 效果，类似表格](https://github.com/Kelin-Hong/ScrollablePanel)
+  * [一个小巧且高效的线性图表组件，拥有完善的源码注释，可直接在实际项目中集成，同时也是一个不可错过学习项目](https://github.com/whataa/SuitLines)
 * 悬浮View 
   * [自定义Floatview实现全站浮动按钮和来电秀](https://github.com/AlexLiuSheng/FloatView)
   * [悬浮球-一个服务开启悬浮球，任何界面都可以使用](https://github.com/hanbaokun/FloatingViewService)
@@ -632,6 +633,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个仿探探上传相片的widget，基于xmuSistone的demo, 提供gradle import，添加上传照片功能以及各种回调，api，方便使用](https://github.com/SwiftyWang/android-drag-square)
   * [仿微信朋友圈视频播放特效](https://miaoyongjun.github.io/2017/02/26/2017-2-26-mvideo/)
   * [ChangeTabLayout是模仿乐视LIVE App主界面TabLayout效果](https://github.com/simplezhli/ChangeTabLayout)
+  * [快手Android客户端纯代码实现的快门打开下拉刷新动画](https://github.com/dinuscxj/ShootRefreshView) 
 * Other 
   * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
   * [使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference](https://github.com/RikkaW/MaterialPreference)
@@ -666,6 +668,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 
 * 性能优化
   * [一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）](https://github.com/zjw-swun/AppMethodOrder) 
+  * [RxJava 辅助 Debug 工具，更好的展示堆栈调用](https://github.com/T-Spoon/Traceur)
 * network
   * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo) 
   * [hongyang-okhttp的辅助类](https://github.com/hongyangAndroid/okhttp-utils)
@@ -850,6 +853,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 二维码扫描工具库](https://github.com/KingsMentor/MobileVisionBarcodeScanner)
   * [六种二维码生成的样式](https://github.com/vivian8725118/ZXingDemo/) 
   * [二维码扫描的封装库](https://github.com/XuDaojie/QRCode-Android)
+  * [长按扫描WebView上的二维码工具。类似微信文章中的长按扫描](https://github.com/BolexLiu/PressScanCode)
 * 蓝牙
   * [Android BLE 蓝牙开发框架，使用简单的回调方式一步处理搜索、连接、notify、indicate、读、写等一系列蓝牙操作](https://github.com/Jasonchenlijian/FastBle)\
   * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
@@ -915,6 +919,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [动态更新 Android launcher App Icon](https://github.com/myinnos/AppIconNameChanger)
   * [Android 上的取色工具](https://github.com/skydoves/ColorPickerView)
   * [一个超轻超薄的Android工具库，阻止三方SDK中常见的严重影响用户体验的『链式唤醒』行为](https://github.com/oasisfeng/condom)
+  * [使用JNI实现Sobel算子图像边缘检测 ](https://github.com/Jomes/sand)
   
 ##**Animations**
  * 动画合集库
@@ -974,6 +979,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [显示雷达和谷歌地图上的圆形涟漪效应](https://github.com/aarsy/GoogleMapsAnimations)
    * [沙漠风情动画](https://github.com/JetradarMobile/desertplaceholder)
    * [Android SVG 动画效果，做的非常棒](https://github.com/jrummyapps/AnimatedSvgView)
+   * [苹果音乐动画](https://github.com/rahulrj/Apple-Music-Animation)
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
