@@ -92,6 +92,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 仿业问 打字机效果](https://github.com/andyxialm/TyperEditText)
   * [类似微博标签的文本控件](https://github.com/limedroid/TagEditText)
   * [MD 风格的 EditText，精致](https://github.com/bufferapp/BufferTextInputLayout)
+  * [拥有更好效果的 LineHeightEditText](https://github.com/hanks-zyh/LineHeightEditText)
 * Button
   * [一个Button分成两部分效果](https://github.com/yankai-victor/RingButton) 
   * [连续组合点击](https://github.com/brucetoo/ComboView)
@@ -669,6 +670,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * 性能优化
   * [一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）](https://github.com/zjw-swun/AppMethodOrder) 
   * [RxJava 辅助 Debug 工具，更好的展示堆栈调用](https://github.com/T-Spoon/Traceur)
+  * [展示 Android 程序方法调用链的 gralde 插件，支持输出html文件和方法折叠](https://github.com/CoXier/AppMethodTracking)
 * network
   * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo) 
   * [hongyang-okhttp的辅助类](https://github.com/hongyangAndroid/okhttp-utils)
@@ -827,6 +829,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个酷炫的分享控件](https://github.com/JeasonWong/FlipShare)
   * [一个漂亮的 Share Button UI 效果](https://github.com/kayan1990/ShareButton)
   * [简单的Android社会化分享登录库，一行代码搞定](https://github.com/shaohui10086/ShareUtil)
+  * [第三方SDK集成库(授权/分享/支付)](https://github.com/czy1121/sdk3rd) 
 * App下载更新
   * [可任意定制的app更新组件。](https://github.com/yjfnypeu/UpdatePlugin)
   * [app下载安装更新](https://github.com/yaming116/UpdateApp/blob/master/README-zh.md)
@@ -892,7 +895,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [显示url的view](https://github.com/kaelaela/OpenGraphView)
   * [一个轻量级的 Android 异步数据库框架.](https://github.com/hehonghui/simpledb) 
   * [轻轻松松集成 Wechat 支付和支付宝支付](https://github.com/mayubao/Android-Pay)
-  * [第三方SDK集成库(授权|分享|支付) ](https://github.com/czy1121/sdk3rd)
   * [最轻量的支付宝转账工具类](https://github.com/fython/AlipayZeroSdk)
   * [利用 KeyStore 存储密码，加密 SharedPreference 的数据，保证安全性](https://github.com/iamMehedi/Secured-Preference-Store)
   * [AES-256加密的SharedPreferences](https://github.com/PDDStudio/EncryptedPreferences)
@@ -900,6 +902,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 指纹识别身份验证 Demo](https://github.com/pro100svitlo/FingerprintAuthHelper)
   * [目前来看，用起来最简洁的指纹管理工具](https://github.com/JesusM/FingerprintManager)
   * [安卓 sqlite 数据库查看](https://github.com/yedaxia/sqlitelookup)
+  * [一个简单的 SQLite 和 Excel 互相转换的库子](https://github.com/li-yu/SQLiteToExcel)
   * [更方便的将各个rom厂商自己的推送服务进行集成,并统一管理](https://github.com/jiang111/AndroidPush)
   * [移动地图选址](https://github.com/scp504677840/MoveMapLocation)
   * [Android精准计步器](https://github.com/linglongxin24/DylanStepCount)
@@ -920,6 +923,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 上的取色工具](https://github.com/skydoves/ColorPickerView)
   * [一个超轻超薄的Android工具库，阻止三方SDK中常见的严重影响用户体验的『链式唤醒』行为](https://github.com/oasisfeng/condom)
   * [使用JNI实现Sobel算子图像边缘检测 ](https://github.com/Jomes/sand)
+  * [遮罩对比图效果组件](https://github.com/pavel163/BifacialView)
   
 ##**Animations**
  * 动画合集库
