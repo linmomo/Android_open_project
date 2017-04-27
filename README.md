@@ -504,6 +504,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Flipboard轮播组件](https://github.com/chengdazhi/DecentBanner)
   * [通用的广告栏控件，让你轻松实现广告头效果](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
   * [一个简单，强大的广告活动弹窗控件](https://github.com/yipianfengye/android-adDialog)
+  * [横幅广告轮播控件](https://github.com/czy1121/bannerview)
 * CountDown
   * [TextureView仿手淘倒计时](https://github.com/CaMnter/EasyCountDownTextureView)
   * [倒计时控件](https://github.com/iwgang/CountdownView/blob/master/README_CN.md)   
@@ -681,6 +682,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）](https://github.com/zjw-swun/AppMethodOrder) 
   * [RxJava 辅助 Debug 工具，更好的展示堆栈调用](https://github.com/T-Spoon/Traceur)
   * [展示 Android 程序方法调用链的 gralde 插件，支持输出html文件和方法折叠](https://github.com/CoXier/AppMethodTracking)
+  * [Android 浮动 Debug 工具箱，直接在浮动窗口执行 Android 测试功能](https://github.com/hulab/debugkit)
 * network
   * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo) 
   * [hongyang-okhttp的辅助类](https://github.com/hongyangAndroid/okhttp-utils)
@@ -942,6 +944,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个超轻超薄的Android工具库，阻止三方SDK中常见的严重影响用户体验的『链式唤醒』行为](https://github.com/oasisfeng/condom)
   * [使用JNI实现Sobel算子图像边缘检测 ](https://github.com/Jomes/sand)
   * [遮罩对比图效果组件](https://github.com/pavel163/BifacialView)
+  * [Android虚拟机检测库，意在未授权的情况下禁止在虚拟机App上非法运行](https://github.com/bunnyblue/AntiVM)
   
 ##**Animations**
  * 动画合集库
