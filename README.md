@@ -74,6 +74,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [根据图片阴影变颜色，细腻的视觉效果 ](https://github.com/yingLanNull/ShadowImageView/blob/master/READEME_CN.md)
   * [仅使用一张资源图片为 View 设置具有按下效果的背景-OneDrawable](https://github.com/maoruibin/OneDrawable) 
   * [仿微博带自定义身份标识和进度条的圆形头像](https://github.com/385841539/IdentityImageView)
+  * [为图片添加阴影，阴影颜色来源于图片的主色](https://github.com/DingMouRen/PaletteImageView)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -262,6 +263,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一个可以动态修改标记日期和显示预约列表的周日历](https://github.com/loonggg/WeekCalendar)
   * [一款精致漂亮的日历组件](https://github.com/prolificinteractive/material-calendarview)
   * [安卓炫酷日历组件，tile 风格相当漂亮](https://github.com/MorochoRochaDarwin/OneCalendarView)
+  * [又一个漂亮的日历组件](https://github.com/mahendramahi/CalendarView)
+  * [可进行 UI 定制的日历组件，轻松完成签到日历功能](https://github.com/shichaohui/EasyCalendar) 
 * PickView
   * [安卓选择器类，包括各种类型的选择器，可自定义顶部及底部界面，可自定义窗口动画](https://github.com/gzu-liyujiang/AndroidPicker)
   * [日期选择控件](https://github.com/flavienlaurent/datetimepicker) 
@@ -315,6 +318,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [3D 视差效果的多选按钮](https://github.com/gjiazhe/MultiChoicesCircleButton) 
   * [Android 动态 Menu 菜单 Demo，做的很棒](https://github.com/adonixis/android-animated-menu-items)
   * [支持计数效果的 FloatingActionButton](https://github.com/andremion/CounterFab)
+  * [效果很棒的一款 Float Text Placeholder 效果组件](https://github.com/rafakob/FloatingEditText) 
 * DiaLog
   * [提供自定义dialog style的库，非自定义view，纯净原生](https://github.com/tianzhijiexian/EasyDialog)
   * [一行代码实现提示对话框，指定元素](https://github.com/michaelye/EasyDialog)
@@ -1005,6 +1009,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [沙漠风情动画](https://github.com/JetradarMobile/desertplaceholder)
    * [Android SVG 动画效果，做的非常棒](https://github.com/jrummyapps/AnimatedSvgView)
    * [苹果音乐动画](https://github.com/rahulrj/Apple-Music-Animation)
+   * [可以落雪花，还可以落汉堡包的飘落效果](https://github.com/DingMouRen/FallingView)
 
 ##**源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
