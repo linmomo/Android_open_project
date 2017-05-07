@@ -103,6 +103,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [可设置圆角背景边框的的按钮](https://github.com/czy1121/roundbutton)
   * [Android 拖住滚动 Button 效果](https://github.com/dewarder/HoldingButton)
   * [Android 按钮进度条效果](https://github.com/ishaan1995/ButtonProgressBar)
+  * [loading button](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid)  
+  * [带有进度动画的Android自定义提交按钮](https://github.com/Someonewow/SubmitButton/blob/master/README-zh.md)
 * SwitchButton
   * [拥有18种果冻效果、30种缓动效果、可变色的开关按钮](https://github.com/Nightonke/JellyToggleButton/blob/master/README-ZH.md) 
   * [笑脸ToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/README-ZH.md)
@@ -400,6 +402,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [通用状态切换视图](https://github.com/XuDaojie/MultiStateView)
   * [一个简单但可以自定义切换动画的管理多状态的自定义layout ](https://github.com/lufficc/StateLayout)
   * [简单实用的页面多状态布局(content,loading,empty,error)](https://github.com/czy1121/loadinglayout)
+  * [Android 多状态加载布局的开发 Tips](http://gudong.name/2017/04/26/loading_layout_practice.html)
   * [Android 布局多状态维护工具，实用](https://github.com/gturedi/StatefulLayout)
   * [以组件的方式维护列表加载状态](https://github.com/gitsindonesia/baso)
   * [渐变色背景组件](https://github.com/csdodd/GradientLayout)
@@ -674,6 +677,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [在 Android 上，实现沃漂亮的罗诺伊图(多view不规则组合成一个)](https://github.com/Quatja/Vorolay)
   * [简洁优雅的网络状态提示](https://github.com/iammert/StatusView)
   * [显示GPS定位状态和信号强度的控件，实时刷新，使用方便，可定制，适合运动类及出行类APP](https://github.com/hzw1199/AndroidGpsStatus/blob/master/READMEcn.md) 
+  * [Android 室内场景构建组件，帮你快速的完成室内场景 View 的展示](https://github.com/karonl/InDoorSurfaceView)
    
    
 ## **自定义控相关链接**
@@ -878,6 +882,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [六种二维码生成的样式](https://github.com/vivian8725118/ZXingDemo/) 
   * [二维码扫描的封装库](https://github.com/XuDaojie/QRCode-Android)
   * [长按扫描WebView上的二维码工具。类似微信文章中的长按扫描](https://github.com/BolexLiu/PressScanCode)
+  * [Java 实现的漂亮二维码生成工具](https://github.com/SumiMakito/AwesomeQRCode)
 * 蓝牙
   * [Android BLE 蓝牙开发框架，使用简单的回调方式一步处理搜索、连接、notify、indicate、读、写等一系列蓝牙操作](https://github.com/Jasonchenlijian/FastBle)\
   * [蓝牙通信](https://github.com/akexorcist/Android-BluetoothSPPLibrary) 
@@ -949,6 +954,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [使用JNI实现Sobel算子图像边缘检测 ](https://github.com/Jomes/sand)
   * [遮罩对比图效果组件](https://github.com/pavel163/BifacialView)
   * [Android虚拟机检测库，意在未授权的情况下禁止在虚拟机App上非法运行](https://github.com/bunnyblue/AntiVM)
+  * [Android 晃动检测小工具](https://github.com/safetysystemtechnology/android-shake-detector)
   
 ##**Animations**
  * 动画合集库
@@ -981,6 +987,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [动画插值器的编辑器](https://github.com/MartinRGB/RapidInterpolator)
    * [通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画](https://github.com/venshine/BezierMaker)
  * 自定义动画
+   * [Android自定义动画酷炫的提交按钮 ](http://www.jianshu.com/p/3eb9777f6ab7)
    * [一个炫酷的SearchView搜索动画库](https://github.com/android-cjj/JJSearchViewAnim/blob/master/README-CN.md) 
    * [google now的动画样式](https://github.com/zagum/SpeechRecognitionView) 
    * [正弦曲线动画绘制](https://github.com/guiguegon/SineView)
@@ -1021,6 +1028,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Trinea大神整理的开源项目库](https://github.com/Trinea/android-open-project)
   * [正在成为史上最全分类Android开源代码大全](https://github.com/XXApple/AndroidLibs)
   * [自己总结的Android开源项目及库](https://github.com/Tim9Liu9/TimLiu-Android)
+  * [把 Awesome 系列再筛选一次，优质的 Android 开发库集合](https://github.com/aritraroy/UltimateAndroidReference)
   * [英文版Android开源UI框架分类](https://github.com/wasabeef/awesome-android-ui)
   * [Android开源UI框架分类](https://github.com/yeungeek/awesome-android-ui)
   * [一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档](https://github.com/CameloeAnthony/Perfect_IM_SNS)
