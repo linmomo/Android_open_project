@@ -287,6 +287,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [时间选择器，选择特定间隔时间段](https://github.com/skedgo/DateTimeRangePicker) 
   * [Android 双层级 Dialog 选择框](https://github.com/aliab/Two-Step-Picker-Dialog)
   * [水平选择器](https://github.com/GoodieBag/HorizontalPicker)
+  * [一款支持透明度的取色器](https://github.com/DingMouRen/ColorPicker)
+  * [滑动式选择器，用在选头像，选背景图非常适合的场景](https://github.com/GoodieBag/CarouselPicker)
 * StatusBar/ActionBar/ToolBar
   * [目测是 Bilibili 出品的 StatusBar 和 NavigationBar 辅助工具类](https://github.com/H07000223/FlycoSystemBar)  
   * [5.0以下沉浸式状态栏](https://github.com/Veaer/Glass)
@@ -346,6 +348,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android Dropdown 风格的 Alert 窗体](https://github.com/Tapadoo/Alerter)
   * [比原生 Snack 更漂亮的 Bottom Notification 库](https://github.com/matecode/Snacky)
   * [轻量级的消息提示库，请脑补SnackBar和Toast，但自定义更方便](https://github.com/liuguangqiang/CookieBar)
+  * [优雅的Snackbar](https://github.com/TonnyL/Light) 
 * Material Design
   * [一个兼容android 2.2material design组件库](https://github.com/navasmdc/MaterialDesignLibrary)
   * [android material design 风格项目整理](https://github.com/soyoungboy/android-material-design-Open-source-projects)
