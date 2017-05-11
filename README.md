@@ -381,6 +381,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [漂亮的 Android Drawer](https://github.com/yarolegovich/SlidingRootNav)
   * [利用 TabLayout 实现的 CSV 文件加载和预览，做的效果相当不错](https://github.com/Cleveroad/AdaptiveTableLayout) 
   * [非常规矩的一款 Bottom 导航效果组件](https://github.com/adib2149/BottomNavBar)
+  * [底部导航tab](https://github.com/bufferapp/AdaptableBottomNavigation)
 * Activity
   * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
   * [一款简单的Android端用于Activity跳转的路由框架](https://github.com/yjfnypeu/Router)
@@ -602,6 +603,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [做的很不错的一款侧边栏索引](https://github.com/Solartisan/WaveSideBar)
   * [仿汽车报价大全的sidebar](https://github.com/AlexLiuSheng/AnimSideBar)
   * [一个实用的联系人选择工具](https://github.com/quiin/UnifiedContactPicker) 
+  * [泡泡效果的索引滚动控件](https://github.com/cdflynn/bubble-scroll)
 * Card
   * [酷炫信用卡View](https://github.com/cooltechworks/CreditCardView)
   * [Android酷炫的礼物卡片控件](https://github.com/ldoublem/GiftCard)  
@@ -694,6 +696,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [RxJava 辅助 Debug 工具，更好的展示堆栈调用](https://github.com/T-Spoon/Traceur)
   * [展示 Android 程序方法调用链的 gralde 插件，支持输出html文件和方法折叠](https://github.com/CoXier/AppMethodTracking)
   * [Android 浮动 Debug 工具箱，直接在浮动窗口执行 Android 测试功能](https://github.com/hulab/debugkit)
+  * [找到阻碍你 Android App 性能的罪魁祸首](https://github.com/seiginonakama/BlockCanaryEx) 
 * network
   * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo) 
   * [hongyang-okhttp的辅助类](https://github.com/hongyangAndroid/okhttp-utils)
@@ -839,6 +842,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android MP3录制，波形显示，音频权限兼容与播放](http://www.jianshu.com/p/2448e2903b07)
   * [一个MusicPlayerView](https://github.com/amineghabi/Material_MusicPlayerView)
   * [一个很棒的Recorder项目](https://github.com/lingochamp/LingoRecorder)
+  * [把音乐的音频提出来，做成音轨](https://github.com/akshay2211/MusicWave)
 * 直播
   * [利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效](https://github.com/Yasic/QQBubbleView)
   * [几行代码快速实现滑动清屏效果！动态绑定清屏UI，参考自淘宝直播](https://github.com/Yellow5A5/ClearScreenHelper/blob/master/README_CN.md)
