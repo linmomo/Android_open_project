@@ -75,6 +75,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [仅使用一张资源图片为 View 设置具有按下效果的背景-OneDrawable](https://github.com/maoruibin/OneDrawable) 
   * [仿微博带自定义身份标识和进度条的圆形头像](https://github.com/385841539/IdentityImageView)
   * [为图片添加阴影，阴影颜色来源于图片的主色](https://github.com/DingMouRen/PaletteImageView)
+  * [transferee 可以帮助你完成从缩略图到原图的无缝过渡转变，功能体系仿照并涵盖 ios 版本的 QQ、微信朋友圈、新浪微博的图片浏览功能](https://github.com/Hitomis/transferee)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -148,6 +149,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [分离式的 Slider 效果，可以用来做打赏选择钱数，也可以做类似Uber选择车型，可用的场景相当多](https://github.com/lawloretienne/DiscreteSlider)
   * [自动通过用户启动 App 的次数，弹出 Rating 页面引导用户评价](https://github.com/codemybrainsout/smart-app-rate)
   * [自定义SeekBar，进度变化由可视化气泡样式呈现，定制化程度较高](https://github.com/woxingxiao/BubbleSeekBar) 
+  * [比官方组件更细腻的打分效果](https://github.com/ome450901/SimpleRatingBar)
 * ScrollView
   * [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
   * [Android Header 自动随滑动浮动](https://github.com/w446108264/ScrollableLayout)
@@ -443,6 +445,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一款功能强大的滑动库，目前支持dialogfragment，activity，卡片，listView，RecyclerView，GridView等的滑动。](https://github.com/CameloeAnthony/UltimateSwipeTool)
   * [识别手势类库 ](https://github.com/nisrulz/sensey)
   * [Android手势监听](https://github.com/pwittchen/swipe)
+  * [手势驱动的动画效果过程展示](https://github.com/russelarms/OffsetAnimator)
 * TipView/Badge
   * [为你的应用程序加上数字角标](https://github.com/leolin310148/ShortcutBadger)
   * [最简单的BadgeView，一句代码就搞定](https://github.com/AlexLiuSheng/BadgeView)
