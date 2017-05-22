@@ -45,6 +45,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android Textview Fading 动画效果](https://github.com/rosenpin/FadingTextView)
   * [Android 文本字数计算小工具，做社交类的 App 可能会有些帮助](https://github.com/xbroak/CharCountTextView)
   * [Android修改6.0系统文本选择菜单](http://www.jianshu.com/p/89970f098012)
+  * [一个用粒子动画显示文字的 Android 自定义 View](https://github.com/Yasic/ParticleTextView?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5740)  
 * ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
@@ -204,6 +205,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
   * [ListView / RecyclerView 等组件的状态维护，比如：无数据 / 网络出现问题 / 数据获取成功等](https://github.com/WassimBenltaief/FlowLayout)
   * [TEmptyView是一个小轮子，希望能够更简单地设置EmptyView，免除每次设置emptyView都要写xml之苦。 支持AdapterView(ListView/GridView等)、RecyclerView](https://github.com/barryhappy/TEmptyView/blob/master/README.cn.md)  
+  * [横向堆叠效果的自定义Layout](https://github.com/xmuSistone/android-pile-layout)
 * GridView
   * [可展开，可拖动，可排序，可删除，固定更多的GridView](https://github.com/wedcel/DragExpandGrid)
   * [带头尾的gridview](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter/blob/master/README-cn.md)
@@ -551,6 +553,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 主题换肤的开源库（插件化换肤）](https://github.com/burgessjp/ThemeSkinning/blob/master/README.md)
   * [Android 运行时主题切换小工具库](https://github.com/garretyoder/Colorful)
   * [Android 切换皮肤方案，轻松实现](https://github.com/ximsfei/Android-skin-support)
+  * [RxJava 实现的主题切换引擎！](https://github.com/afollestad/aesthetic) 
 * Shop
   * [android仿京东、淘宝商品详情页上拉查看详情](https://github.com/ysnows/DoubleScrollVIew) 
   * [仿照淘宝和聚美优品，在商品详情页，向上拖动时，可以加载下一页](https://github.com/xmuSistone/android-vertical-slide-view)
