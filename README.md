@@ -46,6 +46,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 文本字数计算小工具，做社交类的 App 可能会有些帮助](https://github.com/xbroak/CharCountTextView)
   * [Android修改6.0系统文本选择菜单](http://www.jianshu.com/p/89970f098012)
   * [一个用粒子动画显示文字的 Android 自定义 View](https://github.com/Yasic/ParticleTextView?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5740)  
+  * [记分牌效果的单词轮换，在落地页可能会用到](https://github.com/sdsmdg/RotatingText)
 * ImageView
   * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
   * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
@@ -72,11 +73,12 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [通过监听手腕旋转进行交互，自动滚动图片](https://github.com/gjiazhe/PanoramaImageView)
   * [支持给图片加锚点的 Android 组件](https://github.com/jcodeing/AnchorImageView)
   * [双指控制图片展开，以及放大缩小，做的超棒](https://github.com/imablanco/Zoomy)
-  * [根据图片阴影变颜色，细腻的视觉效果 ](https://github.com/yingLanNull/ShadowImageView/blob/master/READEME_CN.md)
+  * [根据图片阴影变颜色，细腻的视觉效果](https://github.com/yingLanNull/ShadowImageView/blob/master/READEME_CN.md)
   * [仅使用一张资源图片为 View 设置具有按下效果的背景-OneDrawable](https://github.com/maoruibin/OneDrawable) 
   * [仿微博带自定义身份标识和进度条的圆形头像](https://github.com/385841539/IdentityImageView)
   * [为图片添加阴影，阴影颜色来源于图片的主色](https://github.com/DingMouRen/PaletteImageView)
   * [transferee 可以帮助你完成从缩略图到原图的无缝过渡转变，功能体系仿照并涵盖 ios 版本的 QQ、微信朋友圈、新浪微博的图片浏览功能](https://github.com/Hitomis/transferee)
+  * [用 Drawable 画的分隔符](https://github.com/nekocode/DividerDrawable)
 * EditText
   * [Floating Edit Text](https://github.com/florent37/MaterialTextField)
   * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView)
@@ -136,9 +138,10 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android环形进度条类似apple watch健身记录](https://github.com/ldoublem/RingProgress)
   * [渐变的下载按钮，发现不少小伙伴要做类似效果的](https://github.com/cctanfujun/ProgressRoundButton)
   * [Android 仿应用宝的下载效果，你知道中间那个光条是怎么做出来的吗](https://github.com/LineChen/FlickerProgressBar)
-  * [一个展示下载进度的View，下载完成和失败的时候会有酷酷的动画](一个展示下载进度的View，下载完成和失败的时候会有酷酷的动画.)
+  * [一个展示下载进度的View，下载完成和失败的时候会有酷酷的动画](https://github.com/dudu90/FreshDownloadView)
   * [蛮有创意的一发 Android 下载效果](https://github.com/Ajian-studio/GADownloading/blob/master/README_CN.md)
   * [仿iOS下载进度样式的按钮](https://github.com/jiang111/CProgressButton)
+  * [Android自定义多种风格进度控件](https://github.com/WhiteDG/ProgressView/blob/master/README_CN.md)
 * SeekBar
   * [一个展示注册进度的ProgressBar](https://github.com/jiang111/ProgressView)
   * [Range Seekbar](https://github.com/dolphinwang/RangeSeekbar)
@@ -302,6 +305,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [渐进色的 Actionbar 效果，使用场景较少，可以在一些花哨的 App 设计上用得到](https://github.com/flouthoc/Gradbar)
   * [Toolbar 组件展示 Banner 图片效果](https://github.com/JuL1205/SlideshowToolbar)
   * [果冻肉效果的Toolbar](https://github.com/Yalantis/JellyToolbar)
+  * [android 4.4以上沉浸式状态栏和沉浸式导航栏管理以及对bar的其他设置](https://github.com/gyf-dev/ImmersionBar)
 * Menu/FloatingActionButton
   * [环形菜单控件](https://github.com/sungerk/CircularMenu)
   * [漂亮的 Android 圆形菜单](https://github.com/ImangazalievM/CircleMenu)
@@ -340,6 +344,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [位置搜索智能提示框，利用了 GoogleApi，想要用到国内的话，可以对接一个国内的地图服务](https://github.com/codemybrainsout/PlaceSearchDialog)
   * [悬浮窗权限兼容库 ](https://github.com/czy1121/overlaypermission)
   * [一个好看的 Dialog](https://github.com/geniusforapp/fancyDialog) 
+  * [一款可定制的搜索对话框](https://github.com/mirrajabi/search-dialog)
 * Spinner/Toast
   * [一个带有展开和折叠动画的Spinner](https://github.com/arcadefire/nice-spinner)
   * [可以记住历史选项的spinner](https://github.com/Jasonchenlijian/MemorySpinner)
@@ -421,6 +426,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [让任何布局支持选中状态，类似 Checkbox 的属性](https://github.com/Jaouan/CompoundLayout)
   * [一个可自定义子控件大小及位置、相等大小的子控件间可通过拖动交换位置的ViewGroup](https://github.com/alivebao/FreeSizeDraggableLayout)
   * [类似 Facebook 闪烁式的 Load View，哇，好漂亮](https://github.com/elye/loaderviewlibrary)
+  * [Loading 状态的闪烁效果，类似 Facebook 的加载](https://github.com/team-supercharge/ShimmerLayout)
   * [斜角 View 效果，用来做 Profile 背景最适合不过](https://github.com/florent37/DiagonalLayout)
   * [漂亮的弧形顶部布局效果](https://github.com/florent37/ArcLayout)
   * [使AppBarLayout 可以弹性下拉的Behavior](https://github.com/ToDou/appbarlayout-spring-behavior)
@@ -542,6 +548,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [Android 用户引导库 MaterialIntroView 使用及源码分析](http://www.jianshu.com/p/1d2dcbc1e0f2)
   * [用于app指向性功能高亮的库](https://github.com/hongyangAndroid/Highlight)
   * [最最轻量级的新手引导库（只有7个类），能够快速的为一个Activity里的任何一个View控件创建一个遮罩式的导航页](https://github.com/binIoter/GuideView)
+  * [Android App新手指引开源控件](http://blog.coderclock.com/2017/05/22/android/open-source-android-app-guide-view-library/)
 * Theme
   * [日夜间模式切换](https://github.com/zzz40500/ThemeDemo)
   * [基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式](https://github.com/bboyfeiyu/Colorful)
@@ -730,6 +737,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一行代码让你的 App 全局替换成 Apple Style 的 Emoji](https://github.com/nekocode/Emojix)
   * [一个让你的Android应用支持emoji的库](https://github.com/vanniktech/Emoji)
   * [一个实现了可以渲染 Emoji 的库](https://github.com/hani-momanii/SuperNova-Emoji)
+  * [Android Emoji 兼容包，彻底解决 Android Emoji 不一致问题](https://github.com/googlesamples/android-EmojiCompat)
   * [利用 AnimatedVectorDrawable 实现会动的 emoji](https://github.com/RomainPiel/live-emoji)
   * [通过 Hook 实现系统软键盘监听](https://github.com/pqpo/InputMethodHolder)
   * [简洁的一个数字输入键盘效果](https://github.com/StephaneBg/SimpleNumberPicker)
@@ -837,6 +845,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [视频拍摄，支持横屏拍摄效果与竖屏拍摄效果，闪光灯，切换前后摄像头](https://github.com/CarGuo/VideoRecord)
   * [支持视频 Preview 效果的 Seekbar](https://github.com/rubensousa/PreviewSeekBar)
   * [从视频网站播放视频的媒体播放器](https://github.com/TedaLIEz/ParsingPlayer)
+  * [ExoPlayer基于OpenGL实现的滤镜效果](https://github.com/MasayukiSuda/ExoPlayerFilter)
 * Audio
   * [Android声音录制和播放封装库](https://github.com/Piasy/RxAndroidAudio)
   * [安卓音频录制 ](https://github.com/adrielcafe/AndroidAudioRecorder)
@@ -941,6 +950,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [一键测出你与照片中物体的距离](https://github.com/shixinzhang/DistanceMeasure)
   * [Android 指纹识别身份验证 Demo](https://github.com/pro100svitlo/FingerprintAuthHelper)
   * [安卓指纹识别API封装！集成了安卓官方API！三星指纹API！魅族指纹API！一键集成！](https://github.com/uccmawei/FingerprintIdentify?t=1)
+  * [一款开源指纹识别工具](https://github.com/Ms0x0/Dayu)
   * [目前来看，用起来最简洁的指纹管理工具](https://github.com/JesusM/FingerprintManager)
   * [安卓 sqlite 数据库查看](https://github.com/yedaxia/sqlitelookup)
   * [一个简单的 SQLite 和 Excel 互相转换的库子](https://github.com/li-yu/SQLiteToExcel)
@@ -968,6 +978,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [遮罩对比图效果组件](https://github.com/pavel163/BifacialView)
   * [Android虚拟机检测库，意在未授权的情况下禁止在虚拟机App上非法运行](https://github.com/bunnyblue/AntiVM)
   * [Android 晃动检测小工具](https://github.com/safetysystemtechnology/android-shake-detector)
+  * [防撤回神器](https://github.com/JasonQS/Anti-recall)
+  * [批量控制一大堆手机,已停止更新了](https://github.com/zhongxia245/weiqunkong)
   
 ##**Animations**
  * 动画合集库
@@ -982,6 +994,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
    * [通过描述来实现动画方案，好玩儿，实用](https://github.com/florent37/ExpectAnim)
    * [自定义LayoutAnimationController，一行代码为ViewGroup设置定制顺序的布局动画](https://github.com/HuanHaiLiuXin/ILayoutAnimationController)
    * [Android 动画管理库，辅助你管理动画效果,实现类似Facebook布局加载效果](https://github.com/willowtreeapps/spruce-android)
+   * [一个使用openGL渲染的炫丽Android动画库 MagicSurfaceView](https://github.com/gplibs/android-magic-surface-view)
  * Activity Transition
    * [兼容4.0以上版本的点击扩散动画库，几行代码实现Activity转场动画效果及新增自定义界面转场动画](https://github.com/Yellow5A5/ActSwitchAnimTool)
    * [穿件简单的Android转场动画](https://github.com/kaichunlin/android-transition)
