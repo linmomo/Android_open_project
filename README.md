@@ -720,7 +720,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * [自定义View教程](https://github.com/Idtk/Blog/tree/master/Blog)
 * [Android自定义View，包含炫酷 进度条，提交效果，支付密码等](https://github.com/lygttpod/AndroidCustomView)
  
-##**三方工具**
+## **三方工具**
 
 * 性能优化
     * [一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）](https://github.com/zjw-swun/AppMethodOrder) 
@@ -1039,7 +1039,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android 缓存库，融合了DiskLruCache和ASimpleCache.](https://github.com/hongyangAndroid/base-diskcache)
     * [android控件自动化埋点](https://github.com/wobuaihuangjun/EventCollection)
   
-##**Animations**
+## **Animations**
  * 动画合集库
     * [android控件动画集合](https://github.com/daimajia/AndroidViewAnimations) 
     * [Android动画库项目](https://github.com/hujiaweibujidao/wava/blob/master/README-CN.md)
@@ -1123,13 +1123,13 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [苹果音乐动画](https://github.com/rahulrj/Apple-Music-Animation)
     * [可以落雪花，还可以落汉堡包的飘落效果](https://github.com/DingMouRen/FallingView)
 
-##**源码系列**
+## **源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 * [Android源码设计模式分析项目](https://github.com/simple-android-framework/android_design_patterns_analysis)
 * [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
 * [谷歌浏览器安卓版源码项目](https://github.com/JackyAndroid/AndroidChromium/blob/master/README-CN.md)
    
-##**链接**
+## **链接**
   * [Trinea大神整理的开源项目库](https://github.com/Trinea/android-open-project)
   * [正在成为史上最全分类Android开源代码大全](https://github.com/XXApple/AndroidLibs)
   * [自己总结的Android开源项目及库](https://github.com/Tim9Liu9/TimLiu-Android)
