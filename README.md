@@ -410,7 +410,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * [演示Material Design控件的使用](https://github.com/chenyangcun/MaterialDesignExample) 
 * [Material Design控件demo演示](https://github.com/rey5137/material)
  
-##**自定义控件**
+## **自定义控件**
 
 * Layout
     * [渐变色背景组件](https://github.com/csdodd/GradientLayout)
