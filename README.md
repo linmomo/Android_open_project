@@ -490,6 +490,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [挺有意思的一个下拉刷新效果，可以看看源码学习一下实现类似效果的思路](https://github.com/lubeast/PullToRefresh/blob/master/README_CHN.md)
     * [效果超棒的微笑下拉刷新。这是在 SwipeRefreshLayout基础上修改的下拉刷新库](https://github.com/songixan/SmileRefresh)
     * [烟花效果的下拉刷新，浮夸吗？](https://github.com/Cleveroad/FireworkyPullToRefresh)
+    * [Android智能下拉刷新框架，支持越界回弹，集成了几十种炫酷的Header和 Footer](https://github.com/scwang90/SmartRefreshLayout)
 * imageLoader
     * [图片加载框架的api封装,涵盖fresco,glide,picasso.最大程度优化内存,防止OOM](https://github.com/hss01248/ImageLoader) 
     * [Picasso，Glide，Fresco对比分析](http://blog.csdn.net/github_33304260/article/details/70213300)
@@ -586,6 +587,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android 用户引导库 MaterialIntroView 使用及源码分析](http://www.jianshu.com/p/1d2dcbc1e0f2)
     * [用于app指向性功能高亮的库](https://github.com/hongyangAndroid/Highlight)
     * [最最轻量级的新手引导库（只有7个类），能够快速的为一个Activity里的任何一个View控件创建一个遮罩式的导航页](https://github.com/binIoter/GuideView)
+    * [支持引导路径高亮的方案](https://github.com/TakuSemba/Spotlight)
 * Theme
     * [日夜间模式切换](https://github.com/zzz40500/ThemeDemo)
     * [基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式](https://github.com/bboyfeiyu/Colorful)
@@ -968,6 +970,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一个简单使用的SharePreferences](https://github.com/soarcn/Favor)
     * [利用 KeyStore 存储密码，加密 SharedPreference 的数据，保证安全性](https://github.com/iamMehedi/Secured-Preference-Store)
     * [AES-256加密的SharedPreferences](https://github.com/PDDStudio/EncryptedPreferences)
+    * [多进程安全的SharedPreferences](https://github.com/grandcentrix/tray) 
 * ORM/SQLite
     * [一个基于KV储存的SQLite](https://github.com/lusfold/AndroidKeyValueStore)
     * [轻量级 Android Nosql 方案，简单的 App 用这个完全够了](https://github.com/florent37/Android-NoSql)
