@@ -131,6 +131,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [又一个三状态 Toggle Button](https://github.com/BeppiMenozzi/TriStateToggleButton)
     * [很有新意的一个滑动效果库](https://github.com/MAXDeliveryNG/slideview)
     * [一个自定义的切换按钮，页面切换效果](https://github.com/polyak01/IconSwitch)
+    * [漂亮的二选一按钮效果](https://github.com/steelkiwi/SeparateShapesView)
 * CheckBox
     * [自定义动画checkbox](https://github.com/andyxialm/SmoothCheckBox) 
     * [带动画的Checkbox](https://github.com/lguipeng/AnimCheckBox)
@@ -170,10 +171,11 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [自动通过用户启动 App 的次数，弹出 Rating 页面引导用户评价](https://github.com/codemybrainsout/smart-app-rate)
     * [比官方组件更细腻的打分效果](https://github.com/ome450901/SimpleRatingBar)
     * [漂亮的笑脸评分动画](https://github.com/sujithkanna/SmileyRating)
-* ScrollView
+* ScrollView/NestedScrollView
     * [Android下拉图片变大的ScrollView](http://jiyiren.github.io/2015/08/13/Android%E4%B8%8B%E6%8B%89%E5%9B%BE%E7%89%87%E5%8F%98%E5%A4%A7%E7%9A%84ScrollView/)
     * [Android Header 自动随滑动浮动，类似AppStore页面](https://github.com/w446108264/ScrollableLayout)
     * [一款漂亮的 Android 视差效果](https://github.com/developer-shivam/ChanelView)
+    * [仿Google Play商店沉侵式样式](https://github.com/matrixxun/ImmersiveDetailSample) 
 * ListView
     * [一个下拉顶部图片放大的listview](https://github.com/matrixxun/PullToZoomInListView)
     * [功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等](https://github.com/sfsheng0322/StickyHeaderListView)
@@ -236,7 +238,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [水平的角度选择器滑轮](https://github.com/shchurov/HorizontalWheelView)
     * [横向滚动的、可以支持大量文本选择的自定义View ](https://github.com/385841539/HorizontalScrollSelectedView)
     * [自定义NumberPickerView](https://github.com/Carbs0126/NumberPickerView)
-    * [漂亮的二选一按钮效果](https://github.com/steelkiwi/SeparateShapesView)
 * Menu
     * [环形菜单控件](https://github.com/sungerk/CircularMenu)
     * [漂亮的 Android 圆形菜单](https://github.com/ImangazalievM/CircleMenu)
@@ -254,7 +255,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android 动态 Menu 菜单 Demo，做的很棒](https://github.com/adonixis/android-animated-menu-items)
     * [Android 方块儿展开菜单，很有新意](https://github.com/devsideal/SquareMenu)
     * [类似手机QQ界面右上角的弹出菜单，使用 recyclerview 和 popupwindow 封装了一下](https://github.com/zaaach/TopRightMenu)
-    * [PopsTabView是个filter容器,他可以自动,快速,构建不同筛选样式,自由组合成一组tab](https://github.com/ccj659/PopsTabView)
+    * [PopsTabView是个filter容器,他可以自动,快速,构建不同筛选样式,自由组合成一组tab](https://github.com/ccj659/PopsTabView)
 * Dialog
     * [提供自定义dialog style的库，非自定义view，纯净原生](https://github.com/tianzhijiexian/EasyDialog)
     * [一行代码实现提示对话框，指定元素](https://github.com/michaelye/EasyDialog)
@@ -321,7 +322,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Google开源的布局，其效果是实现类似CSS中的Flexbox布局效果](https://github.com/google/flexbox-layout)
     * [一个自适应图片长宽比Recyclerview的LayoutManager](https://github.com/500px/greedo-layout-for-android)
     * [支持不同形态的 Span Grid Layout](https://github.com/Arasthel/SpannedGridLayoutManager)
-    * [RecyclerView 半圆形布局](https://github.com/cdflynn/turn-layout-manager)
+    * [RecyclerView 半圆形布局](https://github.com/cdflynn/turn-layout-manager)
 * RecyclerViewDecoration
     * [一个设置RecyclerView间隔线的库](https://github.com/karumi/dividers)
     * [Recyclerview间隔线](https://github.com/dinuscxj/RecyclerItemDecoration)
@@ -343,7 +344,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper/)
     * [一个多功能的 Adapter ](https://github.com/davideas/FlexibleAdapter)
     * [RecyclerView 超强助手](https://github.com/nisrulz/recyclerviewhelper)
-    * [kotlin根据返回的数据驱动视图](https://github.com/Werb/MoreType/blob/master/README_ZH.md)
+    * [kotlin根据返回的数据驱动视图](https://github.com/Werb/MoreType/blob/master/README_ZH.md)
 * ToolBar/ActionBar/StatusBar
     * [目测是 Bilibili 出品的 StatusBar 和 NavigationBar 辅助工具类](https://github.com/H07000223/FlycoSystemBar)  
     * [5.0以下沉浸式状态栏](https://github.com/Veaer/Glass)
@@ -359,7 +360,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [CoordinatorLayout例子](https://github.com/saulmm/CoordinatorBehaviorExample)
     * [使AppBarLayout 可以弹性下拉的Behavior](https://github.com/ToDou/appbarlayout-spring-behavior)
     * [过渡平滑的 Toolbar 效果](https://github.com/arsan-official/collapsing-toolbar)
-* NestedScrollView
 * DrawerLayout/NavigationView
     * [Material风格侧滑菜单](https://github.com/mikepenz/MaterialDrawer)
     * [基于 Floating Button 实现的菜单展开效果，做的非常棒](https://github.com/andremion/Floating-Navigation-View)
@@ -433,7 +433,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一个真正的Ripple效果，需要考虑Ripple的圆心变化 ](https://github.com/liuguangqiang/RippleLayout)
     * [layout中的进度条](https://github.com/iammert/ProgressLayout)
     * [自定义横向堆叠卡片效果Layout](https://github.com/xmuSistone/android-pile-layout)
-    * [一个竖直方向的SlidingPanelLayout，支持加载多个Panel，可以灵活地实现漂亮的的交互效果,类似竖向卡片堆叠效果](https://github.com/woxingxiao/SlidingUpPanelLayout/blob/master/README_zh.md)  
+    * [一个竖直方向的SlidingPanelLayout，支持加载多个Panel，可以灵活地实现漂亮的的交互效果,类似竖向卡片堆叠效果](https://github.com/woxingxiao/SlidingUpPanelLayout/blob/master/README_zh.md)  
 * AboutLayout/Preference
     * [Material Design 风格的 About 页面设计](https://github.com/daniel-stoneuk/material-about-library) 
     * [Material Design 风格的 About 页面](https://github.com/jrvansuita/MaterialAbout)
@@ -451,7 +451,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [大图作为header跟随手指向上滑动，下拉展示大图](https://github.com/w4lle/PullDownView)
     * [跟随手势滑动，显示隐藏标题栏、底部导航栏及悬浮按钮的 Android Behavior Library](https://github.com/Lauzy/LBehavior)
     * [一个下拉放大的RecyclerView](https://github.com/dinuscxj/PullZoomRecyclerView)
-    * [仿Google Play商店沉侵式样式](https://github.com/matrixxun/ImmersiveDetailSample)  
 * StatusLayout
     * [Android 多状态加载布局的开发 Tips](http://gudong.name/2017/04/26/loading_layout_practice.html)
     * [一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图](https://github.com/qyxxjd/MultipleStatusView)
@@ -774,7 +773,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一起来撸个朋友圈吧](https://github.com/razerdp/FriendCircle)
     * [websocket微信聊天不是事](https://github.com/TooTallNate/Java-WebSocket)
     * [Android Socket封装](https://github.com/vilyever/AndroidSocketClient)
-    * [Aurora IMUI，一个通用的即时通讯库。不局限于任何 IM SDK，现在已经支持 React Native](https://github.com/jpush/aurora-imui/blob/master/README_zh.md)
+    * [Aurora IMUI，一个通用的即时通讯库。不局限于任何 IM SDK，现在已经支持 React Native](https://github.com/jpush/aurora-imui/blob/master/README_zh.md)
 * Keyboard/Emoji
     * [一个可以监控到软键盘打开关闭的库](https://github.com/AzimoLabs/AndroidKeyboardWatcher)
     * [Android键盘面板冲突 布局闪动处理方案](https://github.com/Jacksgong/JKeyboardPanelSwitch)
@@ -1057,7 +1056,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android上一个简单轻量的游戏引擎](https://github.com/lfkdsk/JustWeEngine)
     * [Android 缓存库，融合了DiskLruCache和ASimpleCache.](https://github.com/hongyangAndroid/base-diskcache)
     * [android控件自动化埋点](https://github.com/wobuaihuangjun/EventCollection)
-    * [一个强大的selector注入器 ](https://github.com/tianzhijiexian/SelectorInjection)  
+    * [一个强大的selector注入器 ](https://github.com/tianzhijiexian/SelectorInjection)  
    
 ## **Animations**
  * 动画合集库
@@ -1116,7 +1115,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [google now的loading样式](https://github.com/zagum/SpeechRecognitionView) 
     * [微软Metro-style Loading](https://github.com/mmga/MetroLoading)
     * [多个颜色点渐次出现消失loading动画](https://github.com/liangpengfei/LoadingPopPoint)
-    * [仿SquareLoadingView](https://github.com/steelkiwi/SlidingSquareLoaderView)
+    * [仿SquareLoadingView](https://github.com/steelkiwi/SlidingSquareLoaderView)
  * 赞
     * [twitter 点赞效果](https://github.com/frogermcs/LikeAnimation)
     * [点赞效果 类似twitter的效果](https://github.com/ChadCSong/ShineButton)
