@@ -53,6 +53,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一个用粒子动画显示文字的 Android 自定义 View](https://github.com/Yasic/ParticleTextView?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5740)  
     * [记分牌效果的单词轮换，在落地页可能会用到](https://github.com/sdsmdg/RotatingText)
 * ImageView
+    * [基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度 ](https://github.com/sfsheng0322/GlideImageView)
     * [ImageView加载动画](https://github.com/chiemy/LoadingImageView)  
     * [Android 加载大图可以高清显示10000*10000像素的图片，轻松实现微博长图功能](https://github.com/LuckyJayce/LargeImage)
     * [大图查看加载库，支持拖动和缩放，利用 fresco 加载，超级方便，但是内存占用超级低，一点也不卡](https://github.com/Piasy/BigImageViewer)
@@ -69,8 +70,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [高效，强大，非常轻量级的自定义ImageView，支持圆形，三角形，棱形，圆角矩形，正多边形](https://github.com/TangXiaoLv/EffectiveShapeView)
     * [多种样式的图片,可以用于设置图片的形状，现有圆角、圆形、扇形、环形，四种可选方式](https://github.com/Idtk/FigureImageView) 
     * [Android 色彩渐进 ImageView](https://github.com/skyfe79/AndroidGradientImageView)
+    * [懂得智能配色的ImageView,还能给自己设置多彩的阴影哦](https://github.com/DingMouRen/PaletteImageView)
     * [用 ImageView 实现圆形头像](https://github.com/Carbs0126/AvatarImageView)
-    * [为图片添加阴影，阴影颜色来源于图片的主色](https://github.com/DingMouRen/PaletteImageView)
     * [根据图片阴影变颜色，细腻的视觉效果](https://github.com/yingLanNull/ShadowImageView/blob/master/READEME_CN.md)
     * [目前来看，Android 上最好看的控件阴影实现](https://github.com/harjot-oberai/MaterialShadows)
     * [仿微博带自定义身份标识和进度条的圆形头像](https://github.com/385841539/IdentityImageView)
@@ -156,6 +157,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [蛮有创意的一发 Android 下载效果](https://github.com/Ajian-studio/GADownloading/blob/master/README_CN.md)
     * [Android自定义多种风格进度控件](https://github.com/WhiteDG/ProgressView/blob/master/README_CN.md)
     * [这是一个切割时间的表盘](https://github.com/DuanTzXavier/conciseclock)
+    * [自定义View之渐变圆环进度条](https://github.com/Blankj/ProgressRing)
+    * [一些模仿google的ProgressBar](https://github.com/jpardogo/GoogleProgressBar)
 * SeekBar
     * [Range Seekbar](https://github.com/dolphinwang/RangeSeekbar)
     * [ 一款漂亮美观的支持双向范围选择和普通SeekBar模式的SeekBar，支持刻度、负数以及多种强大的自定义属性](https://github.com/Jay-Goo/RangeSeekBar/blob/master/README_ZH.md)
@@ -217,6 +220,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [又一个漂亮的日历组件](https://github.com/mahendramahi/CalendarView)
     * [可进行 UI 定制的日历组件，轻松完成签到日历功能](https://github.com/shichaohui/EasyCalendar) 
     * [MD 风格的日历组件](https://github.com/Applandeo/Material-Calendar-View)
+    * [自定义日历控件 支持左右无限滑动 周月切换 标记日期显示 自定义显示效果跳转到指定日期](https://github.com/MagicMashRoom/SuperCalendar)
 * PickView
     * [安卓选择器类，包括各种类型的选择器，可自定义顶部及底部界面，可自定义窗口动画](https://github.com/gzu-liyujiang/AndroidPicker)
     * [日期选择控件](https://github.com/flavienlaurent/datetimepicker) 
@@ -344,6 +348,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper/)
     * [一个多功能的 Adapter ](https://github.com/davideas/FlexibleAdapter)
     * [RecyclerView 超强助手](https://github.com/nisrulz/recyclerviewhelper)
+    * [多布局适配器](https://github.com/DevAhamed/MultiViewAdapter)
     * [kotlin根据返回的数据驱动视图](https://github.com/Werb/MoreType/blob/master/README_ZH.md)
 * ToolBar/ActionBar/StatusBar
     * [目测是 Bilibili 出品的 StatusBar 和 NavigationBar 辅助工具类](https://github.com/H07000223/FlycoSystemBar)  
@@ -398,6 +403,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [简单易用的可定制展开角度的button menu](https://github.com/uin3566/AllAngleExpandableButton)
     * [一个好看的Float菜单](https://github.com/xue5455/SmartMenu)
     * [支持计数效果的 FloatingActionButton](https://github.com/andremion/CounterFab)
+    * [效果很棒的 Fab 按钮](https://github.com/jahirfiquitiva/FABsMenu)
 * SnackBar/Toast
     * [支持风格化和动画效果的 Toast，很漂亮](https://github.com/Muddz/StyleableToast)
     * [给人眼前一亮的 Toast 效果](https://github.com/yadav-rahul/TastyToast)
@@ -668,6 +674,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android小票效果](https://github.com/vivian8725118/CardView) 
     * [可自定义动画的卡片切换视图](https://github.com/BakerJQ/Android-InfiniteCards)
     * [仿TinderStack堆叠卡片浏览](https://github.com/lawloretienne/TinderStack)
+    * [Android 信用卡交易效果 UI](https://github.com/KingsMentor/Luhn)
 * 刮刮卡/优惠券
     * [雾化擦除效果，可以做出来一些好玩儿的交互效果，比如：猜谜竞猜，低价销售展示，广告展示等等](https://github.com/dynamitechetan/FogView_Library)
     * [刮刮卡效果](https://github.com/jackpocket/android_scratchoff)
@@ -735,6 +742,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 
 * 性能优化
     * [一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）](https://github.com/zjw-swun/AppMethodOrder) 
+    * [基于ASM，通过注解，实现对方法调用时的参数、返回值、耗时等信息的纪录](https://github.com/saymagic/Daffodil)
     * [RxJava 辅助 Debug 工具，更好的展示堆栈调用](https://github.com/T-Spoon/Traceur)
     * [展示 Android 程序方法调用链的 gralde 插件，支持输出html文件和方法折叠](https://github.com/CoXier/AppMethodTracking)
     * [找到阻碍你 Android App 性能的罪魁祸首](https://github.com/seiginonakama/BlockCanaryEx)
@@ -775,6 +783,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android Socket封装](https://github.com/vilyever/AndroidSocketClient)
     * [Aurora IMUI，一个通用的即时通讯库。不局限于任何 IM SDK，现在已经支持 React Native](https://github.com/jpush/aurora-imui/blob/master/README_zh.md)
 * Keyboard/Emoji
+    * [Android 上最便捷的第三方 Keyboard 集合](https://github.com/hoanganhtuan95ptit/AwesomeKeyboard) 
     * [一个可以监控到软键盘打开关闭的库](https://github.com/AzimoLabs/AndroidKeyboardWatcher)
     * [Android键盘面板冲突 布局闪动处理方案](https://github.com/Jacksgong/JKeyboardPanelSwitch)
     * [通过 Hook 实现系统软键盘监听](https://github.com/pqpo/InputMethodHolder)
@@ -1038,6 +1047,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * Launcher Shortcut
     * [动态更新 Android launcher App Icon](https://github.com/myinnos/AppIconNameChanger)
     * [一个创建快捷方式的简单库](https://github.com/xuyisheng/ShortcutHelper)
+    * [如何写一个优雅的 Android Launcher](https://github.com/Deletescape-Media/Lawnchair)
 * Other 
     * [一个获取号码归属地和其他信息（诈骗、骚扰等）的开源库](https://github.com/xdtianyu/PhoneNumber)
     * [添加、识别电话号码归属国家](https://github.com/lamudi-gmbh/android-phone-field)
