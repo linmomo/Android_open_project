@@ -89,6 +89,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [多图组成的拼贴控件](https://github.com/lopei/collageview)
     * [类似于 Twitter 多媒体展示效果，自动组织多张图的展示，很有用哦](https://github.com/ihsanbal/Wiv)
     * [仿Nice首页图片列表9图样式，并实现拖拽效果 ](https://github.com/wobiancao/ImageNice9Layout)
+    * [类似 Instagram Story 的插件，展示照片集合](https://github.com/shts/StoriesProgressView)
 * EditText
     * [一个漂亮的Materia风格EditText](https://github.com/florent37/MaterialTextField)
     * [MD 风格的 EditText，精致](https://github.com/bufferapp/BufferTextInputLayout)
@@ -372,7 +373,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一个 DrawerLayout 的扩展,具有帅气的动画与创新的交互。一次手势完成滑出侧边栏与选择菜单](https://github.com/mzule/FantasySlide)
     * [很有特点的一个DrawerLayout，动画效果很 Android](https://github.com/florent37/AwesomeBar)
     * [漂亮的 Android Drawer](https://github.com/yarolegovich/SlidingRootNav)
-    * [利用 TabLayout 实现的 CSV 文件加载和预览，可缩放拖动浏览](https://github.com/Cleveroad/AdaptiveTableLayout) 
+    * [Android 面包屑导航](https://github.com/fython/BreadcrumbsView/wiki/%E4%B8%AD%E6%96%87-README.md)
 * BottomNavigation/TabLayout
     * [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
     * [TabLayout,对PagerSlidingTabStrip进行修改](https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md)
@@ -451,6 +452,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [可展开/隐藏子view的layout](https://github.com/AAkira/ExpandableLayout) 
     * [可伸缩控件](https://github.com/cachapa/ExpandableLayout)
     * [是一个实现树形内容展示的库](https://github.com/Telenav/NodeFlow)
+    * [每个条目可展开布局效果](https://github.com/iammert/ExpandableLayout)
 * ParallaxLayout
     * [视图分层视差效果](https://github.com/SchibstedSpain/Parallax-Layer-Layout)
     * [一个支持可伸缩头部的布局](https://github.com/hongyangAndroid/Android-StickyNavLayout)
@@ -530,16 +532,13 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android手势监听](https://github.com/pwittchen/swipe)
     * [手势驱动的动画效果过程展示](https://github.com/russelarms/OffsetAnimator)
     * [手势滑动返回的Fragment](https://github.com/YoKeyword/SwipeBackFragment) 
-* TipView/Badge
+* TipView/
     * [给布局添加提示](https://github.com/tomergoldst/tooltips)
     * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
     * [Android View Tooltips，目前来看做的最漂亮的](https://github.com/florent37/ViewTooltip)
     * [基于相对位置实现弹出 PopupWindow](https://github.com/kakajika/RelativePopupWindow)
     * [带箭头的TipVIew](https://github.com/cpiz/BubbleView/blob/master/README_CN.md)
     * [带各种特效提示框，可调整提示位置 ](https://github.com/douglasjunior/android-simple-tooltip)
-    * [仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”](https://github.com/Qiaoidea/QQTipsView)
-    * [超级漂亮的一个高亮功能提醒效果](https://github.com/KeepSafe/TapTargetView)
-    * [如何做出一个类似 QQ 未读消息的粘性组件](https://github.com/smartbetter/AndroidGooView)
 * Badge
     * [为你的应用程序加上数字角标](https://github.com/leolin310148/ShortcutBadger)
     * [最简单的BadgeView，一句代码就搞定](https://github.com/AlexLiuSheng/BadgeView)
@@ -549,6 +548,10 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一系列可绘制的 Badge](https://github.com/nekocode/Badge)
     * [Badge 风格的 TextView，支持 Shadow 和 Elevation](https://github.com/matrixxun/MaterialBadgeTextView)
     * [自由定制外观、拖拽消除的MaterialDesign风格Android BadgeView](https://github.com/qstumn/BadgeView)
+    * [仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”](https://github.com/Qiaoidea/QQTipsView)
+    * [超级漂亮的一个高亮功能提醒效果](https://github.com/KeepSafe/TapTargetView)
+    * [如何做出一个类似 QQ 未读消息的粘性组件](https://github.com/smartbetter/AndroidGooView)
+    * [QQ 未读气泡拖拽组件，轻松集成](https://github.com/javonleee/DragPointView)
 * Gallery
     * [让图像呈现gallery显示效果](https://github.com/lawloretienne/ImageGallery) 
     * [Andorid 3D展示Gllery控件](https://github.com/moondroid/CoverFlow)
@@ -647,6 +650,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [支持多个方向滑动的 View，类似 Calendar 里的 UI 效果，类似表格](https://github.com/Kelin-Hong/ScrollablePanel)
     * [可固定头部的表格控件](https://github.com/InQBarna/TableFixHeaders) 
     * [一个使用RecyclerView实现的表格](https://github.com/zhouchaoyuan/excelPanel)
+    * [利用 TableLayout 实现的 CSV 文件加载和预览，可缩放拖动浏览](https://github.com/Cleveroad/AdaptiveTableLayout) 
 * FloatView 
     * [悬浮窗权限兼容库 ](https://github.com/czy1121/overlaypermission)
     * [窗口权限方案](https://github.com/bunnyblue/AndroidPopWinPermission) 
@@ -675,6 +679,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [可自定义动画的卡片切换视图](https://github.com/BakerJQ/Android-InfiniteCards)
     * [仿TinderStack堆叠卡片浏览](https://github.com/lawloretienne/TinderStack)
     * [Android 信用卡交易效果 UI](https://github.com/KingsMentor/Luhn)
+    * [Android 层叠卡片控件，仿"探探app"](https://github.com/fashare2015/StackLayout)
 * 刮刮卡/优惠券
     * [雾化擦除效果，可以做出来一些好玩儿的交互效果，比如：猜谜竞猜，低价销售展示，广告展示等等](https://github.com/dynamitechetan/FogView_Library)
     * [刮刮卡效果](https://github.com/jackpocket/android_scratchoff)
@@ -915,6 +920,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [高仿微信视频录制,涂鸦水印添加, 基于ffmpeg视频编辑](https://github.com/Zhaoss/WeiXinRecordedDemo)
     * [视频拍摄，支持横屏拍摄效果与竖屏拍摄效果，闪光灯，切换前后摄像头](https://github.com/CarGuo/VideoRecord)
     * [ExoPlayer基于OpenGL实现的滤镜效果](https://github.com/MasayukiSuda/ExoPlayerFilter)
+    * [PLDroidShortVideo 是七牛推出的一款适用于 Android 平台的短视频 SDK](https://github.com/pili-engineering/PLDroidShortVideo)
 * Audio
     * [Android声音录制和播放封装库](https://github.com/Piasy/RxAndroidAudio)
     * [安卓音频录制，UI很漂亮 ](https://github.com/adrielcafe/AndroidAudioRecorder)
@@ -1033,6 +1039,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [又一款 MD 风格的 Android 文件选择器组件，支持文件分类选取，交互不错](https://github.com/DroidNinja/Android-FilePicker)
     * [一款轻量级的文件选择器，支持多种文件类型](https://github.com/fishwjy/MultiType-FilePicker)
     * [效果超赞的文件选择器](https://github.com/codekidX/storage-chooser) 
+    * [Android 简洁优雅的文件选择器](https://github.com/FirzenYogesh/FileListerDialog)
 * VR/AR
     * [AR 开发者必备资源汇总](https://github.com/GeekLiB/AR-Source)
     * [VR 开发者必备资源汇总](https://github.com/GeekLiB/Lee-VR-Source)
