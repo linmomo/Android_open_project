@@ -112,6 +112,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [EditText 实现 Tag 输入和快速选择功能](https://github.com/OfficialAmal/ChipLayout)
     * [让 TextView PlaceHolder （Hint）文本带有切换过度效果，在显示多个热门搜索的时候可以用得到](https://github.com/cctanfujun/HintAnim-EditText)
     * [漂亮的波纹展开式搜索效果](https://github.com/didixyy/BilibiliSearchView)
+    * [一款实现的很漂亮的卡片式搜索效果](https://github.com/limuyang2/CardSearchView)
 * Button
     * [一个Button分成两部分效果](https://github.com/yankai-victor/RingButton) 
     * [连续组合点击](https://github.com/brucetoo/ComboView)
@@ -311,6 +312,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [类似 Facebook 加载时，条目的闪烁效果，酷酷的](https://github.com/sharish/ShimmerRecyclerView)
     * [基于 RecyclerView 实现的横向滑动组件，超级漂亮和实用](https://github.com/yarolegovich/DiscreteScrollView) 
     * [RecyclerView Snap 边缘停止效果，可嵌套横向滚动](https://github.com/rubensousa/RecyclerViewSnap)
+    * [RecyclerView横向卡片浏览](https://github.com/TakuSemba/MultiSnapRecyclerView)
     * [支持轮盘，垂直，水平与无限滚动的RecyclerView ](https://github.com/kHRYSTAL/CircleRecyclerView)
     * [类ios顶级状态栏返回列表顶部](https://github.com/kmshack/Android-TopScrollHelper)
     * [视差效果的 Item 滑动变大](https://github.com/iielse/RetailMeNotList)
@@ -473,6 +475,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [简洁优雅的网络状态提示](https://github.com/iammert/StatusView)
 * FlowLayout/TagView
     * [自定义TagView，并且可拖拽](https://github.com/whilu/AndroidTagView)
+    * [自定义ViewGroup,实现多功能流式布局与网格布局](https://github.com/LRH1993/AutoFlowLayout)
     * [Android流式布局，支持单选、多选等，适合用于产品标签等](https://github.com/hongyangAndroid/FlowLayout)
     * [又一个标签布局](https://github.com/lankton/android-flowlayout)
     * [支持 SingleLine 模式的标签云效果，轻松实现知乎问题话题列表](https://github.com/kingideayou/TagCloudView)
@@ -539,6 +542,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [基于相对位置实现弹出 PopupWindow](https://github.com/kakajika/RelativePopupWindow)
     * [带箭头的TipVIew](https://github.com/cpiz/BubbleView/blob/master/README_CN.md)
     * [带各种特效提示框，可调整提示位置 ](https://github.com/douglasjunior/android-simple-tooltip)
+    * [PopupWindow Wrapper 对 PopupWindow 的封装](https://github.com/zyyoona7/EasyPopup)
 * Badge
     * [为你的应用程序加上数字角标](https://github.com/leolin310148/ShortcutBadger)
     * [最简单的BadgeView，一句代码就搞定](https://github.com/AlexLiuSheng/BadgeView)
@@ -561,6 +565,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [展示不同大小图片特殊的瀑布流](https://github.com/CarGuo/ImageGalleryOptimize)
 * TimeLineView/StepView
     * [时间线View](https://github.com/alorma/TimelineView)
+    * [Material Design时间线，步骤控件](https://github.com/fython/MaterialStepperView)
     * [一个RecyclerView实现的时间轴](https://github.com/ishratkhan/NestedTimeLineRecyclerView)
     * [时间线View](https://github.com/vipulasri/Timeline-View)
     * [流程指示器](https://github.com/baoyachi/StepView)
@@ -615,6 +620,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android 运行时主题切换小工具库](https://github.com/garretyoder/Colorful)
     * [Android 切换皮肤方案，轻松实现](https://github.com/ximsfei/Android-skin-support)
     * [RxJava 实现的主题切换引擎！](https://github.com/afollestad/aesthetic) 
+    * [基于 Android-Skin-Loader的一个换肤项目](https://github.com/burgessjp/ThemeSkinning)
 * Shop
     * [android仿京东、淘宝商品详情页上拉查看详情](https://github.com/ysnows/DoubleScrollVIew) 
     * [仿照淘宝和聚美优品，在商品详情页，向上拖动时，可以加载下一页](https://github.com/xmuSistone/android-vertical-slide-view)
@@ -635,6 +641,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果](https://github.com/yanbober/AvatarLabelView)
     * [仿小红书图片标签](https://github.com/shellljx/TagViewGroup) 
 * 图表
+    * [最知名的图标控件](https://github.com/PhilJay/MPAndroidChart) 
+    * [一个很棒图表控件，4.0以上更好](https://github.com/lecho/hellocharts-android)
+    * [最低兼容Android 4.0，能够优雅直观的效果来为用户展示可视化数据。](https://github.com/diogobernardino/WilliamChart)
     * [SmallChart图表库](https://github.com/Idtk/SmallChart)
     * [一个视觉效果还不错的图表控件](https://github.com/mychoices/Jgraph)
     * [Android上的一个蛛网评分控件](https://github.com/xiaopansky/SpiderWebScoreView)
@@ -895,6 +904,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [基于RxJava打造的多线程下载工具, 支持断点续传下载管理等](https://github.com/ssseasonnn/RxDownload)
     * [处理异步下载的库](https://github.com/wangdanlizhiyun/lib_download)
     * [强大的 Android 下载上传组件](https://github.com/AriaLyy/Aria)
+    * [Java 实现的 DHT 协议，其实就是 BitTorrent，轻松在 Android 上实现一个 P2P 下载了](https://github.com/atomashpolskiy/bt)
 * Video
     * [一个适用于 Android 平台的音视频播放器 SDK，可高度定制化和二次开发，为 Android 开发者提供了简单、快捷的接口，帮助开发者在 Android 平台上快速开发播放器应用。](https://github.com/pili-engineering/PLDroidPlayer)
     * [基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装。 是一个适用于 Android 的 RTMP 直播推流 SDK，可高度定制化和二次开发](https://github.com/jjdxmashl/jjdxm_ijkplayer/)
@@ -1044,6 +1054,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [AR 开发者必备资源汇总](https://github.com/GeekLiB/AR-Source)
     * [VR 开发者必备资源汇总](https://github.com/GeekLiB/Lee-VR-Source)
     * [VR Android](https://github.com/babysource/VRDroid) 
+    * [从零开始打造一个VR视频播放器](https://github.com/wheat7/VRPlayer)
 * Sensor
     * [Android 晃动检测小工具](https://github.com/safetysystemtechnology/android-shake-detector)
 * Map
