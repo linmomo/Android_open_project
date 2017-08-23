@@ -107,6 +107,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [类似微博标签的文本控件](https://github.com/limedroid/TagEditText)
     * [拥有更好效果的 LineHeightEditText](https://github.com/hanks-zyh/LineHeightEditText)
     * [效果很棒的一款 Float Text Placeholder 效果组件](https://github.com/rafakob/FloatingEditText) 
+    * [支持格式自动识别和展示的 EditBox](https://github.com/santalu/mask-edittext)
 * SeachView
     * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView) 
     * [EditText 实现 Tag 输入和快速选择功能](https://github.com/OfficialAmal/ChipLayout)
@@ -161,6 +162,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [这是一个切割时间的表盘](https://github.com/DuanTzXavier/conciseclock)
     * [自定义View之渐变圆环进度条](https://github.com/Blankj/ProgressRing)
     * [一些模仿google的ProgressBar](https://github.com/jpardogo/GoogleProgressBar)
+    * [仿淘宝 淘抢购进度条](https://github.com/zhlucky/SaleProgressView)
 * SeekBar
     * [Range Seekbar](https://github.com/dolphinwang/RangeSeekbar)
     * [ 一款漂亮美观的支持双向范围选择和普通SeekBar模式的SeekBar，支持刻度、负数以及多种强大的自定义属性](https://github.com/Jay-Goo/RangeSeekBar/blob/master/README_ZH.md)
@@ -244,6 +246,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [水平的角度选择器滑轮](https://github.com/shchurov/HorizontalWheelView)
     * [横向滚动的、可以支持大量文本选择的自定义View ](https://github.com/385841539/HorizontalScrollSelectedView)
     * [自定义NumberPickerView](https://github.com/Carbs0126/NumberPickerView)
+    * [citypicker 高仿iOS 滚轮实现 省市区 城市选择三级联动](https://github.com/crazyandcoder/citypicker)
 * Menu
     * [环形菜单控件](https://github.com/sungerk/CircularMenu)
     * [漂亮的 Android 圆形菜单](https://github.com/ImangazalievM/CircleMenu)
@@ -273,6 +276,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [自定义底部dialog](https://github.com/rebus007/BottomDialog)
     * [底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView](https://github.com/kingideayou/SlideBottomPanel)
     * [一个好看的 Dialog](https://github.com/geniusforapp/fancyDialog) 
+    * [变化过度效果的 Dialog Box，动画效果很棒](https://github.com/AdityaAnand1/Morphing-Material-Dialogs)
 * SeachView/Spinner
     * [位置搜索智能提示框，利用了 GoogleApi，想要用到国内的话，可以对接一个国内的地图服务](https://github.com/codemybrainsout/PlaceSearchDialog)
     * [一款可定制的搜索对话框](https://github.com/mirrajabi/search-dialog)
@@ -535,7 +539,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android手势监听](https://github.com/pwittchen/swipe)
     * [手势驱动的动画效果过程展示](https://github.com/russelarms/OffsetAnimator)
     * [手势滑动返回的Fragment](https://github.com/YoKeyword/SwipeBackFragment) 
-* TipView/
+* TipView/PoupView
     * [给布局添加提示](https://github.com/tomergoldst/tooltips)
     * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
     * [Android View Tooltips，目前来看做的最漂亮的](https://github.com/florent37/ViewTooltip)
@@ -572,6 +576,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [带有动态效果的表单引导进度条](https://github.com/VictorAlbertos/BreadcrumbsView)
     * [Android 实现步骤管理的组件](https://github.com/stepstone-tech/android-material-stepper)
     * [一个展示注册进度的ProgressBar](https://github.com/jiang111/ProgressView)
+    * [Material Design 的一款表示行为步骤组件，很精致](https://github.com/fython/MaterialStepperView)
+    * [瀑布流时间轴](https://github.com/vivian8725118/TimeLine/blob/master/README_CHINESE.md)
 * Indicator
     * [各种各样的PageIndicator样式](https://github.com/H07000223/FlycoPageIndicator)
     * [一些 indicator样式](https://github.com/ongakuer/CircleIndicator) 
@@ -609,6 +615,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [支持引导路径高亮的方案](https://github.com/TakuSemba/Spotlight)
 * Theme
     * [日夜间模式切换](https://github.com/zzz40500/ThemeDemo)
+    * [Android主题切换（Theme）实现日夜间功能](http://www.jianshu.com/p/0cd03c878def)
     * [基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式](https://github.com/bboyfeiyu/Colorful)
     * [知乎和简书的Android客户端夜间模式实现方式](http://blog.coderclock.com/2016/08/28/android/%E7%9F%A5%E4%B9%8E%E5%92%8C%E7%AE%80%E4%B9%A6%E7%9A%84%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F%E5%AE%9E%E7%8E%B0%E5%A5%97%E8%B7%AF/)
     * [动态加载本地皮肤包进行换肤的皮肤框架 ](https://github.com/fengjundev/Android-Skin-Loader)
@@ -689,6 +696,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [仿TinderStack堆叠卡片浏览](https://github.com/lawloretienne/TinderStack)
     * [Android 信用卡交易效果 UI](https://github.com/KingsMentor/Luhn)
     * [Android 层叠卡片控件，仿"探探app"](https://github.com/fashare2015/StackLayout)
+    * [仿探探喜欢卡片浏览](https://github.com/yuyakaido/CardStackView)
 * 刮刮卡/优惠券
     * [雾化擦除效果，可以做出来一些好玩儿的交互效果，比如：猜谜竞猜，低价销售展示，广告展示等等](https://github.com/dynamitechetan/FogView_Library)
     * [刮刮卡效果](https://github.com/jackpocket/android_scratchoff)
@@ -744,7 +752,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [实现 Google 风格的上下箭头动态效果](https://github.com/zagum/Android-ExpandIcon) 
     * [在 Android 上，实现沃漂亮的罗诺伊图(多view不规则组合成一个)](https://github.com/Quatja/Vorolay)
     * [显示GPS定位状态和信号强度的控件，实时刷新，使用方便，可定制，适合运动类及出行类APP](https://github.com/hzw1199/AndroidGpsStatus/blob/master/READMEcn.md) 
-     * [App 备份和恢复，做的很完整](https://github.com/samanyougarg/ABR-App-Backup-Restore)
+    * [App 备份和恢复，做的很完整](https://github.com/samanyougarg/ABR-App-Backup-Restore)
+    * [一款支持复数运算等功能的计算器](https://github.com/HK-SHAO/DarkCalculator)
    
    
 ## **自定义控相关链接**
@@ -833,6 +842,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [安卓指纹识别API封装！集成了安卓官方API！三星指纹API！魅族指纹API！一键集成！](https://github.com/uccmawei/FingerprintIdentify?t=1)
     * [一款开源指纹识别工具](https://github.com/Ms0x0/Dayu)
     * [目前来看，用起来最简洁的指纹管理工具](https://github.com/JesusM/FingerprintManager)
+    * [腾讯开源, 在Android设备上实现可信的指纹认证](https://github.com/Tencent/soter)
 * ImageCompress
     * [Luban可能是最接近微信朋友圈的图片压缩算法](https://github.com/Curzibn/Luban) 
     * [超实用的 Android 图片压缩工具](https://github.com/zetbaitsu/Compressor)
@@ -921,6 +931,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，可全屏切换 ](https://github.com/w1123440793/VideoListDemo)
     * [一种在播放视频时，能够拖拽的方案](https://github.com/hejunlin2013/DragVideo)
     * [从视频网站播放视频的媒体播放器](https://github.com/TedaLIEz/ParsingPlayer)
+    * [利用FFmpeg视频录制微信小视频与其压缩处理](https://github.com/mabeijianxi/small-video-record)
 * VideoEdit
     * [仿微信小视频录制，基于GitHub上的javacv](https://github.com/szitguy/RecordVideoDemo)
     * [视频录制 视频压缩（使用FFMpeg）](https://github.com/chenzhihui28/VideoRecorderAndCompressor)
@@ -962,6 +973,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一个 TV app 的直播节目实例，包含各央视频道及卫视频道](https://github.com/hejunlin2013/LivePlayback)
     * [tv常用效果控件，包括焦点、边框处理等。](https://github.com/evilbinary/TvWidget)
     * [这是一个TV 桌面，包含了一个Leanback 桌面](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/README-CN.md)
+    * [TV 项目常用工具(焦点问题，适配问题等.)](https://github.com/genius158/TVProjectUtils)
 * Share/Login
     * [第三方登录分享组件封装](https://github.com/tianzhijiexian/ShareLoginLib/)
     * [社交分享组件](https://github.com/maoruibin/ChinaShare)
@@ -997,6 +1009,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Small，做最轻巧的跨平台插件化框架](https://github.com/wequick/Small)
     * [Android插件框架，免安装运行插件APK ，支持独立插件和非独立插件](https://github.com/limpoxe/Android-Plugin-Framework)
     * [TurboDex: 在Android瞬间加载Dex](https://github.com/asLody/TurboDex/blob/master/CHINESE.md)
+    * [灵活的Class替换插件](https://github.com/dinuscxj/ClassPlugin/blob/master/README-zh.md)
 * SharePreferences
     * [一个Android平台上基于SharePreferences的偏好存储库](https://github.com/baoyongzhang/Treasure)
     * [一个简单使用的SharePreferences](https://github.com/soarcn/Favor)
@@ -1018,7 +1031,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [生成二维码和从图片解析二维码库](https://github.com/RurioLuca/QrCardParsing)
     * [将生成的二维码与选择的图片合成，生成的新二维码](https://github.com/scola/Qart)
     * [Android 二维码扫描工具库](https://github.com/KingsMentor/MobileVisionBarcodeScanner)
-    * [六种二维码生成的样式](https://github.com/vivian8725118/ZXingDemo/) 
+    * [六种二维码生成的样式](https://github.com/vivian8725118/ZXingDemo/)
     * [二维码扫描的封装库](https://github.com/XuDaojie/QRCode-Android)
     * [长按扫描WebView上的二维码工具。类似微信文章中的长按扫描](https://github.com/BolexLiu/PressScanCode)
 * Bluetooth
@@ -1033,6 +1046,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [安卓富文本编辑器](https://github.com/mr5/icarus-android)
     * [EditText富文本编辑器](https://github.com/chen-xiao-dong/RichEditText)
   * [一个利用RxJava在TextView和EditText上渲染的markdown解析器，支持大部分语法以及部分语法在EditText上实时预览](https://github.com/yydcdut/RxMarkdown/blob/master/README-zh-rCN.md)
+  * [一个富文本编辑器](https://github.com/Even201314/MRichEditor)
   * [Android Markdown 解析库，做的很棒，很有用](https://github.com/tiagohm/MarkdownView)
 * 崩溃/信息收集
     * [崩溃日志上传框架](https://github.com/wenmingvs/LogReport) 
@@ -1048,8 +1062,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android 文件选择工具库](https://github.com/Angads25/android-filepicker)
     * [又一款 MD 风格的 Android 文件选择器组件，支持文件分类选取，交互不错](https://github.com/DroidNinja/Android-FilePicker)
     * [一款轻量级的文件选择器，支持多种文件类型](https://github.com/fishwjy/MultiType-FilePicker)
-    * [效果超赞的文件选择器](https://github.com/codekidX/storage-chooser) 
+    * [效果超赞的文件选择器](https://github.com/codekidX/storage-chooser)
     * [Android 简洁优雅的文件选择器](https://github.com/FirzenYogesh/FileListerDialog)
+    * [自定义打开指定文件的应用选择器](https://github.com/JulianAndroid/AppChooser)
 * VR/AR
     * [AR 开发者必备资源汇总](https://github.com/GeekLiB/AR-Source)
     * [VR 开发者必备资源汇总](https://github.com/GeekLiB/Lee-VR-Source)
@@ -1171,6 +1186,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [沙漠风情动画](https://github.com/JetradarMobile/desertplaceholder)
     * [苹果音乐动画](https://github.com/rahulrj/Apple-Music-Animation)
     * [可以落雪花，还可以落汉堡包的飘落效果](https://github.com/DingMouRen/FallingView)
+    * [PlayPauseView：让播放、暂停按钮优雅的过渡](https://github.com/Lauzy/PlayPauseView)
 
 ## **源码系列**
 * [android sdk 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
@@ -1186,3 +1202,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [英文版Android开源UI框架分类](https://github.com/wasabeef/awesome-android-ui)
   * [Android开源UI框架分类](https://github.com/yeungeek/awesome-android-ui)
   * [一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档](https://github.com/CameloeAnthony/Perfect_IM_SNS)
+
+## **后台**
+  * [基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块](https://github.com/shuzheng/zheng)
+  
