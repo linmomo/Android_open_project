@@ -76,6 +76,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [目前来看，Android 上最好看的控件阴影实现](https://github.com/harjot-oberai/MaterialShadows)
     * [仿微博带自定义身份标识和进度条的圆形头像](https://github.com/385841539/IdentityImageView)
     * [多种图片样式 UI 组合，很适合做头像相关的功能](https://github.com/stfalcon-studio/MultiImageView)
+    * [支持持续性滑动动画的图片组件，用来做背景效果 应该不错](https://github.com/Cutta/ContinuousScrollableImageView)
 * ImageView浏览
     * [图片显示过渡动画效果](https://github.com/danylovolokh/ImageTransition)
     * [对 ImageView 实现了全屏浏览效果，同时支持了图片缩放效果，和滑动消失效果](https://github.com/stfalcon-studio/FrescoImageViewer)
@@ -225,6 +226,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [可进行 UI 定制的日历组件，轻松完成签到日历功能](https://github.com/shichaohui/EasyCalendar) 
     * [MD 风格的日历组件](https://github.com/Applandeo/Material-Calendar-View)
     * [自定义日历控件 支持左右无限滑动 周月切换 标记日期显示 自定义显示效果跳转到指定日期](https://github.com/MagicMashRoom/SuperCalendar)
+    * [Android 周日历视图组件,可以标记事件](https://github.com/alamkanak/Android-Week-View)
 * PickView
     * [安卓选择器类，包括各种类型的选择器，可自定义顶部及底部界面，可自定义窗口动画](https://github.com/gzu-liyujiang/AndroidPicker)
     * [日期选择控件](https://github.com/flavienlaurent/datetimepicker) 
@@ -338,6 +340,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一个设置RecyclerView间隔线的库](https://github.com/karumi/dividers)
     * [Recyclerview间隔线](https://github.com/dinuscxj/RecyclerItemDecoration)
     * [RecyclerView粘性标签库](https://github.com/oubowu/PinnedSectionItemDecoration)
+    * [一个提供吸顶效果的ItemDecoration](https://github.com/boboyuwu/PinnedHeaderItemDecoration)
 * RecyclerViewIteamTouch
     * [RecyclerView已读侧滑删除](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe)
     * [带点击和滑动删除的recyclerview ](https://github.com/nikhilpanju/RecyclerViewEnhanced) 
@@ -596,6 +599,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [圆形Progress的TickTock计时器](https://github.com/BCGDV-ASIA/android-widget-ticktock)
     * [漂亮的数字转化视图](https://github.com/me-abhinav/NumberMorphView)
     * [一个解耦良好的计时控件，可自由扩展。](https://github.com/fashare2015/TimerView)
+    * [仿魅族BannerView,图片轮播控件,支持多种模式切换](https://github.com/pinguo-zhouwei/MZBannerView)
 * Guide
     * [带你重新认识：Android Splash页秒开 Activity白屏 Activity黑屏](http://blog.csdn.net/yanzhenjie1003/article/details/52201896)
     * [Android App新手指引开源控件](http://blog.coderclock.com/2017/05/22/android/open-source-android-app-guide-view-library/)
@@ -776,6 +780,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android Java / Kotlin 程序员开发调试工具](https://github.com/kiruto/debug-bottle/blob/1.0.1/README-ZH.md)
     * [android免root兼容所有版本ui调试工具](https://github.com/android-notes/SwissArmyKnife)
     * [一行代码即可监听 App 中所有网络链接的上传以及下载进度,包括 Glide 的图片加载进度](https://github.com/JessYanCoding/ProgressManager/blob/master/README-zh.md)
+    * [类似 Stetho 的 Layout 资源视察工具](https://github.com/nekocode/ResourceInspector#)
 * Router
     * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
     * [一款简单的Android端用于Activity跳转的路由框架](https://github.com/yjfnypeu/Router)
@@ -1004,6 +1009,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [H5唤起原生APP](https://github.com/jingle1267/AndroidSchemeDemo)
     * [Android 轻量级 DeepLink 解决方案](https://github.com/HongJun2046/OkDeepLink)
     * [基于 Webview 实现的 Youtube Player](https://github.com/agusibrahim/YuuPlayer)
+    * [AgentWeb 是基于 Android WebView 一个轻量级浏览器库](https://github.com/Justson/AgentWeb)
+    * [腾讯开源 H5 加速加载方案](https://github.com/Tencent/VasSonic)
 * 插件化/Hybrid
     * [最接近原生APP体验的高性能框架](https://github.com/dcloudio/mui)
     * [Small，做最轻巧的跨平台插件化框架](https://github.com/wequick/Small)
@@ -1015,7 +1022,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一个简单使用的SharePreferences](https://github.com/soarcn/Favor)
     * [利用 KeyStore 存储密码，加密 SharedPreference 的数据，保证安全性](https://github.com/iamMehedi/Secured-Preference-Store)
     * [AES-256加密的SharedPreferences](https://github.com/PDDStudio/EncryptedPreferences)
-    * [多进程安全的SharedPreferences](https://github.com/grandcentrix/tray) 
+    * [多进程安全的SharedPreferences](https://github.com/grandcentrix/tray) 
 * ORM/SQLite
     * [一个基于KV储存的SQLite](https://github.com/lusfold/AndroidKeyValueStore)
     * [轻量级 Android Nosql 方案，简单的 App 用这个完全够了](https://github.com/florent37/Android-NoSql)
@@ -1046,7 +1053,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [安卓富文本编辑器](https://github.com/mr5/icarus-android)
     * [EditText富文本编辑器](https://github.com/chen-xiao-dong/RichEditText)
   * [一个利用RxJava在TextView和EditText上渲染的markdown解析器，支持大部分语法以及部分语法在EditText上实时预览](https://github.com/yydcdut/RxMarkdown/blob/master/README-zh-rCN.md)
-  * [一个富文本编辑器](https://github.com/Even201314/MRichEditor)
+  * [Android 富文本编辑器（UI仿WPS）](https://github.com/Even201314/MRichEditor)
   * [Android Markdown 解析库，做的很棒，很有用](https://github.com/tiagohm/MarkdownView)
 * 崩溃/信息收集
     * [崩溃日志上传框架](https://github.com/wenmingvs/LogReport) 
@@ -1077,6 +1084,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Google Map 易用性封装，支持切换主题，ListView 展示等小功能](https://github.com/bkhezry/ExtraMapUtils) 
     * [支持自定义主题的 Google Map 工具类](https://github.com/jineshfrancs/ThemedGoogleMap)
     * [显示雷达和谷歌地图上的圆形涟漪效应](https://github.com/aarsy/GoogleMapsAnimations)
+    * [Android 地理位置追踪器](https://github.com/frankodoom/MotionVehicleTracker)
 * Launcher Shortcut
     * [动态更新 Android launcher App Icon](https://github.com/myinnos/AppIconNameChanger)
     * [一个创建快捷方式的简单库](https://github.com/xuyisheng/ShortcutHelper)
@@ -1099,7 +1107,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android上一个简单轻量的游戏引擎](https://github.com/lfkdsk/JustWeEngine)
     * [Android 缓存库，融合了DiskLruCache和ASimpleCache.](https://github.com/hongyangAndroid/base-diskcache)
     * [android控件自动化埋点](https://github.com/wobuaihuangjun/EventCollection)
-    * [一个强大的selector注入器 ](https://github.com/tianzhijiexian/SelectorInjection)  
+    * [一个强大的selector注入器 ](https://github.com/tianzhijiexian/SelectorInjection)
+    * [Wifi扫描和连接](https://github.com/BirdGuo/WifiConnHelper)
    
 ## **Animations**
  * 动画合集库
