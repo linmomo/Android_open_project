@@ -109,6 +109,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [拥有更好效果的 LineHeightEditText](https://github.com/hanks-zyh/LineHeightEditText)
     * [效果很棒的一款 Float Text Placeholder 效果组件](https://github.com/rafakob/FloatingEditText) 
     * [支持格式自动识别和展示的 EditBox](https://github.com/santalu/mask-edittext)
+    * [Box 效果的 EditText，很漂亮哦](https://github.com/HITGIF/TextFieldBoxes)
 * SeachView
     * [Materia风格的searchview](https://github.com/TakeoffAndroid/MaterialDialogSearchView) 
     * [EditText 实现 Tag 输入和快速选择功能](https://github.com/OfficialAmal/ChipLayout)
@@ -341,6 +342,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Recyclerview间隔线](https://github.com/dinuscxj/RecyclerItemDecoration)
     * [RecyclerView粘性标签库](https://github.com/oubowu/PinnedSectionItemDecoration)
     * [一个提供吸顶效果的ItemDecoration](https://github.com/boboyuwu/PinnedHeaderItemDecoration)
+    * [安卓版本的VegaScroll](https://github.com/xmuSistone/VegaLayoutManager)
 * RecyclerViewIteamTouch
     * [RecyclerView已读侧滑删除](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe)
     * [带点击和滑动删除的recyclerview ](https://github.com/nikhilpanju/RecyclerViewEnhanced) 
@@ -425,6 +427,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android Dropdown 风格的 Alert 窗体](https://github.com/Tapadoo/Alerter)
     * [掉落通知效果](https://github.com/Brudigem/DropDownWarning)
     * [一个ToastBar, 可以像Snackbar一样attach到viewgroup里面或者像Toast一样的overlay，支持Top/Bottom两种模式](https://github.com/SwiftyWang/ToastBar)
+* CardView
+    * [灵活的ShadowView，可替代CardView使用](https://github.com/loopeer/shadow) 
 
 ## **Material Design控件库**
 * [一个兼容android 2.2material design组件库](https://github.com/navasmdc/MaterialDesignLibrary)
@@ -537,11 +541,12 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android 边缘侧滑效果，支持多种场景下的侧滑退出](https://github.com/GeeJoe/EdgeSlidingBack)
     * [高仿微信视差手势滑动返回，无需设置透明主题](https://github.com/oubowu/SlideBack)
     * [修改 support-v4 包中 SlidingPaneLayout 的源码来实现滑动返回布局](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
+    * [一个滑动关闭Activity的组件，可以设置上下左右滑动关闭](https://github.com/gongwen/SwipeBackLayout/blob/master/README-CN.md)
+    * [手势滑动返回的Fragment](https://github.com/YoKeyword/SwipeBackFragment) 
     * [一款功能强大的滑动库，目前支持dialogfragment，activity，卡片，listView，RecyclerView，GridView等的滑动。](https://github.com/CameloeAnthony/UltimateSwipeTool)
     * [一款精美强大的识别手势类库 ](https://github.com/nisrulz/sensey)
     * [Android手势监听](https://github.com/pwittchen/swipe)
     * [手势驱动的动画效果过程展示](https://github.com/russelarms/OffsetAnimator)
-    * [手势滑动返回的Fragment](https://github.com/YoKeyword/SwipeBackFragment) 
 * TipView/PoupView
     * [给布局添加提示](https://github.com/tomergoldst/tooltips)
     * [一个用于view旁显示TipView，类似popwindow](https://github.com/venmo/tooltip-view) 
@@ -764,6 +769,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
 * [自定义View教程](https://github.com/Idtk/Blog/tree/master/Blog)
 * [Android自定义View，包含炫酷 进度条，提交效果，支付密码等](https://github.com/lygttpod/AndroidCustomView)
+* [腾讯团队开源的提高 Android UI 开发效率的 UI 库](https://github.com/QMUI/QMUI_Android)
  
 ## **三方工具**
 
@@ -781,6 +787,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [android免root兼容所有版本ui调试工具](https://github.com/android-notes/SwissArmyKnife)
     * [一行代码即可监听 App 中所有网络链接的上传以及下载进度,包括 Glide 的图片加载进度](https://github.com/JessYanCoding/ProgressManager/blob/master/README-zh.md)
     * [类似 Stetho 的 Layout 资源视察工具](https://github.com/nekocode/ResourceInspector#)
+    * [Gradle 插件，做自动测试过程中的截屏](https://github.com/Karumi/Shot)
 * Router
     * [通过更简洁的方式启动 Activity、Service、Broadcast 等](https://github.com/Sausure/SmartGo)
     * [一款简单的Android端用于Activity跳转的路由框架](https://github.com/yjfnypeu/Router)
@@ -790,6 +797,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一款小而美的路由框架。网页动态添加自定义参数启动应用](https://github.com/Jomes/routerSDK) 
     * [Android跳转路由](https://github.com/mzule/ActivityRouter)
     * [一个Android路由框架，学习实践](https://github.com/campusappcn/AndRouter)
+    * [Floo 开源了，一个支持 AOP、栈控制、跨页面带信、和动态变更映射的 URL 路由 ](https://github.com/drakeet/Floo)
 * NetWork
     * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo) 
     * [hongyang-okhttp的辅助类](https://github.com/hongyangAndroid/okhttp-utils)
@@ -862,6 +870,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [简洁的图片裁剪小裤子](https://github.com/ekimual/croperino)
     * [精美自定义图片裁剪库](https://github.com/steelkiwi/cropiwa)
     * [MD风格的图片裁剪工具，可一次裁剪多张，支持国际化](https://github.com/yanzhenjie/Durban)
+    * [智能图片裁剪框架,适用于身份证，名片，文档等照片的裁剪。](https://github.com/pqpo/SmartCropper)
 * PhotoFilters
     * [包含美颜等40余种实时滤镜相机，可拍照、录像、图片修改](https://github.com/wuhaoyu1990/MagicCamera)
     * [滤镜SDK](https://github.com/Zomato/AndroidPhotoFilters)
@@ -912,6 +921,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [拍照时之拍预览界面指定区域的照片](https://github.com/CGmaybe10/FocusSurfaceView)
     * [一键测出你与照片中物体的距离](https://github.com/shixinzhang/DistanceMeasure)
     * [Android 有两套相机 Api, Foto 开源了他们在 Android 上的 Camera 封装 Api](https://github.com/Fotoapparat/Fotoapparat)
+    * [Android三种姿势带你玩转360度全景图功能](https://github.com/CN-ZPH/Three360panorama)
 * DownLoad
     * [一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你](https://github.com/majidgolshadi/Android-Download-Manager-Pro)
     * [Android 文件下载引擎，稳定、高效、简单易用](https://github.com/lingochamp/FileDownloader/blob/master/README-zh.md)
@@ -994,6 +1004,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [最轻量的支付宝转账工具类](https://github.com/fython/AlipayZeroSdk) 
 * PushService
     * [更方便的将各个rom厂商自己的推送服务进行集成,并统一管理](https://github.com/jiang111/AndroidPush)
+    * [在任何非 MIUI 设备上体验小米系统级推送](https://github.com/Trumeet/MiPushFramework)
 * App更新
     * [清晰灵活简单易用的应用更新库](https://github.com/czy1121/update)
     * [可任意定制的app更新组件。](https://github.com/yjfnypeu/UpdatePlugin)
@@ -1109,6 +1120,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [android控件自动化埋点](https://github.com/wobuaihuangjun/EventCollection)
     * [一个强大的selector注入器 ](https://github.com/tianzhijiexian/SelectorInjection)
     * [Wifi扫描和连接](https://github.com/BirdGuo/WifiConnHelper)
+    * [基于Tesseract-OCR实现自动扫描识别手机号](https://github.com/simplezhli/Tesseract-OCR-Scanner)
    
 ## **Animations**
  * 动画合集库
