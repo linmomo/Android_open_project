@@ -454,12 +454,16 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [layout中的进度条](https://github.com/iammert/ProgressLayout)
     * [自定义横向堆叠卡片效果Layout](https://github.com/xmuSistone/android-pile-layout)
     * [一个竖直方向的SlidingPanelLayout，支持加载多个Panel，可以灵活地实现漂亮的的交互效果,类似竖向卡片堆叠效果](https://github.com/woxingxiao/SlidingUpPanelLayout/blob/master/README_zh.md)  
+    * [可结合Behaviour使用的Android 展开型布局菜单](https://github.com/iammert/ScalingLayout)
+    * [Android通用圆角布局](https://github.com/GcsSloop/rclayout)
+    * [够长的 Shadow 效果](https://github.com/florent37/LongShadow)
 * AboutLayout/Preference
     * [Material Design 风格的 About 页面设计](https://github.com/daniel-stoneuk/material-about-library) 
     * [Material Design 风格的 About 页面](https://github.com/jrvansuita/MaterialAbout)
     * [Material Design 风格的 PreferenceFragment](https://github.com/XhinLiang/MDPreference)
     * [使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference](https://github.com/RikkaW/MaterialPreference)
     * [Preference 中经常会遇到选颜色的问题，这个自定义组件，就是帮你解决Color Preferece 的问题](https://github.com/kizitonwose/colorpreference)
+    * [about-page 2.0，全新的卡片风格，支持 Android DayNight，使用更加简单，API 更加丰富，新增「Android 应用友链」类型](https://github.com/android-links/about-page)
 * ExpandableLayout
     * [一种可根据展开是否超出屏幕来判断父控件是否自动滚动的ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout)
     * [可展开/隐藏子view的layout](https://github.com/AAkira/ExpandableLayout) 
@@ -798,6 +802,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android跳转路由](https://github.com/mzule/ActivityRouter)
     * [一个Android路由框架，学习实践](https://github.com/campusappcn/AndRouter)
     * [Floo 开源了，一个支持 AOP、栈控制、跨页面带信、和动态变更映射的 URL 路由 ](https://github.com/drakeet/Floo)
+* 组件化
+    * [一套完整有效的android组件化方案，支持组件的单独调试、集成调试、组件交互、UI跳转、动态加载卸载、组件完全隔离等功能](https://github.com/luojilab/DDComponentForAndroid)
 * NetWork
     * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo) 
     * [hongyang-okhttp的辅助类](https://github.com/hongyangAndroid/okhttp-utils)
@@ -808,6 +814,8 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Volley + RxJava + OkHttp](https://github.com/kymjs/RxVolley)
     * [Android App 内网络调试工具，超实用-Okhttp拦截器](https://github.com/jgilfelt/chuck)
     * [OkHttp Mock 数据调用，在做 Api 测试，写测试用例的时候会很有用哦](https://github.com/mirrajabi/okhttp-json-mock) 
+    * [Android Socket封装](https://github.com/vilyever/AndroidSocketClient)
+    * [轻量级 Android Socket 通信框架](https://github.com/xuuhaoo/OkSocket)
 * IM
     * [建立聊天视图](https://github.com/himanshu-soni/ChatMessageView)
     * [各种聊天气泡](https://github.com/MasayukiSuda/BubbleLayout)
@@ -816,7 +824,6 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [仿微信实现的朋友圈，模拟与后台交互实现了点赞、评论、删除等功能，listview可以根据键盘的显示或隐藏实现联动](https://github.com/Naoki2015/CircleDemo)
     * [一起来撸个朋友圈吧](https://github.com/razerdp/FriendCircle)
     * [websocket微信聊天不是事](https://github.com/TooTallNate/Java-WebSocket)
-    * [Android Socket封装](https://github.com/vilyever/AndroidSocketClient)
     * [Aurora IMUI，一个通用的即时通讯库。不局限于任何 IM SDK，现在已经支持 React Native](https://github.com/jpush/aurora-imui/blob/master/README_zh.md)
 * Keyboard/Emoji
     * [Android 上最便捷的第三方 Keyboard 集合](https://github.com/hoanganhtuan95ptit/AwesomeKeyboard) 
@@ -1121,6 +1128,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一个强大的selector注入器 ](https://github.com/tianzhijiexian/SelectorInjection)
     * [Wifi扫描和连接](https://github.com/BirdGuo/WifiConnHelper)
     * [基于Tesseract-OCR实现自动扫描识别手机号](https://github.com/simplezhli/Tesseract-OCR-Scanner)
+    * [Java 实现的自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 自动摘要 短语提取 拼音 简繁转换](https://github.com/hankcs/HanLP)
    
 ## **Animations**
  * 动画合集库
@@ -1223,6 +1231,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
   * [英文版Android开源UI框架分类](https://github.com/wasabeef/awesome-android-ui)
   * [Android开源UI框架分类](https://github.com/yeungeek/awesome-android-ui)
   * [一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档](https://github.com/CameloeAnthony/Perfect_IM_SNS)
+  * [Android百大框架排行榜](https://github.com/ShaunSheep/Android_100_TOP-Projects)
 
 ## **后台**
   * [基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块](https://github.com/shuzheng/zheng)
