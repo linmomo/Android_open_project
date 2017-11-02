@@ -21,6 +21,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [Android修改6.0系统文本选择菜单](http://www.jianshu.com/p/89970f098012)
     * [支持矢量图展示的 TextView，再也不用麻烦来麻烦去的布局这些了](https://github.com/AAkira/CompoundIconTextView)
     * [简单高效的实现Android App全局字体替换 ](http://www.jianshu.com/p/4e1e96fe6d26)
+    * [展开折叠功能的TextView](https://github.com/Manabu-GT/ExpandableTextView)
 * TextView富文本
     * [bili图文混排](https://github.com/Bilibili/drawee-text-view)
     * [支持Android图文混排、文字环绕图片等效果](https://github.com/hongyangAndroid/MixtureTextView) 
@@ -457,6 +458,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [可结合Behaviour使用的Android 展开型布局菜单](https://github.com/iammert/ScalingLayout)
     * [Android通用圆角布局](https://github.com/GcsSloop/rclayout)
     * [够长的 Shadow 效果](https://github.com/florent37/LongShadow)
+    * [可设定阴影颜色的shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)
 * AboutLayout/Preference
     * [Material Design 风格的 About 页面设计](https://github.com/daniel-stoneuk/material-about-library) 
     * [Material Design 风格的 About 页面](https://github.com/jrvansuita/MaterialAbout)
@@ -854,6 +856,7 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
     * [一行代码实现 Android 图片 Lowpoly 效果](https://github.com/CoXier/LowPoly)
     * [导入图片生成Low Poly风格图片的app](https://github.com/hugeterry/PloyFun)
     * [又一个LowPoly图片, 另外这个还可以让图片变成沙画](https://github.com/xyzxqs/XLowPoly)
+    * [LowPloy 风格的动画](https://github.com/nekocode/TriangulationDrawable#)
 * 指纹
     * [android指纹识别动画](https://github.com/mattprecious/swirl)
     * [自定义 Android 指纹识别快捷方式](https://github.com/ztc1997/Fingerprint2Sleep)
